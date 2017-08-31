@@ -18,7 +18,7 @@ permalink: /eventilocali/
     <div class="card horizontal">
       <div class="card-image">
 	    {% if event.locandina %}
-            <img style="height: 520px; object-fit: contain;" class="modal-trigger" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
+            <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
             <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/AISF_LOGO_nobkg.png">
         {% endif %}
@@ -65,7 +65,7 @@ permalink: /eventilocali/
     <div class="card horizontal">
       <div class="card-image">
 	    {% if event.locandina %}
-            <img style="height: 520px; object-fit: contain;" class="modal-trigger" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
+            <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
             <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/AISF_LOGO_nobkg.png">
         {% endif %}
