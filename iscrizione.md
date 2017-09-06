@@ -19,6 +19,13 @@ Per diventare membri AISF è necessario:
 		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/payment_form1.php">RINNOVO ISCRIZIONE</a>
         </div>
 </div>
+
+<ul class="collection">
+  <li class="collection-item">
+    Per gli iscritti dal 1 Luglio al 1 Ottobre, l'iscrizione sará valida fino al 30 Settembre dell'anno successivo (2018).
+  </li>
+</ul>
+
 <div class="row">
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
