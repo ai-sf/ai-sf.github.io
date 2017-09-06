@@ -22,7 +22,7 @@ Per diventare membri AISF è necessario:
 
 <ul class="collection">
   <li class="collection-item">
-    Per gli iscritti dal 1 Luglio al 1 Ottobre, l'iscrizione sará valida fino al 30 Settembre dell'anno successivo (2018).
+    Per gli iscritti dal 1 Luglio al 1 Ottobre, l'iscrizione sará valida fino al 30 Settembre dell'anno successivo.
   </li>
 </ul>
 
