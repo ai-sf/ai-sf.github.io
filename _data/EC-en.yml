@@ -40,6 +40,10 @@
       descr: " Appassionato di Fisica delle particelle e analisi dati, Mattia sta svolgendo la tesi di laurea triennale presso l’Università degli Studi di Torino, occupandosi di misure di sezioni d’urto di riferimento nell’esperimento ALICE. Tra i suoi interessi non accademici letteratura, grafica e design, comunicazione e divulgazione. È stato President del Comitato Locale di Torino."
       mail: "mattia.ivaldi"
   collaboratori:
+    - nome: "Andrea Barresi"
+      descr: "Andrea Barresi is currently attending his Masters in Astrophysics & Theoretical Physics at the University of Torino. He's been interested in astroparticle physics for a long time, specifically for what it concerns dark matter; he's also a convinced theoretical physicist, other than an all-round nerd"      
+      img: /img/esecutivo/barresi.jpg
+      mail: "andrea.barresi"
     - nome: "David Chiappini"
       img: "/img/esecutivo/david.jpg"
       descr: "Attualmente al terzo anno di Fisica presso l'Università degli Studi di Torino, ancora speranzoso di ottenere la laurea entro settembre. Accanìto lettore di fantascianza e di saggistica."

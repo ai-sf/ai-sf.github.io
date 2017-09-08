@@ -39,14 +39,14 @@
   logo:
     
 - nome: "Milano"
-  img: "/img/presidenti/milano_daniele-oriani.jpg"
-  mail: "daniele.oriani"
-  presidente: "Daniele Oriani"
+  img: "/img/presidenti/milano_emilio-villa.jpg"
+  mail: "emilio.villa"
+  presidente: "Emilio Villa"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/aisfunimi"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qRW0wajc3cjN6aGM/view?usp=sharing"
-  ex: 
-  logo: "Valerio Peri"
+  ex: "Daniele Oriani, Valerio Peri"
+  logo: 
   
 # - nome: "Milano Bicocca"
 #   img: "/img/presidenti/milanobicocca_enrico-catalano.jpg"
@@ -56,7 +56,7 @@
 #   fb: "https://www.facebook.com/groups/929555897125683/"
 #   regolamento:
 #   ex: 
-  logo:
+#  logo:
     
 - nome: "Padova"
   img: "/img/presidenti/padova_leonardo-pacciani.jpg"
@@ -79,14 +79,14 @@
   logo:    
     
 - nome: "Pisa"
-  img: "/img/presidenti/pisa_baldelli.jpg"
-  mail: "niccolo.baldelli"
-  presidente: "Niccolò Baldelli"
+  img: "/img/presidenti/pisa_giacomo-bagnato.jpg"
+  mail: "giacomo.bagnato"
+  presidente: "Giacomo Bagnato"
   fondazione: "07/2015"
   fb: "https://www.facebook.com/ComitatoLocalePisa"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
-  ex: 
-  logo: "Marco Morrone"
+  ex: "Niccolo Baldelli, Marco Morrone"
+  logo: 
   
 - nome: "Roma Tor V."
   img: "/img/presidenti/roma-tor_manuela-tulli.jpg"
@@ -109,14 +109,14 @@
   logo: "Luca Buoninfante"
     
 - nome: "Torino"
-  img: "/img/presidenti/torino_mattia-ivaldi.jpg"
-  mail: "mattia.ivaldi"
-  presidente: "Mattia Ivaldi"
+  img: "/img/presidenti/torino_mariavittoria-zanchettin.jpg"
+  mail: "mariavittoria.zanchettin"
+  presidente: "Maria Vittoria Zanchettin"
   fondazione: "06/2015"
   fb: "https://www.facebook.com/AISF-Torino-1642147402727081/"
-  regolamento: "https://drive.google.com/file/d/0B85S7yJHeRo6SjRHTzRqcVRuTk0/view?usp=sharing"
-  ex: 
-  logo: "Riccardo Longo"
+  regolamento: "https://drive.google.com/file/d/0B85S7yJHeRo6SjRHTzRqcVRuTk0/view?usp=sharing" 
+  ex: "Mattia Ivaldi, Riccardo Longo"
+  logo:
 
 - nome: "Trento"
   img: "/img/presidenti/trento_emily-damiani.jpg"
