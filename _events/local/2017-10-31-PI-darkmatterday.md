@@ -3,7 +3,7 @@ layout: event
 categories: eventolocale
 title: "Dark Matter Day - Aperitivo Scientifico Pisa"
 CL: Pisa
-locandina: /img/eventilocali/2017-DarkMatterDay/DarkMatterDay_PISA.jpg
+locandina: /img/eventilocali/2017-Darkmatterday/DarkMatterDay_PISA.jpg
 gallery:
 articolo: "-"
 report:
