@@ -6,7 +6,6 @@ redirect_from:
   - /eventi/25-membri-e-affiliazione/
 ---
 
-
 Per diventare membri AISF è necessario:
 <ul class="collection">
   <li class="collection-item">essere iscritti ad un corso di laurea triennale o magistrale oppure ad un dottorato di ricerca;</li>
