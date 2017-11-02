@@ -25,7 +25,7 @@ permalink: /eventilocali/
       </div>
       <div class="card-content">
       	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-    	<p>{{ event.CL }}-{{ event.date }}</p>
+    	<p>{{ event.CL }},{{ event.date }}</p>
       </div>
     	<div class="card-action">
             {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
