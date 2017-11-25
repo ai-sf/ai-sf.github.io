@@ -26,7 +26,7 @@ permalink: /iaps/
     </div>
       
     <div class="section">
-        IAPS is an association of physics students and student societies from around the globe, working to promote peaceful collaboration amongst them. Its members are represented by national and local committees, who meet regularly to ensure the relevance of the activities.
+        IAPS is an umbrella association of physics students and student societies from around the globe, working to promote peaceful collaboration amongst them. Its members are represented by national and local committees, who meet regularly to ensure the relevance of the activities.
     </div>    
 
     <div class="section"> <!-- eventi -->
