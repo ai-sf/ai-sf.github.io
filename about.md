@@ -34,8 +34,8 @@ La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">q
 
 La sede legale dell'Associazione è presso
 
-    Istituto di Fisica dell'Università di Torino
-    via P. Giuria 1
+    Università degli Studi di Torino - Dipartimento di Fisica
+    Via P. Giuria 1
     10125 Torino - ITALIA
     
     C.F. 97787600010
