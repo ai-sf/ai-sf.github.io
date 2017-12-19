@@ -1,21 +1,21 @@
 - nome: "Bari"
-  img: "/img/presidenti/bari_simona-rossini.jpg"
-  mail: "simona.rossini"
-  presidente: "Simona Andrea Rossini"
+  img: "/img/presidenti/bari_sergio-picella.pdf"
+  mail: "sergio.picella"
+  presidente: "Sergio Picella"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVWl4czVrcTJZZUk/view?usp=sharing"
-  ex: 
+  ex: Simona Rossini
   logo: 
   
 - nome: "Bologna"
-  img: "/img/presidenti/bologna_alessandra-lorenzo.jpg"
-  mail: "alessandra.lorenzo"
-  presidente: "Alessandra Lorenzo"
+  img: "/img/presidenti/bologna_marco-devito.jpg"
+  mail: "marco.devito"
+  presidente: "Marco De vito"
   fondazione: "06/2016"
   fb: "https://www.facebook.com/aisflcbologna"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
-  ex: 
+  ex: Alessandra Lorenzo
   logo:
     
 - nome: "Firenze"
@@ -29,13 +29,13 @@
   logo:    
     
 - nome: "Genova"
-  img: "/img/presidenti/genova_lorenzo-ferrari-barusso.jpg"
-  mail: "lorenzo.barusso"
-  presidente: "Lorenzo Ferrari Barusso"
+  img: "/img/presidenti/genova_marco-distefano.JPG"
+  mail: "marco.distefano"
+  presidente: "Marco Di Stefano"
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento:
-  ex: 
+  ex: Lorenzo Ferrari Barusso
   logo:
     
 - nome: "Milano"
@@ -59,9 +59,9 @@
 #  logo:
     
 - nome: "Padova"
-  img: "/img/presidenti/padova_leonardo-pacciani.jpg"
-  mail: "leonardo.pacciani"
-  presidente: "Leonardo Pacciani"
+  img: "/img/presidenti/padova_federica-lorenzi.jpg"
+  mail: "federica-lorenzi"
+  presidente: "Federica Lorenzi"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISFPadova"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qNGY0X3BhdnM3Nnc/view?usp=sharing"
@@ -69,9 +69,9 @@
   logo:
     
 - nome: "Pavia"
-  img: "/img/presidenti/pavia_vesconi.jpg"
-  mail: "elisabetta.vesconi"
-  presidente: "Elisabetta Vesconi"
+  img: "/img/presidenti/pavia_federico-sabattoli.jpg"
+  mail: "federico.sabattoli"
+  presidente: "Federico Sabattoli"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/groups/aisfpavia/?fref=ts"
   regolamento:
@@ -119,12 +119,12 @@
   logo:
 
 - nome: "Trento"
-  img: "/img/presidenti/trento_emily-damiani.jpg"
-  mail: "emily.damiani"
-  presidente: "Emily Damiani"
+  img: "/img/presidenti/trento_luca-lazzizzera.jpg"
+  mail: "luca.lazzizzera"
+  presidente: "Luca Lazzizzera"
   fondazione: "12/2015"
   fb: "https://www.facebook.com/AISF-Trento-958208697625956/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVnk2N2lOR2pHWmc/view?usp=sharing"
-  ex: 
+  ex: Emily Damiani
   logo:  
 
