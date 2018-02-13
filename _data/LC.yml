@@ -77,7 +77,18 @@
   regolamento:
   ex: 
   logo:    
-    
+
+
+- nome: "Perugia"
+  img: "/img/presidenti/perugia_samuele-giuli.jpg"
+  mail: "samuele.giuli"
+  presidente: "Samuele Giuli"
+  fondazione: "12/2017"
+  fb: "https://www.facebook.com/aisfpg/"
+  regolamento: "https://drive.google.com/file/d/1QpQkTS93nPj54E0aWPPU3vXC3xkPLrL_/view?usp=sharing"
+  ex: 
+  logo: 
+  
 - nome: "Pisa"
   img: "/img/presidenti/pisa_giacomo-bagnato.jpg"
   mail: "giacomo.bagnato"
@@ -128,14 +139,4 @@
   ex: Emily Damiani
   logo:  
   
-    
-- nome: "Perugia"
-  img: "/img/presidenti/perugia_samuele-giuli.jpg"
-  mail: "samuele.giuli"
-  presidente: "Samuele Giuli"
-  fondazione: "12/2017"
-  fb: 
-  regolamento: 
-  ex: 
-  logo: 
 
