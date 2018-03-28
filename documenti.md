@@ -11,9 +11,9 @@ redirect_from:
 Qui potete trovare materiale informativo relativo all'AISF. I documenti sono scaricabili liberamente e possono essere utilizzati per pubblicizzare l'Associazione presso Università, Istituti di ricerca, ecc.
 
 <div class="collection">
-  <a href="https://drive.google.com/drive/folders/0B85S7yJHeRo6REpzd3ZuYzVaSk0" class="collection-item">Brochure AISF</a>
-  <a href="https://drive.google.com/open?id=0B85S7yJHeRo6bnBpQU9iSUhheWM" class="collection-item">Brochure eventi AISF</a>
-  <a href="https://drive.google.com/open?id=0B85S7yJHeRo6eU5UXy1Mbklsb0U" class="collection-item">Poster AISF</a>
+  <a href="https://drive.google.com/file/d/0B85S7yJHeRo6R1otVXFKa2FjVDQ/view?usp=sharing" class="collection-item">Brochure AISF</a>
+  <a href="https://drive.google.com/file/d/0B85S7yJHeRo6bnBpQU9iSUhheWM/view?usp=sharing" class="collection-item">Brochure eventi AISF</a>
+  <a href="https://drive.google.com/file/d/0B85S7yJHeRo6eU5UXy1Mbklsb0U/view?usp=sharing" class="collection-item">Poster AISF</a>
 </div>
 
 ## Statuto e norme
