@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Aprile 2017: nasce SdR!
-date:   2018-04-11
-author:
+title:  Aprile 2017, nasce SdR!
+date:  2018-04-11
+author: 
 categories:
 permalink: /:categories/:year/:month/:day/:title/
 hidden: true
@@ -34,17 +34,6 @@ A un anno di distanza, la redazione si racconta.
 **Mattia**: Sono Mattia Ivaldi e sono uno studente magistrale in Fisica Nucleare e Subnucleare presso l’Università degli Studi di Torino. Per la tesi triennale ho lavorato anch'io con l'esperimento ALICE e spero di poter continuare per la tesi magistrale. Mi sono iscritto all’AISF nel giugno 2015 ed è stato amore a prima vista. Recentemente ho iniziato a occuparmi di comunicazione in una start-up tecnologica. Quando non studio o lavoro faccio il Presidente IAPS.
 
 **Nicolò**: Sono Nicolò Antolini e frequento la magistrale all'Università degli Studi di Firenze, a cui mi sono iscritto (dopo aver conseguito la triennale a Bologna) con l'intento di specializzarmi in Fisica Atomica. Qui, infatti, mi sono interamente dedicato alla Fisica AMO, con un interesse particolare verso i gas quantistici. Faccio spesso divertire i miei compagni di rRdazione perché attacco delle pezze importanti, ma è solo a causa del mio desiderio di raccontare e so che mi vogliono bene per questo.
-
-<ul class="collapsible" data-collapsible="accordion">
-<li>
-<div class="collapsible-header"><i class="material-icons">live_help</i>Attaccare una pezza</div>
-<div class="collapsible-body">
-<p>
-L’espressione _attaccare una pezza_ (o più comunemente _attacare pezza_) si usa per descrivere l’atto con cui una o più persone vengono in-trattenute in una conversazione, riguardante uno o più temi, che solitamente si svolge in modo approssimativamente unidirezionale. In generale più il gruppo di ascoltatori è reattivo, più la pezza risulta efficace: è sufficiente che uno degli interlocutori sia ben disposto perché la conversazione vada avanti (dipendentemente dalle abilità dell’impezzatore) anche per tempi ragionevolmente lunghi. Ciò si verifica anche nel caso in cui gli ascoltatori siano particolarmente garbati e non vogliano interrompere (un atteggiamento remissivo può essere fatale). Spesso e volentieri infatti l’unico modo di porre fine a una pezza risulta essere una brusca interruzione, da parte di uno o più interlocutori, mirata a “tagliare le gambe” dell’ impezzatore in modo poco carino.   Nell’era digitale la pezza si è evoluta assumendo diverse forme e acquistando quindi nuove caratteristiche. La “pezza digitale”, che in un primo momento si è concretizzata nei “papiri” via e-mail, ha sicuramente trovato il suo apice nell’ambito della messaggistica istantanea e in particolare, più recentemente, nelle “pezze vocali” ribattezzate audiolibri. Questi hanno un’efficacia nominale del 100% (dato che nessun interlocutore può interrompere la registrazione del messaggio) anche se spesso finiscono per essere semplicemente ignorati: fatto che riporta l’impezzatore ad attaccare pezza testualmente.  Dal punto di vista strettamente sperimentale si può dare una stima della qualità della pezza fornendo il P-factor, ossia una quantità adimensionale definita come il rapporto tra la durata effettiva della pezza e il tempo medio di comunicazione, ovvero una media d’insieme delle possibili durate associate a una certa conversazione.
-</p>
-</div>
-</li>
-</ul>
 
 **Q**: _A ottobre 2017 la redazione ha aggiunto un membro, Andrea Barresi. Come ti sei inserito nella Redazione?_
 
