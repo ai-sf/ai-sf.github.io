@@ -53,11 +53,11 @@ Alcuni grafici sulla distribuzione dei membri AISF in Italia, la loro percentual
     </div>
 </div>-->
 
-<!--<div class="row">-->
-  <div class="col s12 m6 offset-m3">-->
-    <img class="materialboxed" width="100%" src="/img/geo/andamento_membri.png">-->
-  </div>-->
-</div>-->
+<!--<div class="row">
+  <div class="col s12 m6 offset-m3">
+    <img class="materialboxed" width="100%" src="/img/geo/andamento_membri.png">
+  </div>
+</div>
 
 <!--<div class="row">
   <div class="col s12 m6">
@@ -164,4 +164,4 @@ Alcuni grafici sulla distribuzione dei membri AISF in Italia, la loro percentual
 <!--   </div> -->
 <!-- </div> -->
 
-Si ringrazia Michele Re Fiorentin per l'elaborazione dei dati e la creazione dei grafici.
+Si ringrazia Mattia Ivaldi per l'elaborazione dei dati e la creazione dei grafici.
