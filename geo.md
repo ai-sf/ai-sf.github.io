@@ -59,14 +59,14 @@ Alcuni grafici sulla distribuzione dei membri AISF in Italia, la loro percentual
   </div>-->
 </div>-->
 
-<!--<div class="row">-->
-  <div class="col s12 m6">-->
-    <img class="materialboxed" width="100%" src="/img/geo/time_percent.png">-->
-  </div>-->
-  <div class="col s12 m6">-->
-    <img class="materialboxed" width="100%" src="/img/geo/time_series.png">-->
-  </div>-->
-</div>-->
+<!--<div class="row">
+  <div class="col s12 m6">
+    <img class="materialboxed" width="100%" src="/img/geo/time_percent.png">
+  </div>
+  <div class="col s12 m6">
+    <img class="materialboxed" width="100%" src="/img/geo/time_series.png">
+  </div>
+</div>
 
 <!-- ## Giugno 2016 -->
 
