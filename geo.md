@@ -4,31 +4,46 @@ title: Stato delle iscrizioni
 permalink: /geo/
 ---
 
-Membri AISF per provenienza geografica ed evoluzione dello stato delle iscrizioni nel tempo.
+Alcuni grafici sulla distribuzione dei membri AISF in Italia, la loro percentuale rispetto agli iscritti nelle varie università e altre interessanti statistiche.
 
+ <div class="row"> 
+  <div class="col s12 m6 offset-m3"> 
+    <img class="materialboxed" width="100%" src="/img/geo/membri.png"> 
+  </div> 
+ </div> 
+  <div class="row"> 
+  <div class="col s12 m6 offset-m3"> 
+    <img class="materialboxed" width="100%" src="/img/geo/membrisuiscritti.png"> 
+  </div> 
+ </div> 
+  <div class="row"> 
+  <div class="col s12 m6 offset-m3"> 
+    <img class="materialboxed" width="100%" src="/img/geo/graph03.png"> 
+  </div> 
+ </div> 
 <!-- <div class="row"> -->
 <!--   <div class="col s12 m6 offset-m3"> -->
-<!--     <img class="materialboxed" width="100%" src="/img/geo/andamento_membri.png"> -->
+<!--     <img class="materialboxed" width="100%" src="/img/geo/"> -->
 <!--   </div> -->
 <!-- </div> -->
-<div class="row">
-  <div class="col s12 m6 offset-m3">
-    <img class="materialboxed" width="100%" src="/img/geo/cartina_0716.png">
-  </div>
-</div>
+<!--<div class="row">
+<!--  <div class="col s12 m6 offset-m3">
+<!--    <img class="materialboxed" width="100%" src="/img/geo/cartina_0716.png">
+<!--  </div>
+<!--</div>-->
 
 
-<div class="row">
-  <div class="col s12 m6 offset-m3">
-    <img class="materialboxed" width="100%" src="/img/geo/bars_0716.png">
-  </div>
-</div>
+<!--<div class="row">
+<!--  <div class="col s12 m6 offset-m3">
+<!--    <img class="materialboxed" width="100%" src="/img/geo/bars_0716.png">
+<!--  </div>
+<!--</div>-->
 
-<div class="row">
+<!--<div class="row">
   <div class="col s12 m6 offset-m3">
     <img class="materialboxed" width="100%" src="/img/geo/membri_bacino_scatter_0516.png">
     </div>
-</div>
+</div>-->
 <div class="row">
     <div class="col s12 m6">
       <img class="materialboxed" width="100%" src="/img/geo/regioni_AISF0716.png">
@@ -36,22 +51,22 @@ Membri AISF per provenienza geografica ed evoluzione dello stato delle iscrizion
     <div class="col s12 m6">
       <img class="materialboxed" width="100%" src="/img/geo/province_AISF0716.png">
     </div>
-</div>
+</div>-->
 
-<div class="row">
+<!--<div class="row">
   <div class="col s12 m6 offset-m3">
     <img class="materialboxed" width="100%" src="/img/geo/andamento_membri.png">
   </div>
 </div>
 
-<div class="row">
+<!--<div class="row">
   <div class="col s12 m6">
     <img class="materialboxed" width="100%" src="/img/geo/time_percent.png">
   </div>
   <div class="col s12 m6">
     <img class="materialboxed" width="100%" src="/img/geo/time_series.png">
   </div>
-</div>
+</div>-->
 
 <!-- ## Giugno 2016 -->
 
