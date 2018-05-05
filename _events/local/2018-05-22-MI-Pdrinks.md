@@ -7,7 +7,7 @@ locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/MI69/Physics_Drinks_l
 gallery:
 articolo: "-"
 report:
-facebook: https://www.facebook.com/events/2171920746181323/
+facebook: https://www.facebook.com/events/1804495196523157/
 link: 
 ---
 Quattro aperitivi scientifici in cui i professori dell'UniMi invitati avranno modo di parlare in un ambiente informale della loro attività di ricerca. Il pubblico sarà composto sia da studenti universitari che da studenti degli ultimi anni del liceo.
