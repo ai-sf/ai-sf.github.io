@@ -22,9 +22,9 @@ Qui potete trovare materiale informativo relativo all'AISF. I documenti sono sca
 Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tutti i regolamenti, le decisioni e le azioni dell'Associazione.
 
 <div class="collection">
+  <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Atto costitutivo</a>
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto</a>
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Regolamento Interno</a>
-  <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Atto costitutivo</a>
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxQjZMQktWRnR4NjA/view?usp=sharing" class="collection-item">Regolamento Comitati Locali</a>
 </div>
 
