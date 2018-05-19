@@ -34,6 +34,7 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 
 ## Documenti ufficiali passati
 
+
 ### 2017
 <div class="collection">
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto 2017</a>
