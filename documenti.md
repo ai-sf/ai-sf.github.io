@@ -23,9 +23,9 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Atto costitutivo</a>
-  <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto</a>
-  <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Regolamento Interno</a>
-  <a href="https://drive.google.com/file/d/0B068-lyoiUlxQjZMQktWRnR4NjA/view?usp=sharing" class="collection-item">Regolamento Comitati Locali</a>
+  <a href="https://drive.google.com/file/d/1B15Jq5c56C-52vlFynH9VHak58gikd0P/view?usp=sharing" class="collection-item">Statuto</a>
+  <a href="https://drive.google.com/file/d/1ZAgdH922JHtHtifOQgHSdZukzIRPQqyE/view?usp=sharing" class="collection-item">Regolamento Interno</a>
+  <a href="https://drive.google.com/file/d/19ZJx16SjLVJCuIZ-wfeEDPqW7-muILMl/view?usp=sharing" class="collection-item">Regolamento Comitati Locali</a>
 </div>
 
 ## Verbali
@@ -33,6 +33,13 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 {% include verbali.html verbali=site.data.verbali %}
 
 ## Documenti ufficiali passati
+
+### 2017
+<div class="collection">
+  <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto 2017</a>
+  <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Regolamento Interno 2017</a>
+  <a href="https://drive.google.com/file/d/0B068-lyoiUlxQjZMQktWRnR4NjA/view?usp=sharing" class="collection-item">Regolamento Comitati Locali 2017</a>
+</div>
 
 ### 2016
 
