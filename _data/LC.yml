@@ -109,7 +109,7 @@
   ex: "Niccolo Baldelli, Marco Morrone"
   logo: 
   
-  nome: "Roma Sapienza"
+- nome: "Roma Sapienza"
   #img: "/img/presidenti/trento_kun-zhan.jpg"
   mail: "kun.zhan"
   presidente: "Kun Zhan"
@@ -130,7 +130,7 @@
   logo:
 
 - nome: "Salerno"
- # img: "/img/presidenti/salerno_carlo-pepe.jpg"
+  #img: "/img/presidenti/salerno_carlo-pepe.jpg"
   mail: "carlo.pepe"
   presidente: "Carlo Pepe"
   fondazione: "05/2015"
