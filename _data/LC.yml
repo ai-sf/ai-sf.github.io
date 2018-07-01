@@ -17,6 +17,16 @@
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
   ex: Alessandra Lorenzo
   logo:
+  
+- nome: "Calabria"
+  #img: "/img/presidenti/firenze_alfredo-d'ambrosio.jpg"
+  mail: "alfredo.d'ambrosio"
+  presidente: "Alfredo d'AMbrosio"
+  fondazione: "05/2018"
+  fb: "https://www.facebook.com/AISF-UniCal-938404002996014/?hc_ref=ARQYT68d-l5v4VRN-b2aV5FSZ5b2qC961R4u4jlz6ep5Y-J9wCrZ32d5974frJztmgI&fref=nf"
+  regolamento: 
+  ex: 
+  logo:    
     
 - nome: "Firenze"
   img: "/img/presidenti/firenze_nicolo-antolini.jpg"
@@ -39,13 +49,13 @@
   logo:
     
 - nome: "Milano"
-  img: "/img/presidenti/milano_emilio-villa.jpg"
-  mail: "emilio.villa"
+  #img: "/img/presidenti/milano_luca-teruzzi.jpg"
+  mail: "luca.teruzzi"
   presidente: "Emilio Villa"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/aisfunimi"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qRW0wajc3cjN6aGM/view?usp=sharing"
-  ex: "Daniele Oriani, Valerio Peri"
+  ex: "Emilio Villa, Daniele Oriani, Valerio Peri"
   logo: 
   
 - nome: "Milano Bicocca"
@@ -99,6 +109,16 @@
   ex: "Niccolo Baldelli, Marco Morrone"
   logo: 
   
+  nome: "Roma Sapienza"
+  #img: "/img/presidenti/trento_kun-zhan.jpg"
+  mail: "kun.zhan"
+  presidente: "Kun Zhan"
+  fondazione: "05/2018"
+  #fb: ""
+  regolamento: ""
+  ex: 
+  logo: 
+  
 - nome: "Roma Tor V."
   img: "/img/presidenti/roma-tor_manuela-tulli.jpg"
   mail: "manuela.tulli"
@@ -110,13 +130,13 @@
   logo:
 
 - nome: "Salerno"
-  img: "/img/presidenti/salerno_matteo-crispino.jpg"
-  mail: "matteo.crispino"
-  presidente: "Matteo Crispino"
+ # img: "/img/presidenti/salerno_carlo-pepe.jpg"
+  mail: "carlo.pepe"
+  presidente: "Carlo Pepe"
   fondazione: "05/2015"
   fb:
   regolamento: 
-  ex: "Amedeo Ferrentino, Luca Buoninfante"
+  ex: "Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
   logo: 
     
 - nome: "Torino"
@@ -144,7 +164,7 @@
   mail: "federico.loi"
   presidente: "Federico Loi"
   fondazione: "04/2018"
-  fb: ""
+  #fb: ""
   regolamento: ""
   ex: 
   logo:  
