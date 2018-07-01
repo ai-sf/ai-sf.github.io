@@ -109,7 +109,7 @@
   ex: "Niccolo Baldelli, Marco Morrone"
   logo: 
   
-  nome: "Roma Sapienza"
+- nome: "Roma Sapienza"
   #img: "/img/presidenti/trento_kun-zhan.jpg"
   mail: "kun.zhan"
   presidente: "Kun Zhan"
@@ -168,4 +168,3 @@
   regolamento: ""
   ex: 
   logo:  
-
