@@ -16,7 +16,7 @@ science:
     bio: "https://www.df.unipi.it/gruppi/arimondo/morsch.html"
     pub: "https://www.df.unipi.it/gruppi/arimondo/morsch_publications.html"
     
-  - img:/img/photos/2018-sezione-giovani/castello.jpg 
+  - img: /img/photos/2018-sezione-giovani/castello.jpg 
     title: Prof. Steven Neil Shore
     descr: ""
     shortdes: "Talk di Astrofisica"
