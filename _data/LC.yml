@@ -49,14 +49,14 @@
   logo: 
   
 - nome: "Milano Bicocca"
-   #img: "/img/presidenti/milanobicocca_giulia-marcucci.jpg"
-   mail: "giulia.marcucci"
-   presidente: "Giulia Marcucci"
-   fondazione: "05/2018"
-   fb: "https://www.facebook.com/groups/929555897125683/about/"
-   regolamento:
-   ex: 
-   logo:
+  #img: "/img/presidenti/milanobicocca_giulia-marcucci.jpg"
+  mail: "giulia.marcucci"
+  presidente: "Giulia Marcucci"
+  fondazione: "05/2018"
+  fb: "https://www.facebook.com/groups/929555897125683/about/"
+  regolamento:
+  ex: 
+  logo:
     
 - nome: "Padova"
   img: "/img/presidenti/padova_federica-lorenzi.jpg"
