@@ -49,7 +49,7 @@
   logo: 
   
 - nome: "Milano Bicocca"
-   img: "/img/presidenti/milanobicocca_giulia-marcucci.jpg"
+   #img: "/img/presidenti/milanobicocca_giulia-marcucci.jpg"
    mail: "giulia.marcucci"
    presidente: "Giulia Marcucci"
    fondazione: "05/2018"
@@ -120,7 +120,7 @@
   logo: 
     
 - nome: "Torino"
-  img: "/img/presidenti/torino_andrea-barresi.jpg"
+  #img: "/img/presidenti/torino_andrea-barresi.jpg"
   mail: "andrea.barresi"
   presidente: "Andrea Barresi"
   fondazione: "06/2015"
