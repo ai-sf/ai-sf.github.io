@@ -10,3 +10,4 @@ report:
 facebook: 
 link: 
 ---
+Quattro giornate di “Tesi al pubblico” organizzate per la sessione di giugno-luglio, due a giugno (una per le lauree triennali e una per quelle magistrali) e due a luglio (una per le lauree triennali e una per quelle magistrali).
