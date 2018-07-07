@@ -3,7 +3,7 @@ layout: event
 categories: eventolocale
 title: "Tesi...ma non troppo"
 CL: Torino
-locandina: /img/eventilocali/2018-TO-Tesi_ma_non_troppo/locandina.png
+locandina: /img/eventilocali/2018-TO-Tesi_ma_non_troppo/Locandina.png
 gallery:
 articolo: "-"
 report:
