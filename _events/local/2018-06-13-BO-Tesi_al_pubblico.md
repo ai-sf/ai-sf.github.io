@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventolocale
-title: "Tesi al pubblico"
+title: "Tesi al pubblico - giugno"
 CL: Bologna
 locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/BO93/foto_giugno.jpg
 gallery:
