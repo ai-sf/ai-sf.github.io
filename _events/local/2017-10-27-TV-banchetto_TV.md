@@ -2,7 +2,7 @@
 layout: event
 categories: eventolocale
 title: "AISF Meeting"
-CL: Roma
+CL: Roma Tor V.
 locandina: /img/eventilocali/2017-aisfmeeting/banchetto_TV.jpg
 gallery:
 articolo: "-"
