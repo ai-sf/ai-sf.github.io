@@ -19,7 +19,7 @@
   logo:
   
 - nome: "Calabria"
-  #img: "/img/presidenti/firenze_alfredo-d'ambrosio.jpg"
+  img: "/img/presidenti/firenze_alfredo-d'ambrosio.jpg"
   mail: "alfredo.d'ambrosio"
   presidente: "Alfredo D'Ambrosio"
   fondazione: "05/2018"
@@ -29,7 +29,7 @@
   logo:    
     
 - nome: "Firenze"
-  img: "/img/presidenti/firenze_nicolo-antolini.jpg"
+  #img: "/img/presidenti/firenze_nicolo-antolini.jpg"
   mail: "nicolo.antolini"
   presidente: "Nicolò Antolini"
   fondazione: "11/2016"
