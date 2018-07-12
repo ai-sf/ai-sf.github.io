@@ -1,11 +1,11 @@
 - nome: "Bari"
-  img: "/img/presidenti/bari_sergio-picella.jpg"
-  mail: "sergio.picella"
-  presidente: "Sergio Picella"
+  #img: "/img/presidenti/bari_sergio-picella.jpg"
+  mail: ""
+  presidente: "Vincenzo Alberto Sansipersico"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVWl4czVrcTJZZUk/view?usp=sharing"
-  ex: Simona Rossini
+  ex: "Sergio Picella, Simona Rossini"
   logo: 
   
 - nome: "Bologna"
@@ -102,7 +102,7 @@
 - nome: "Pisa"
   #img: "/img/presidenti/pisa_matteo-chiappini.jpg"
   mail: "matteo.chiappini"
-  presidente: ""
+  presidente: "Matteo Chiappini"
   fondazione: "07/2015"
   fb: "https://www.facebook.com/ComitatoLocalePisa"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
