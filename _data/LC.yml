@@ -100,13 +100,13 @@
   logo: 
   
 - nome: "Pisa"
-  img: "/img/presidenti/pisa_giacomo-bagnato.jpg"
-  mail: "giacomo.bagnato"
-  presidente: "Giacomo Bagnato"
+  #img: "/img/presidenti/pisa_matteo-chiappini.jpg"
+  mail: "matteo.chiappini"
+  presidente: ""
   fondazione: "07/2015"
   fb: "https://www.facebook.com/ComitatoLocalePisa"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
-  ex: "Niccolo Baldelli, Marco Morrone"
+  ex: "Giacomo Bagnato,Niccolo Baldelli, Marco Morrone"
   logo: 
   
 - nome: "Roma Sapienza"
@@ -140,7 +140,7 @@
   logo: 
     
 - nome: "Torino"
-  #img: "/img/presidenti/torino_andrea_barresi.jpg"
+  img: "/img/presidenti/torino_andrea-barresi.jpg"
   mail: "andrea.barresi"
   presidente: "Andrea Barresi"
   fondazione: "06/2015"
