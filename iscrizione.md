@@ -65,8 +65,4 @@ Le quote associative per l'anno corrente sono:
   L'importo è di 10.54€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
 </ul>
 
-Il trattamento dei dati personali è effettuato secondo quanto specificato nell'informativa sulla privacy ai sensi dell'art.13 del Decreto Legislativo 196/2003. In particolare, i dati personali:
-<ul class="collection">
-  <li class="collection-item">verranno trattati esclusivamente nell'ambito delle finalità istituzionali dell'Associazione (come da Statuto);</li>
-  <li class="collection-item">non saranno comunicati a terzi e non saranno oggetto di alcun tipo di diffusione.</li>
-</ul>
+Il trattamento dei dati personali è effettuato secondo l'<a href="http://ai-sf.it/Informativa_Privacy_AISF.pdf">informativa</a> sulla privacy ai sensi della General Data Protection Regulation (GDPR) dell’Unione Europea e dell’art. 13 D.Lgs. 196/2003.
