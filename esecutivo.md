@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2018_esecutivo.JPG">
+    <img class="materialboxed" data-caption="Comitati Esecutivi 2017-2018 e 2018-2019 durante la CISF2018. Assenti: Alessandra Lorenzo e Giovanni Stagnitto." width="100%" src="{{ site.url }}/img/esecutivo/esecutivo1718-1819.jpg">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
@@ -27,7 +27,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
       <li class="collection-item avatar">
         <img src="{{ membro.img }}" alt="" class="circle">
         <span class="title">{{ membro.nome }}</span>
-        <p>{{ membro.ruolo }}<br>
+        <p><i>{{ membro.ruolo }}</i><br>
           {{ membro.descr }}
         </p>
         <div class="secondary-content"><a href="mailto:{{ membro.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;"><i class="fa fa-lg fa-envelope"></i></a></div>
@@ -36,7 +36,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 </ul>
 
 {% if item.collaboratori != nil %}
-## Collaboratori ({{item.anno}})
+### Collaboratori ({{item.anno}})
 
 <ul class="collection">
   {% for membro in item.collaboratori %}

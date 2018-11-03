@@ -3,8 +3,7 @@ layout: event
 categories: eventolocale
 title:  "Visita Centro Spaziale Fucino"
 CL: Roma Tor V.
-locandina: 
-https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/RM_TV41/Locandina_Fucino.jpg
+locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/RM_TV41/Locandina_Fucino.jpg
 gallery: 
 report: 
 facebook:
