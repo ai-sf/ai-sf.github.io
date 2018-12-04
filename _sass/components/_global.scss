@@ -458,22 +458,24 @@ td, th{
 
     // Avatar Collection
     &.avatar {
-      min-height: 84px;
-      // padding-left: 72px;
-      padding-left: 160px;
+      min-height: 125px;
+      padding-left: 140px;
       padding-top: 20px;
+      padding-bottom:20px;
       position: relative;
 
       .circle {
         position: absolute;
-        width: 100px;
-        height: 100px;
+        width: 90px;
+        height: 90px;
         overflow: hidden;
 	top: 15px;
         left: 15px;
+	bottom:15px;
         display: inline-block;
         vertical-align: middle;
       }
+      
       i.circle {
         font-size: 18px;
         line-height: 42px;
