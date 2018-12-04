@@ -458,10 +458,11 @@ td, th{
 
     // Avatar Collection
     &.avatar {
-      height: 180px;
+      height: auto;
       padding-left: 140px;
       padding-top: 20px;
       padding-bottom:20px;
+      padding-right:200px;
       position: relative;
 
       .circle {
@@ -471,6 +472,18 @@ td, th{
         overflow: hidden;
 	top: 15px;
         left: 15px;
+	bottom:15px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .tertiary-content {
+        position: absolute;
+        width: 100px;
+        height: 140px;
+        overflow: hidden;
+	top: 15px;
+        right: 15px;
 	bottom:15px;
         display: inline-block;
         vertical-align: middle;
@@ -498,18 +511,6 @@ td, th{
         position: absolute;
         top: 16px;
         right: 16px;
-      }
-
-      .tertiary-content {
-        position: absolute;
-        width: 100px;
-        height: 140px;
-        // overflow: hidden;
-	top: 20px;
-        right: 120px;
-	bottom:15px;
-        display: inline-block;
-        vertical-align: middle;
       }
 
     }

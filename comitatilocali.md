@@ -16,8 +16,8 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 <ul class="collection">
 {% for item in site.data.LC %}
 <li class="collection-item avatar" id="{{ item.nome }}">
+<img src="{{ item.logo }}" style="max-height:100%; width:auto;" class="tertiary-content">
 <img src="{{ item.img }}" alt="" class="circle">
-
 Comitato Locale	di <b> {{ item.nome }} </b>
 <p>
 Presidente: {{ item.presidente }} 
@@ -42,9 +42,6 @@ Ex presidenti: {{ item.ex }}
 <a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
 <i class="fa fa-lg fa-envelope"></i>
 </a>
-<div class="tertiary-content">
-<img src="{{ item.logo }}" style="text-align:right; max-height:100%; width:auto;">
-</div>
 </li>
 {% endfor %}
 </ul>
