@@ -6,7 +6,7 @@ permalink: /en/executive/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
+    <img class="materialboxed" data-caption="Comitati Esecutivi 2017-2018 e 2018-2019 durante la CISF2018. Assenti: Alessandra Lorenzo e Giovanni Stagnitto." width="100%" src="{{ site.url }}/img/esecutivo/esecutivo1718-1819.jpg">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>The Executive Committee is the administrative and executive organ of the Association. It is currently composed of 7 members elected during the General Assemblies.</p>

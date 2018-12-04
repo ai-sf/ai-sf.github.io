@@ -458,7 +458,7 @@ td, th{
 
     // Avatar Collection
     &.avatar {
-      min-height: 125px;
+      height: 180px;
       padding-left: 140px;
       padding-top: 20px;
       padding-bottom:20px;
@@ -498,6 +498,15 @@ td, th{
         position: absolute;
         top: 16px;
         right: 16px;
+      }
+
+      .tertiary-content {
+	  position: absolute;
+	  right: 120px;
+	  top: 0px;
+	  height: 140px;
+	  width: 100px;
+	  padding-top: 20px;
       }
 
     }

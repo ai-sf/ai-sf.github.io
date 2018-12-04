@@ -1,81 +1,82 @@
 - nome: "Bari"
+  #TODO
   #img: "/img/presidenti/bari_sergio-picella.jpg"
-  mail: ""
+  mail: "bari"
   presidente: "Vincenzo Alberto Sansipersico"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVWl4czVrcTJZZUk/view?usp=sharing"
   ex: "Sergio Picella, Simona Rossini"
-  logo: 
+  logo: "/img/loghi_LC/bari.jpg"
   
 - nome: "Bologna"
-  img: "/img/presidenti/bologna_marco-devito.jpg"
-  mail: "marco.devito"
-  presidente: "Marco De vito"
+  img: "/img/presidenti/bologna_lorenzo-lasagni.jpg"
+  mail: "bologna"
+  presidente: "Lorenzo Lasagni"
   fondazione: "06/2016"
   fb: "https://www.facebook.com/aisflcbologna"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
-  ex: Alessandra Lorenzo
-  logo:
+  ex: Marco De Vito, Alessandra Lorenzo
+  logo: "/img/loghi_LC/bologna.jpg"
   
 - nome: "Calabria"
   img: "/img/presidenti/calabria_alfredo-d'ambrosio.jpg"
-  mail: "alfredo.dambrosio"
+  mail: "calabria"
   presidente: "Alfredo D'Ambrosio"
   fondazione: "05/2018"
-  fb: "https://www.facebook.com/AISF-UniCal-938404002996014/?hc_ref=ARQYT68d-l5v4VRN-b2aV5FSZ5b2qC961R4u4jlz6ep5Y-J9wCrZ32d5974frJztmgI&fref=nf"
+  fb: "https://www.facebook.com/AISF-UniCal-938404002996014/"
   regolamento: 
   ex: 
-  logo:    
+  logo: "/img/loghi_LC/calabria.png"
     
 - nome: "Firenze"
-  img: "/img/presidenti/firenze_nicolò_antolini.jpg"
-  mail: "nicolo.antolini"
-  presidente: "Nicolò Antolini"
+  img: "/img/presidenti/firenze_matteo-barbetti.jpg"
+  mail: "firenze"
+  presidente: "Matteo Barbetti"
   fondazione: "11/2016"
-  fb: "https://www.facebook.com/groups/1722492761404813/?fref=ts"
+  fb: "https://www.facebook.com/AISFComitatoLocaleFirenze/"
   regolamento: 
-  ex: 
-  logo:    
+  ex: "Nicolò Antolini"
+  logo: "/img/loghi_LC/firenze.png"
     
 - nome: "Genova"
-  img: "/img/presidenti/genova_marco-distefano.JPG"
-  mail: "marco.distefano"
+  img: "/img/presidenti/genova_marco-distefano.jpg"
+  mail: "genova"
   presidente: "Marco Di Stefano"
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento:
   ex: Lorenzo Ferrari Barusso
-  logo:
+  logo: "/img/loghi_LC/genova.jpg"
     
 - nome: "Milano"
   img: "/img/presidenti/milano_luca-teruzzi.jpg"
-  mail: "luca.teruzzi"
+  mail: "milano"
   presidente: "Luca Teruzzi"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/aisfunimi"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qRW0wajc3cjN6aGM/view?usp=sharing"
   ex: "Emilio Villa, Daniele Oriani, Valerio Peri"
-  logo: 
+  logo: "/img/loghi_LC/milano_statale.jpg"
   
 - nome: "Milano Bicocca"
   img: "/img/presidenti/milano_bicocca_giulia_marcucci.jpg"
-  mail: "giulia.marcucci"
+  mail: "milano.bicocca"
   presidente: "Giulia Marcucci"
   fondazione: "05/2018"
-  fb: "https://www.facebook.com/groups/929555897125683/about/"
+  fb: "https://www.facebook.com/AISFMilanoBICOCCA/"
   regolamento:
   ex: 
-  logo:
+  logo: "/img/loghi_LC/milano_bicocca.jpg"
     
 - nome: "Padova"
-  img: "/img/presidenti/padova_federica-lorenzi.jpg"
-  mail: "federica.lorenzi"
-  presidente: "Federica Lorenzi"
+  img: "/img/presidenti/padova_valentina-picciano.jpg"
+  mail: "padova"
+  presidente: "Valentina Picciano"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISFPadova"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qNGY0X3BhdnM3Nnc/view?usp=sharing"
-  ex: Leonardo Pacciani
+  ex: Federica Lorenzi, Leonardo Pacciani
   logo:
     
 - nome: "Pavia"
