@@ -501,12 +501,15 @@ td, th{
       }
 
       .tertiary-content {
-	  position: absolute;
-	  right: 120px;
-	  top: 0px;
-	  height: 140px;
-	  width: 100px;
-	  padding-top: 20px;
+        position: absolute;
+        width: 100px;
+        height: 140px;
+        // overflow: hidden;
+	top: 20px;
+        right: 120px;
+	bottom:15px;
+        display: inline-block;
+        vertical-align: middle;
       }
 
     }
