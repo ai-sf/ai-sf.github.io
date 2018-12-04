@@ -43,7 +43,7 @@ Ex presidenti: {{ item.ex }}
 <i class="fa fa-lg fa-envelope"></i>
 </a>
 <div class="tertiary-content">
-<img src="{{ item.logo }}" style="text-align:right; max-height:100%; width:auto;">
+<img src="{{ item.logo }}" style="text-align:right; max-height:140px; width:auto;">
 </div>
 </li>
 {% endfor %}
