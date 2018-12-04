@@ -459,7 +459,9 @@ td, th{
     // Avatar Collection
     &.avatar {
       min-height: 84px;
-      padding-left: 72px;
+      // padding-left: 72px;
+      padding-left: 160px;
+      padding-top: 20px;
       position: relative;
 
       .circle {
@@ -467,6 +469,7 @@ td, th{
         width: 100px;
         height: 100px;
         overflow: hidden;
+	top: 15px;
         left: 15px;
         display: inline-block;
         vertical-align: middle;
