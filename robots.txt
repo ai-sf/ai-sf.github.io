@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /cxmwla3no1/
+Disallow:
