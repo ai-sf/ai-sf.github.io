@@ -16,7 +16,9 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 <ul class="collection">
 {% for item in site.data.LC %}
 <li class="collection-item avatar" id="{{ item.nome }}">
-<img src="{{ item.logo }}" style="max-height:100%; width:auto;" class="tertiary-content">
+<div class="tertiary-content">
+	<img src="{{ item.logo }}">
+</div>
 <img src="{{ item.img }}" alt="" class="circle">
 Comitato Locale	di <b> {{ item.nome }} </b>
 <p>

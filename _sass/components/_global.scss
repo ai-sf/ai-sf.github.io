@@ -462,7 +462,7 @@ td, th{
       padding-left: 140px;
       padding-top: 20px;
       padding-bottom:20px;
-      padding-right:200px;
+      padding-right: 10px;
       position: relative;
 
       .circle {
@@ -478,15 +478,16 @@ td, th{
       }
 
       .tertiary-content {
-        position: absolute;
-        width: 100px;
-        height: 140px;
-        overflow: hidden;
-	top: 15px;
-        right: 15px;
-	bottom:15px;
-        display: inline-block;
-        vertical-align: middle;
+	position: absolute;
+	max-width: 20%;
+	height: 80%;
+	right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
       }
       
       i.circle {
