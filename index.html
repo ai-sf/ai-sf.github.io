@@ -52,7 +52,8 @@ layout: default
                             <li href="{{ event.site }}">
                                 <a href="{{ event.site }}">
                                 <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>                               
-                    		    <div class="caption left-align">
+				{% if event.textonimage == nihil %}
+				<div class="caption left-align">
                     		        <h4>
                                         {{ event.title }}
                                     </h4>
@@ -61,7 +62,8 @@ layout: default
                                         <br>
                                         {{ event.startingdate | date: '%b %Y' }}  
                                     </p>
-                    		    </div>
+                    		</div>
+				{% endif %}
                             </li>
                             {% assign loopindex = loopindex | plus: 1%}
                         {% endif %}
