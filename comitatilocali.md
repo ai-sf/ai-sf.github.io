@@ -1,5 +1,5 @@
 ---
-layout: page
+1;5202;0clayout: page
 title: Comitati Locali
 permalink: /comitatilocali/
 redirect_from:
@@ -16,9 +16,9 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 <ul class="collection">
 {% for item in site.data.LC %}
 <li class="collection-item avatar" id="{{ item.nome }}">
-<div class="tertiary-content">
+<!-- <div class="tertiary-content">
 	<img src="{{ item.logo }}">
-</div>
+</div> -->
 <img src="{{ item.img }}" alt="" class="circle">
 Comitato Locale	di <b> {{ item.nome }} </b>
 <p>
