@@ -5,7 +5,7 @@
   presidente: "Vincenzo Alberto Sansipersico"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
-  regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVWl4czVrcTJZZUk/view?usp=sharing"
+  regolamento: "https://drive.google.com/open?id=14w1MBAYsSPpsdo07kCX3Qbbaj8UYYoDj"
   ex: "Sergio Picella, Simona Rossini"
   logo: "/img/loghi_LC/bari.jpg"
   
@@ -25,7 +25,7 @@
   presidente: "Alfredo D'Ambrosio"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-UniCal-938404002996014/"
-  regolamento: 
+  regolamento: "https://drive.google.com/open?id=1ANC0gCzM-Eh2AnvvUhcsLiFuTU193DhE" 
   ex: 
   logo: "/img/loghi_LC/calabria.png"
     
@@ -35,7 +35,7 @@
   presidente: "Matteo Barbetti"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/AISFComitatoLocaleFirenze/"
-  regolamento: 
+  regolamento: "https://drive.google.com/open?id=0B494AF3MCZKJSS1scjl3aXV6cmc"
   ex: "Nicolò Antolini"
   logo: "/img/loghi_LC/firenze.png"
     
@@ -45,7 +45,7 @@
   presidente: "Marco Di Stefano"
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
-  regolamento:
+  regolamento: "https://drive.google.com/open?id=1p3YS2K5hoVb7LndlXLi_xNlsEOeEBlDj"
   ex: Lorenzo Ferrari Barusso
   logo: "/img/loghi_LC/genova.jpg"
     
@@ -65,7 +65,7 @@
   presidente: "Giulia Marcucci"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISFMilanoBICOCCA/"
-  regolamento:
+  regolamento: "https://drive.google.com/open?id=1dydqJjkCizciicWn8dav_yA1uC3Xwq-s"
   ex: 
   logo: "/img/loghi_LC/milano_bicocca.jpg"
     
@@ -85,7 +85,7 @@
   presidente: "Federico Sabattoli"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/aisfpavia/"
-  regolamento:
+  regolamento: "https://drive.google.com/open?id=1VdEzh7IjZNHyAHaXW7EFfJqzOqKhkadD"
   ex: Elisabetta Vesconi
   logo: "/img/loghi_LC/pavia.png"
 
@@ -116,7 +116,7 @@
   presidente: "Kun Zhan"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Sapienza-1369227109880296"
-  regolamento: ""
+  regolamento: 
   ex: 
   logo: "/img/loghi_LC/roma_sapienza.jpg"
   
@@ -126,7 +126,7 @@
   presidente: "Manuela Tulli"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"
-  regolamento: 
+  regolamento: "https://drive.google.com/open?id=1LLsoMrB4PcnaE0Z8B4NuPzKZWwvRuRLu"
   ex: 
   logo: "/img/loghi_LC/roma_tor_vergata.png"
 
@@ -136,7 +136,7 @@
   presidente: "Carlo Pepe"
   fondazione: "05/2015"
   fb:
-  regolamento: 
+  regolamento: "https://drive.google.com/open?id=1lLAvdU2mAFQp2cw21ShhC7tKQ8JGpvpx"
   ex: "Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
   logo: 
     
@@ -146,7 +146,7 @@
   presidente: "Andrea Barresi"
   fondazione: "06/2015"
   fb: "https://www.facebook.com/AISF-Torino-1642147402727081/"
-  regolamento: "https://drive.google.com/file/d/0B85S7yJHeRo6SjRHTzRqcVRuTk0/view?usp=sharing" 
+  regolamento: "https://drive.google.com/open?id=0B85S7yJHeRo6dWstUUlIeHJucGs"
   ex: "Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
   logo: "/img/loghi_LC/torino.jpg"
 
@@ -166,6 +166,6 @@
   presidente: "Federico Loi"
   fondazione: "04/2018"
   fb: "https://www.facebook.com/aisftrieste/"
-  regolamento: ""
+  regolamento: 
   ex: 
   logo: "/img/loghi_LC/trieste.png"
