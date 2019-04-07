@@ -1,6 +1,5 @@
 - nome: "Bari"
-  #TODO
-  #img: "/img/presidenti/bari_sergio-picella.jpg"
+  img: "/img/presidenti/bari_vincenzo-sansipersico.jpg"
   mail: "bari"
   presidente: "Vincenzo Alberto Sansipersico"
   fondazione: "05/2015"
@@ -78,17 +77,26 @@
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qNGY0X3BhdnM3Nnc/view?usp=sharing"
   ex: Federica Lorenzi, Leonardo Pacciani
   logo: "/img/loghi_LC/padova.jpg"
-    
+
+- nome: "Palermo"
+  img: "/img/presidenti/palermo_santi-macaluso.jpg"
+  mail: "palermo"
+  presidente: "Santi Macaluso"
+  fondazione: "04/2019"
+  fb: 
+  regolamento: 
+  ex: 
+  logo: 
+
 - nome: "Pavia"
-  img: "/img/presidenti/pavia_federico-sabattoli.jpg"
+  img: "/img/presidenti/pavia_federica-dedomenico.jpg"
   mail: "pavia"
-  presidente: "Federico Sabattoli"
+  presidente: "Federica De Domenico"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/aisfpavia/"
   regolamento: "https://drive.google.com/open?id=1VdEzh7IjZNHyAHaXW7EFfJqzOqKhkadD"
-  ex: Elisabetta Vesconi
+  ex: Federico Sabattoli, Elisabetta Vesconi
   logo: "/img/loghi_LC/pavia.png"
-
 
 - nome: "Perugia"
   img: "/img/presidenti/perugia_samuele-giuli.jpg"
@@ -101,16 +109,17 @@
   logo: "/img/loghi_LC/perugia.png" 
   
 - nome: "Pisa"
-  #img: "/img/presidenti/pisa_matteo-chiappini.jpg"
+  img: "/img/presidenti/pisa_matteo-chiappini.jpg"
   mail: "pisa"
   presidente: "Matteo Chiappini"
   fondazione: "07/2015"
   fb: "https://www.facebook.com/ComitatoLocalePisa"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
-  ex: "Giacomo Bagnato,Niccolo Baldelli, Marco Morrone"
+  ex: "Giacomo Bagnato, Niccolo Baldelli, Marco Morrone"
   logo: "/img/loghi_LC/pisa.png"
   
 - nome: "Roma Sapienza"
+  img: "/img/presidenti/nopres.png"
   #img: "/img/presidenti/trento_kun-zhan.jpg"
   mail: "roma.sapienza"
   presidente: "Kun Zhan"
@@ -120,15 +129,25 @@
   ex: 
   logo: "/img/loghi_LC/roma_sapienza.jpg"
   
-- nome: "Roma Tor V."
-  img: "/img/presidenti/roma-tor_manuela-tulli.jpg"
+- nome: "Roma Tor Vergata"
+  img: "/img/presidenti/roma-tor_simone-lacesa.jpg"
   mail: "romatorvergata"
-  presidente: "Manuela Tulli"
+  presidente: "Simone La Cesa"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"
   regolamento: "https://drive.google.com/open?id=1LLsoMrB4PcnaE0Z8B4NuPzKZWwvRuRLu"
-  ex: 
+  ex: "Manuela Tulli"
   logo: "/img/loghi_LC/roma_tor_vergata.png"
+
+- nome: "Roma Tre"
+  img: "/img/presidenti/nopres.png"
+  mail: "romatre"
+  presidente: 
+  fondazione: "04/2019"
+  fb:
+  regolamento:
+  ex:
+  logo:
 
 - nome: "Salerno"
   img: "/img/presidenti/salerno_carlo_pepe.jpeg"
@@ -161,6 +180,7 @@
   logo: "/img/loghi_LC/trento.jpg"
   
 - nome: "Trieste"
+  img: "/img/presidenti/nopres.png"
   #img: "/img/presidenti/trieste_federico-loi.jpg "
   mail: "trieste"
   presidente: "Federico Loi"
