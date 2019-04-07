@@ -1,5 +1,5 @@
 ---
-1;5202;0clayout: page
+layout: page
 title: Comitati Locali
 permalink: /comitatilocali/
 redirect_from:
