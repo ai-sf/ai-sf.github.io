@@ -18,7 +18,7 @@ Per ulteriori dettagli circa l'AISF si rimanda allo Statuto e agli altri <a href
 
 Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.
 
-L'attuale Comitato Esecutivo è stato eletto in data 24 aprile 2016 e parte in data 13 Maggio 2017. É entrato nel pieno delle sue funzioni in data 1 ottobre 2017.
+L'attuale Comitato Esecutivo è stato eletto in data 13 Maggio 2017 e parte in data 22 Aprile 2018. É entrato nel pieno delle sue funzioni in data 1 ottobre 2018.
 
 <a href="/esecutivo/">Qui</a> maggiori informazioni sul Comitato Esecutivo.
 
