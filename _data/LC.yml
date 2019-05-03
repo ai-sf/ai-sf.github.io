@@ -119,14 +119,13 @@
   logo: "/img/loghi_LC/pisa.png"
   
 - nome: "Roma Sapienza"
-  img: "/img/presidenti/nopres.png"
-  #img: "/img/presidenti/trento_kun-zhan.jpg"
+  img: "/img/presidenti/roma-sapienza_martina_delgiorno.jpg"  
   mail: "roma.sapienza"
-  presidente: "Kun Zhan"
+  presidente: "Martina Del Giorno"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Sapienza-1369227109880296"
   regolamento: 
-  ex: 
+  ex: "Kun Zhan"
   logo: "/img/loghi_LC/roma_sapienza.jpg"
   
 - nome: "Roma Tor Vergata"
@@ -140,12 +139,12 @@
   logo: "/img/loghi_LC/roma_tor_vergata.png"
 
 - nome: "Roma Tre"
-  img: "/img/presidenti/nopres.png"
-  mail: "romatre"
-  presidente: 
+  img: "/img/presidenti/roma-tre_lucrezia_bianchi.jpg"
+  mail: "roma.tre"
+  presidente: "Lucrezia Bianchi"
   fondazione: "04/2019"
-  fb:
-  regolamento:
+  fb: "https://www.facebook.com/AISFRomaTre/"
+  regolamento: 
   ex:
   logo:
 
