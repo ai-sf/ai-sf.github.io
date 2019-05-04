@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventolocale
-title: "Ciclo di seminari capitolo 1"
+title: "Ciclo di seminari"
 CL: Palermo
 locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/PA208/IMG-20190430-WA0050.jpg
 articolo: "-"
