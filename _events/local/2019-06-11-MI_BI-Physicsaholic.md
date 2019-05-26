@@ -4,6 +4,7 @@ categories: eventolocale
 title: "Physicsaholic"
 CL: Milano Bicocca
 locandina: https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/59106211_649476502171768_6260860233531260928_n.jpg?_nc_cat=111&_nc_ht=scontent-mxp1-1.xx&oh=b0b9ff83426c51f4f33e0b8c8e4b6525&oe=5D9A5A3A
+
 articolo: "-"
 report:
 facebook:https://www.facebook.com/events/886845158320747/
