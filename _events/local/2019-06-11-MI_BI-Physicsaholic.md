@@ -7,7 +7,7 @@ locandina: "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/59106211_6494765021717
 
 articolo: "-"
 report:
-facebook:"https://www.facebook.com/events/886845158320747/"
+facebook: "https://www.facebook.com/events/886845158320747/"
 link:
 ---
 un nuovo ciclo di aperitivi divulgativi dove avrete la possibilità di confrontarvi con linee di ricerca meno note e in cui parleremo di contaminazione tra Fisica, industria e molto altro!
