@@ -2,7 +2,7 @@
 layout: event
 categories: eventolocale
 title: "Drink & Derive - AISF LC Roma"
-CL: Sapienza
+CL: Roma Sapienza
 locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/RM_SP225/d&d_POSTER.png
 articolo: "-"
 report:
