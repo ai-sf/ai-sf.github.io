@@ -29,4 +29,4 @@ Se più di un’associazione desidera ottenere la posizione di Comitato Locale p
 
 È necessario nominare anche un presidente, che sarà il punto di riferimento per l'AISF sul territorio.
 
-Il modulo di registrazione può essere reperito qui ([pdf](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)) o qui ([odt](http://www.ai-sf.it/owncloud/index.php/s/R1iGbhyW8gfTv27)) e deve essere inviato via mail, compilato e firmato, all'[esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
+Il modulo di affiliazione è disponibile [qui](https://drive.google.com/open?id=1lJCZE_GI67NPRVU5IwwmAznm9LK-gdro) e deve essere inviato via mail, compilato e firmato, al [Comitato Esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
