@@ -10,21 +10,21 @@ redirect_from:
 
 <img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
 
-L'AISF è l'Associazione Italiana degli Studenti di Fisica. È un'associazione con finalità educative e senza fine di lucro. Suoi membri sono tutti gli studenti, iscritti ad un corso di laurea o un dottorato in fisica, che ne facciano richiesta e siano in regola con la quota associativa. Le finalità e gli scopi dell'AISF sono la promozione delle scienze e in particolare della fisica fra gli studenti e lo sviluppo di relazioni fra studenti delle diverse parti del paese.
+L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione no-profit di volontariato con finalità culturali, nata nell’agosto 2014 in occasione della XXIX International Conference of Physics Students presso Heildelberg, Germania. Legalmente costituita nel novembre dello stesso anno, nei suoi primi anni di vita AISF ha raccolto più di 1400 membri e dato vita a 19 Comitati Locali in tutto il Paese, realizzando numerosi eventi dedicati agli studenti e alla divulgazione scientifica e collaborando con le principali realtà accademiche e scientifiche italiane ed estere. AISF è, inoltre, National Committe per l’Italia dell’International Association of Physics Students (IAPS), un’organizzazione ombrello che raccoglie membri individuali e società di Fisica in tutto il mondo.
 
-Per ulteriori dettagli circa l'AISF si rimanda allo Statuto e agli altri <a href="/documenti/">documenti ufficiali</a>.
+L’obiettivo dell'AISF è riunire sotto un'unica associazione gli studenti di Fisica italiani, dando vita a un network nazionale e ponendosi come punto di riferimento nell’ambiente universitario, completando e ampliando l'esperienza univeristaria e accademica dei propri membri. Importante obiettivo dell'Associazione è anche la promozione di attività culturali volte alla divulgazione della scienza e, in particolare, della Fisica. Con questo obiettivo assume particolare rilevanza la promozione delle relazioni fra studenti di Fisica di tutte le Università italiane, introducendoli in una comunità nazionale, incoraggiandoli nella loro carriera lavorativa e accademica, nonché organizzando un incontro nazionale di occorrenza annuale, la Conferenza Italiana Studenti di Fisica.
+
+Oggi AISF è una realtà vitale e dinamica, con una particolare sensibilità verso idee e iniziative innovative e nuove collaborazioni.
 
 ## Comitato Esecutivo
 
-Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.
-
-L'attuale Comitato Esecutivo è stato eletto in data 13 Maggio 2017 e parte in data 22 Aprile 2018. É entrato nel pieno delle sue funzioni in data 1 ottobre 2018.
+Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali. L'attuale Comitato Esecutivo è stato eletto in data 13 Maggio 2017 e parte in data 22 Aprile 2018. É entrato nel pieno delle sue funzioni in data 1 ottobre 2018.
 
 <a href="/esecutivo/">Qui</a> maggiori informazioni sul Comitato Esecutivo.
 
 ## Comitati Locali
 
-L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei Comitati Locali si trova <a href="/comitatilocali/">qui</a>.
+L'AISF si organizza in Comitati Locali, ciascuno rappresentato da un Presidente. Maggiori informazioni sui Comitati Locali è disponibile <a href="/comitatilocali/">qui</a>.
 
 ## Provenienza geografica
 
@@ -32,11 +32,11 @@ La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">q
 
 ## Sede legale
 
-La sede legale dell'Associazione è presso
+L'Associazione Italiana Studenti di Fisica ha sede presso:
 
-    Università degli Studi di Torino - Dipartimento di Fisica
-    Via P. Giuria 1
-    10125 Torino - ITALIA
-    
-    C.F. 97787600010
-    P.IVA. 11237480014
+Università degli Studi di Torino - Dipartimento di Fisica<br> 
+Via P. Giuria 1<br> 
+10125 Torino - ITALIA<br><br> 
+C.F. 97787600010<br> 
+P.IVA. 11237480014<br> 
+ai-sf@pec.it
