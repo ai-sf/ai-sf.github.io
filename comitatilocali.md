@@ -11,7 +11,7 @@ redirect_from:
 {% assign n = n | plus: 1 %}
 {% endfor %}
 
-L'AISF conta al momento {{ n }} comitati locali in altrettante università:
+AISF conta attualmente {{ n }} comitati locali in altrettante università:
 
 <ul class="collection">
 {% for item in site.data.LC %}
@@ -53,6 +53,6 @@ Ex presidenti: {{ item.ex }}
 
 <a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
 
-## Formare un nuovo comitato locale
+## Formare un nuovo Comitato Locale
 
 Si faccia riferimento a [questa](/nuovocomitatolocale/) pagina.
