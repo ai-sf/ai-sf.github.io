@@ -1,81 +1,81 @@
 - nome: "Bari"
-  img: "/img/presidenti/bari_vincenzo-sansipersico.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "bari"
-  presidente: "Vincenzo Alberto Sansipersico"
+  presidente: "Andrea Lo Sasso"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
   regolamento: "https://drive.google.com/open?id=14w1MBAYsSPpsdo07kCX3Qbbaj8UYYoDj"
-  ex: "Sergio Picella, Simona Rossini"
+  ex: "Vincenzo Alberto Sansipersico, Sergio Picella, Simona Rossini"
   logo: "/img/loghi_LC/bari.jpg"
-  
+
 - nome: "Bologna"
-  img: "/img/presidenti/bologna_lorenzo-lasagni.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "bologna"
-  presidente: "Lorenzo Lasagni"
+  presidente: "Francesco Salvi"
   fondazione: "06/2016"
   fb: "https://www.facebook.com/aisflcbologna"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
-  ex: Marco De Vito, Alessandra Lorenzo
+  ex: Lorenzo Lasagni, Marco De Vito, Alessandra Lorenzo
   logo: "/img/loghi_LC/bologna.jpg"
-  
+
 - nome: "Calabria"
-  img: "/img/presidenti/calabria_alfredo-d'ambrosio.jpg"
+  img: "/img/presidenti/calabria_olivieri.jpg"
   mail: "calabria"
-  presidente: "Alfredo D'Ambrosio"
+  presidente: "Antonietta Olivieri"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-UniCal-938404002996014/"
-  regolamento: "https://drive.google.com/open?id=1ANC0gCzM-Eh2AnvvUhcsLiFuTU193DhE" 
-  ex: 
+  regolamento: "https://drive.google.com/open?id=1ANC0gCzM-Eh2AnvvUhcsLiFuTU193DhE"
+  ex: "Alfredo D'Ambrosio"
   logo: "/img/loghi_LC/calabria.png"
-    
+
 - nome: "Firenze"
-  img: "/img/presidenti/firenze_matteo-barbetti.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "firenze"
-  presidente: "Matteo Barbetti"
+  presidente: "Simone Meoni"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/AISFComitatoLocaleFirenze/"
   regolamento: "https://drive.google.com/open?id=0B494AF3MCZKJSS1scjl3aXV6cmc"
-  ex: "Nicolò Antolini"
+  ex: "Matteo Barbetti, Nicolò Antolini"
   logo: "/img/loghi_LC/firenze.png"
-    
+
 - nome: "Genova"
-  img: "/img/presidenti/genova_marco-distefano.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "genova"
-  presidente: "Marco Di Stefano"
+  presidente: "Daniele Chioetto"
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento: "https://drive.google.com/open?id=1p3YS2K5hoVb7LndlXLi_xNlsEOeEBlDj"
-  ex: Lorenzo Ferrari Barusso
+  ex: "Marco Di Stefano, Lorenzo Ferrari Barusso"
   logo: "/img/loghi_LC/genova.jpg"
-    
+
 - nome: "Milano"
-  img: "/img/presidenti/milano_luca-teruzzi.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "milano"
-  presidente: "Luca Teruzzi"
+  presidente: "Elisa Radaelli"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/aisfunimi"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qRW0wajc3cjN6aGM/view?usp=sharing"
-  ex: "Emilio Villa, Daniele Oriani, Valerio Peri"
+  ex: "Luca Teruzzi, Emilio Villa, Daniele Oriani, Valerio Peri"
   logo: "/img/loghi_LC/milano_statale.jpg"
-  
+
 - nome: "Milano Bicocca"
-  img: "/img/presidenti/milano_bicocca_giulia_marcucci.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "milano.bicocca"
-  presidente: "Giulia Marcucci"
+  presidente: "Carlo Calissi"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISFMilanoBICOCCA/"
   regolamento: "https://drive.google.com/open?id=1dydqJjkCizciicWn8dav_yA1uC3Xwq-s"
-  ex: 
+  ex: "Giulia Marcucci"
   logo: "/img/loghi_LC/milano_bicocca.jpg"
-    
+
 - nome: "Padova"
-  img: "/img/presidenti/padova_valentina-picciano.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "padova"
-  presidente: "Valentina Picciano"
+  presidente: "Giovanna Saleh"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISFPadova"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qNGY0X3BhdnM3Nnc/view?usp=sharing"
-  ex: Federica Lorenzi, Leonardo Pacciani
+  ex: "Valentina Picciano, Federica Lorenzi, Leonardo Pacciani"
   logo: "/img/loghi_LC/padova.jpg"
 
 - nome: "Palermo"
@@ -83,10 +83,10 @@
   mail: "palermo"
   presidente: "Santi Macaluso"
   fondazione: "04/2019"
-  fb: 
-  regolamento: 
-  ex: 
-  logo: 
+  fb:
+  regolamento:
+  ex:
+  logo:
 
 - nome: "Pavia"
   img: "/img/presidenti/pavia_federica-dedomenico.jpg"
@@ -99,43 +99,43 @@
   logo: "/img/loghi_LC/pavia.png"
 
 - nome: "Perugia"
-  img: "/img/presidenti/perugia_samuele-giuli.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "perugia"
-  presidente: "Samuele Giuli"
+  presidente: "David Pelosi"
   fondazione: "12/2017"
   fb: "https://www.facebook.com/aisfpg/"
   regolamento: "https://drive.google.com/file/d/1QpQkTS93nPj54E0aWPPU3vXC3xkPLrL_/view?usp=sharing"
-  ex: 
-  logo: "/img/loghi_LC/perugia.png" 
-  
+  ex: "Samuele Giuli"
+  logo: "/img/loghi_LC/perugia.png"
+
 - nome: "Pisa"
-  img: "/img/presidenti/pisa_matteo-chiappini.jpg"
+  img: "/img/presidenti/nopres.png"
   mail: "pisa"
-  presidente: "Matteo Chiappini"
+  presidente: "Gloria Cicconofri"
   fondazione: "07/2015"
   fb: "https://www.facebook.com/ComitatoLocalePisa"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
-  ex: "Giacomo Bagnato, Niccolo Baldelli, Marco Morrone"
+  ex: "Matteo Chiappini, Giacomo Bagnato, Niccolo Baldelli, Marco Morrone"
   logo: "/img/loghi_LC/pisa.png"
-  
+
 - nome: "Roma Sapienza"
-  img: "/img/presidenti/roma-sapienza_martina_delgiorno.jpg"  
+  img: "/img/presidenti/roma-sapienza_martina_delgiorno.jpg"
   mail: "roma.sapienza"
   presidente: "Martina Del Giorno"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Sapienza-1369227109880296"
-  regolamento: 
+  regolamento:
   ex: "Kun Zhan"
   logo: "/img/loghi_LC/roma_sapienza.jpg"
-  
+
 - nome: "Roma Tor Vergata"
-  img: "/img/presidenti/roma-tor_simone-lacesa.jpg"
+  img: "/img/presidenti/roma-tor_evangelista.jpg"
   mail: "romatorvergata"
-  presidente: "Simone La Cesa"
+  presidente: "Antonio Evangelista"
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"
   regolamento: "https://drive.google.com/open?id=1LLsoMrB4PcnaE0Z8B4NuPzKZWwvRuRLu"
-  ex: "Manuela Tulli"
+  ex: "Simone La Cesa, Manuela Tulli"
   logo: "/img/loghi_LC/roma_tor_vergata.png"
 
 - nome: "Roma Tre"
@@ -144,40 +144,40 @@
   presidente: "Lucrezia Bianchi"
   fondazione: "04/2019"
   fb: "https://www.facebook.com/AISFRomaTre/"
-  regolamento: 
+  regolamento:
   ex:
   logo:
 
 - nome: "Salerno"
-  img: "/img/presidenti/salerno_carlo_pepe.jpeg"
+  img: "/img/presidenti/nopres.png"
   mail: "salerno"
-  presidente: "Carlo Pepe"
+  presidente: "Antonio Gravina"
   fondazione: "05/2015"
-  fb:
+  fb: "Carlo Pepe"
   regolamento: "https://drive.google.com/open?id=1lLAvdU2mAFQp2cw21ShhC7tKQ8JGpvpx"
   ex: "Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
-  logo: 
-    
+  logo:
+
 - nome: "Torino"
-  img: "/img/presidenti/torino_andrea-barresi.jpg"
+  img: "/img/presidenti/torino_biello.jpg"
   mail: "torino"
-  presidente: "Andrea Barresi"
+  presidente: "Christian Biello"
   fondazione: "06/2015"
   fb: "https://www.facebook.com/AISF-Torino-1642147402727081/"
   regolamento: "https://drive.google.com/open?id=0B85S7yJHeRo6dWstUUlIeHJucGs"
-  ex: "Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
+  ex: "Andrea Barresi, Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
   logo: "/img/loghi_LC/torino.jpg"
 
 - nome: "Trento"
-  img: "/img/presidenti/trento_roberto-ciccarelli.jpg"
+  img: "/img/presidenti/trento_bacciconi.jpg"
   mail: "trento"
-  presidente: "Roberto Ciccarelli"
+  presidente: "Zeno Bacciconi"
   fondazione: "12/2015"
   fb: "https://www.facebook.com/AISF-Trento-958208697625956/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVnk2N2lOR2pHWmc/view?usp=sharing"
-  ex: Luca Lazzizzera, Emily Damiani
+  ex: "Roberto Ciccarelli, Luca Lazzizzera, Emily Damiani"
   logo: "/img/loghi_LC/trento.jpg"
-  
+
 - nome: "Trieste"
   img: "/img/presidenti/nopres.png"
   #img: "/img/presidenti/trieste_federico-loi.jpg "
@@ -185,6 +185,6 @@
   presidente: "Federico Loi"
   fondazione: "04/2018"
   fb: "https://www.facebook.com/aisftrieste/"
-  regolamento: 
-  ex: 
+  regolamento:
+  ex:
   logo: "/img/loghi_LC/trieste.png"
