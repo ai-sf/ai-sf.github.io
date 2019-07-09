@@ -20,4 +20,4 @@ L'Articolo 5.2 del Regolamento Interno regolamenta le modalità di costituzione 
 
 Ogni università ha diritto a creare un suo Comitato Locale; se in una stessa città sono presenti più atenei, i rispettivi Comitati Locali possono coordinarsi e collaborare, mantenendo la propria identità. Se più di un gruppo di membri desidera ottenere la posizione di Comitato Locale per la stessa università, ci si aspetta che questi gruppi di membri risolvano i propri conflitti indipendentemente. Nel frattempo, da procedura standard, non si accetta la candidatura di alcuno.
 
-Il modulo di affiliazione è disponibile [qui](https://drive.google.com/open?id=1lJCZE_GI67NPRVU5IwwmAznm9LK-gdro) e deve essere inviato via mail, compilato e firmato, al [Comitato Esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
+Il modulo di affiliazione è disponibile [qui](http://ai-sf.it/LC-form-public.pdf) e deve essere inviato via mail, compilato e firmato, al [Comitato Esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
