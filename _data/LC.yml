@@ -1,5 +1,5 @@
 - nome: "Bari"
-  img: "/img/presidenti/nopres.png"
+  img: "/img/presidenti/bari_losasso.png"
   mail: "bari"
   presidente: "Andrea Lo Sasso"
   fondazione: "05/2015"
@@ -39,7 +39,7 @@
   logo: "/img/loghi_LC/firenze.png"
 
 - nome: "Genova"
-  img: "/img/presidenti/nopres.png"
+  img: "/img/presidenti/genova_chioetto.jpg"
   mail: "genova"
   presidente: "Daniele Chioetto"
   fondazione: "08/2015"
@@ -149,13 +149,13 @@
   logo:
 
 - nome: "Salerno"
-  img: "/img/presidenti/nopres.png"
+  img: "/img/presidenti/salerno_gravina.jpg"
   mail: "salerno"
   presidente: "Antonio Gravina"
   fondazione: "05/2015"
-  fb: "Carlo Pepe"
+  fb: ""
   regolamento: "https://drive.google.com/open?id=1lLAvdU2mAFQp2cw21ShhC7tKQ8JGpvpx"
-  ex: "Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
+  ex: "Carlo Pepe, Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
   logo:
 
 - nome: "Torino"
