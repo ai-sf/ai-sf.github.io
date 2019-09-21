@@ -14,7 +14,7 @@ Qui potete trovare materiale informativo relativo all'AISF. I documenti sono sca
   <a href="https://drive.google.com/open?id=19a5KLcwoOUnGMXup8CyvUCSHxuL1him7" class="collection-item">Brochure AISF</a>
   <a href="https://drive.google.com/file/d/0B85S7yJHeRo6bnBpQU9iSUhheWM/view?usp=sharing" class="collection-item">Brochure eventi AISF</a>
   <a href="https://drive.google.com/file/d/0B85S7yJHeRo6eU5UXy1Mbklsb0U/view?usp=sharing" class="collection-item">Poster AISF</a>
-  <a href="https://drive.google.com/open?id=1XrINKEwgKQ11cK1iH--zEg0z4JTqOYwo" class="collection-item">Presentazione AISF</a>
+  <a href="https://drive.google.com/file/d/15G0qabjArGMNAdoLvt93bo1jEeO0_gg7/view?usp=sharing" class="collection-item">Presentazione AISF</a>
 </div>
 
 ## Statuto e norme
