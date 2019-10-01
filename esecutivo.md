@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2017-2018 e 2018-2019 durante la CISF2018. Assenti: Alessandra Lorenzo e Giovanni Stagnitto." width="100%" src="{{ site.url }}/img/esecutivo/esecutivo1718-1819.jpg">
+    <img class="materialboxed" data-caption="Alcuni membri dei Comitati Esecutivi 2018-2019 e 2019-2020 durante la CISF 2019 a Milano." width="100%" src="{{ site.url }}/img/esecutivo/esecutivo1819-1920.jpg">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
