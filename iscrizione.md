@@ -29,7 +29,7 @@ Per diventare membri AISF è necessario:
 
 <div class="row">
   <div class="col s12 m5">
-    <div class="card blue-grey darken-1" style="height:250px;">
+    <div class="card blue-grey darken-1">
       <div class="card-content white-text">
         <span class="card-title">Bonifico Bancario</span>
 	<p class="light">entro 15 giorni dalla registrazione online</p>
@@ -49,7 +49,7 @@ Per diventare membri AISF è necessario:
     </div>
   </div>
   <div class="col s12 m3">
-    <div class="card blue-grey darken-1" style="height:250px;">
+    <div class="card blue-grey darken-1">
       <div class="card-content white-text">
         <span class="card-title">PayPal</span>
 	<br>
@@ -61,7 +61,7 @@ Per diventare membri AISF è necessario:
     </div>
   </div>
   <div class="col s12 m4">
-    <div class="card blue-grey darken-1" style="height:250px;">
+    <div class="card blue-grey darken-1">
       <div class="card-content white-text">
         <span class="card-title">Carta di debito/credito</span>
 	<br>
