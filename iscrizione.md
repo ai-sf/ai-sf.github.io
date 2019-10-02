@@ -11,7 +11,7 @@ Per diventare membri AISF è necessario:
 <ul class="collection">
   <li class="collection-item">essere iscritti ad un corso di laurea triennale o magistrale oppure ad un dottorato di ricerca;</li>
   <li class="collection-item">compilare il modulo di registrazione sotto indicato;</li>
-  <li class="collection-item">versare la quota associativa tramite bonifico bancario o Paypal.</li>
+  <li class="collection-item">versare la quota associativa tramite bonifico bancario, Paypal o carta di debito/credito.</li>
 </ul>
 
 <div class="row">
@@ -28,25 +28,48 @@ Per diventare membri AISF è necessario:
 </ul>
 
 <div class="row">
-  <div class="col s12 m6">
-    <div class="card blue-grey darken-1">
+  <div class="col s12 m5">
+    <div class="card blue-grey darken-1" style="height:250px;">
       <div class="card-content white-text">
         <span class="card-title">Bonifico Bancario</span>
 	<p class="light">entro 15 giorni dalla registrazione online</p>
-	<p>Beneficiario: Associazione Italiana Studenti di Fisica<br>
-	  IBAN: IT20J0306909606100000133131<br>
-	  BIC/SWIFT: BCITITMMXXX<br>
-	  Causale: Iscrizione anno 2018/19 - NOME COGNOME</p>
+	<br>
+	<span class="light">Beneficiario:</span>
+	Associazione Italiana Studenti di Fisica
+	<br>
+	<span class="light">IBAN:</span>
+	IT20J0306909606100000133131
+	<br>
+	<span class="light">BIC/SWIFT:</span>
+	BCITITMMXXX
+	<br>
+	<span class="light">Causale:</span>
+	Iscrizione anno 20xx/xx - NOME COGNOME
       </div>
     </div>
   </div>
-  <div class="col s12 m6">
-    <div class="card blue-grey darken-1">
+  <div class="col s12 m3">
+    <div class="card blue-grey darken-1" style="height:250px;">
       <div class="card-content white-text">
-        <span class="card-title">Pagamento PayPal</span>
-	<p class="light">NO da conti appoggiati a banche extraeuropee</p>
-	<p>L'AISF gode di tariffa agevolata di 1.8% + 0.35€.<br><br><br><br></p>
-      </div>
+        <span class="card-title">PayPal</span>
+	<br>
+	<a href="https://www.paypal.com/it/webapps/mpp/paypal-popup" title="Come funziona PayPal" onclick="javascript:window.open('https://www.paypal.com/it/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" border="0" alt="PayPal Logo" style="width:100px;" /></a>
+	<br>
+	<span class="light">NO da conti appoggiati a banche extraeuropee.</span>
+	L'AISF gode di tariffa agevolata di 1.8% + 0.35€.
+	</div>	
+    </div>
+  </div>
+  <div class="col s12 m4">
+    <div class="card blue-grey darken-1" style="height:250px;">
+      <div class="card-content white-text">
+        <span class="card-title">Carta di debito/credito</span>
+	<br>
+	<a href="https://stripe.com/it" target="_blank">
+	<img src="{{ site.url }}/img/stripe_white.svg" style="width:100px;"></a>
+	<br>
+	<p>Commissioni per carte europee: 1.4 % + 0.25€.</p>
+	</div>
     </div>
   </div>
 </div>
@@ -59,10 +82,12 @@ Per diventare membri AISF è necessario:
 
 Le quote associative per l'anno corrente sono:
 <ul class="collection">
-  <li class="collection-item">5€ se studente di laurea triennale o magistrale.<br>
-    L'importo è di 5.45€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
-  <li class="collection-item">10€ se studente di dottorato di ricerca.<br>
-  L'importo è di 10.54€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
+  <li class="collection-item"><b>5€</b> se studente di laurea <b>triennale o magistrale</b>.<br>
+    L'importo è di 5.45€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.<br>
+    L'importo è di 5.32€ se pagato tramite carta di credito/debito per via della tariffa applicata dall'operatore.</li>	
+<li class="collection-item"><b>10€</b> se studente di <b>dottorato di ricerca</b>.<br>
+  L'importo è di 10.54€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.<br>
+    L'importo è di 10.39€ se pagato tramite carta di credito/debito per via della tariffa applicata dall'operatore.</li>		
 </ul>
 
 Il trattamento dei dati personali è effettuato secondo l'<a href="http://ai-sf.it/Informativa_Privacy_AISF.pdf">informativa</a> sulla privacy ai sensi della General Data Protection Regulation (GDPR) dell’Unione Europea e dell’art. 13 D.Lgs. 196/2003.
