@@ -179,8 +179,8 @@
   logo: "/img/loghi_LC/trento.jpg"
 
 - nome: "Trieste"
-  img: "/img/presidenti/nopres.png"
-  #img: "/img/presidenti/trieste_federico-loi.jpg "
+  #img: "/img/presidenti/nopres.png"
+  img: "/img/presidenti/trieste_loi.jpg"
   mail: "trieste"
   presidente: "Federico Loi"
   fondazione: "04/2018"
