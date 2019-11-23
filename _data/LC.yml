@@ -29,13 +29,13 @@
   logo: "/img/loghi_LC/calabria.png"
 
 - nome: "Firenze"
-  img: "/img/presidenti/firenze_meoni.jpg"
+  img: "/img/presidenti/firenze_santoni.jpg"
   mail: "firenze"
-  presidente: "Simone Meoni"
+  presidente: "Andrea Santoni"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/AISFComitatoLocaleFirenze/"
   regolamento: "https://drive.google.com/open?id=0B494AF3MCZKJSS1scjl3aXV6cmc"
-  ex: "Matteo Barbetti, Nicolò Antolini"
+  ex: "Simone Meoni, Matteo Barbetti, Nicolò Antolini"
   logo: "/img/loghi_LC/firenze.png"
 
 - nome: "Genova"
