@@ -38,7 +38,7 @@ Ex presidenti: {{ item.ex }}
 {% endif %}
 {% if item.url != nil %}	
 <a href="{{ item.url }}" target="_blank" title="Pagina Web">
-<i class="fas fa-lg fa-globee" aria-hidden="true"></i>
+<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
 </a>
 {% endif %}
 {% if item.regolamento != nil %}
