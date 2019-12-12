@@ -68,6 +68,16 @@
   ex: "Giulia Marcucci"
   logo: "/img/loghi_LC/milano_bicocca.jpg"
 
+- nome: "Napoli"
+  img: "/img/presidenti/napoli_sirletti.jpeg"
+  mail: "napoli"
+  presidente: "Salvatore Samuele Sirletti"
+  fondazione: "11/2019"
+  fb: 
+  regolamento: 
+  ex: 
+  logo:
+
 - nome: "Padova"
   img: "/img/presidenti/padova_saleh.jpg"
   mail: "padova"
@@ -117,6 +127,7 @@
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qU2pNR1hPMVRsVmc/view?usp=sharing"
   ex: "Matteo Chiappini, Giacomo Bagnato, Niccolo Baldelli, Marco Morrone"
   logo: "/img/loghi_LC/pisa.png"
+  url: "http://ai-sf.it/pisa/"
 
 - nome: "Roma Sapienza"
   img: "/img/presidenti/roma-sapienza_martina_delgiorno.jpg"
