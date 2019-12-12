@@ -36,6 +36,11 @@ Ex presidenti: {{ item.ex }}
 <i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
 </a>
 {% endif %}
+{% if item.url != nil %}	
+<a href="{{ item.url }}" target="_blank" title="Pagina Web">
+<i class="fas fa-lg fa-globee" aria-hidden="true"></i>
+</a>
+{% endif %}
 {% if item.regolamento != nil %}
 <a href="{{ item.regolamento }}" target="_blank" title="Regolamento Interno">
 <i class="fa fa-lg fa-file-text"></i>
