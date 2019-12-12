@@ -8,9 +8,14 @@ redirect_from:
   - /it/contacts?catid=0&id=27/
 ---
 
+{% assign n = 0 %}
+{% for item in site.data.LC %}
+{% assign n = n | plus: 1 %}
+{% endfor %}
+
 <img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
 
-L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione no-profit di volontariato con finalità culturali, nata nell’agosto 2014 in occasione della XXIX International Conference of Physics Students presso Heildelberg, Germania. Legalmente costituita nel novembre dello stesso anno, nei suoi primi anni di vita AISF ha raccolto più di 1400 membri e dato vita a 19 Comitati Locali in tutto il Paese, realizzando numerosi eventi dedicati agli studenti e alla divulgazione scientifica e collaborando con le principali realtà accademiche e scientifiche italiane ed estere. AISF è, inoltre, National Committe per l’Italia dell’International Association of Physics Students (IAPS), un’organizzazione ombrello che raccoglie membri individuali e società di Fisica in tutto il mondo.
+L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione no-profit di volontariato con finalità culturali, nata nell’agosto 2014 in occasione della XXIX International Conference of Physics Students presso Heildelberg, Germania. Legalmente costituita nel novembre dello stesso anno, nei suoi primi anni di vita AISF ha raccolto più di 1400 membri e dato vita a {{ n }} Comitati Locali in tutto il Paese, realizzando numerosi eventi dedicati agli studenti e alla divulgazione scientifica e collaborando con le principali realtà accademiche e scientifiche italiane ed estere. AISF è, inoltre, National Committe per l’Italia dell’International Association of Physics Students (IAPS), un’organizzazione ombrello che raccoglie membri individuali e società di Fisica in tutto il mondo.
 
 L’obiettivo dell'AISF è riunire sotto un'unica associazione gli studenti di Fisica italiani, dando vita a un network nazionale e ponendosi come punto di riferimento nell’ambiente universitario, completando e ampliando l'esperienza univeristaria e accademica dei propri membri. Importante obiettivo dell'Associazione è anche la promozione di attività culturali volte alla divulgazione della scienza e, in particolare, della Fisica. Con questo obiettivo assume particolare rilevanza la promozione delle relazioni fra studenti di Fisica di tutte le Università italiane, introducendoli in una comunità nazionale, incoraggiandoli nella loro carriera lavorativa e accademica, nonché organizzando un incontro nazionale di occorrenza annuale, la Conferenza Italiana Studenti di Fisica.
 

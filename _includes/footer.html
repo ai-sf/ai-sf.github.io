@@ -1,9 +1,14 @@
+{% assign n = 0 %}
+{% for item in site.data.LC %}
+{% assign n = n | plus: 1 %}
+{% endfor %}
+
 <footer class="page-footer aisf">
   <div class="container">
     <div class="row">
       <div class="col l6 s12">
         <h5 class="white-text">Associazione Italiana Studenti di Fisica</h5>
-        <p class="grey-text text-lighten-4">L’Associazione Italiana Studenti di Fisica è un’associazione con finalità culturali, il cui obiettivo è la creazione di un network tra gli studenti di Fisica italiani attraverso l’organizzazione di eventi locali, nazionali e internazionali. Conta più di 1400 membri e 19 Comitati Locali; è Comitato Nazionale dell'International Association of Physics Students (IAPS).</p>
+        <p class="grey-text text-lighten-4">L’Associazione Italiana Studenti di Fisica è un’associazione con finalità culturali, il cui obiettivo è la creazione di un network tra gli studenti di Fisica italiani attraverso l’organizzazione di eventi locali, nazionali e internazionali. Conta più di 1400 membri e {{ n }} Comitati Locali; è Comitato Nazionale dell'International Association of Physics Students (IAPS).</p>
       </div>
       <div class="col l3 s12">
         <h5 class="white-text">Contact</h5>
