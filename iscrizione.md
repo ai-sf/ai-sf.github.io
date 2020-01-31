@@ -69,6 +69,8 @@ Per diventare membri AISF è necessario:
 	<img src="{{ site.url }}/img/stripe_white.svg" style="width:100px;"></a>
 	<br>
 	<p>Commissioni per carte europee: 1.4 % + 0.25€.</p>
+	<br>
+	<p>Commissioni per carte non europee: 2.9 % + 0.25€.</p>
 	</div>
     </div>
   </div>
