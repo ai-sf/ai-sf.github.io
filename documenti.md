@@ -23,9 +23,9 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Atto costitutivo</a>
-  <a href="https://drive.google.com/file/d/1c4XE4ZDdGNP366DKrab9zxgtQOGS4Qkb/view?usp=sharing" class="collection-item">Statuto</a>
-  <a href="https://drive.google.com/file/d/1Af05vQNT_pJnT65U1n8h3aLfxRe7y29w/view?usp=sharing" class="collection-item">Regolamento Interno</a>
-  <a href="https://drive.google.com/file/d/1SyVXxGKHP5hSg9AA0cNMwrPkLw96Jx57/view?usp=sharing" class="collection-item">Regolamento Comitati Locali</a>
+  <a href="https://drive.google.com/file/d/1qcVKUHFVLwcMVKTbsaoutcS34q_U8X7a/view?usp=sharing" class="collection-item">Statuto</a>
+  <a href="https://drive.google.com/file/d/1AoGzO-qHWD9HINByuS4gijjNqjchJgx3/view?usp=sharing" class="collection-item">Regolamento Interno</a>
+  <a href="https://drive.google.com/file/d/1AGkgfWa1NZybL4vyrVjNiVfKEDog31w7/view?usp=sharing" class="collection-item">Regolamento Comitati Locali</a>
 </div>
 
 ## Verbali
