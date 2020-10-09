@@ -3,7 +3,7 @@ layout: event
 categories: eventolocale
 title: "Matricole in era Covid"
 CL: Bari
-locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/BA361/locandina_19_ottobre.jpg
+locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/BA363/LOCANDINA_GIUSTA.jpg
 gallery:
 articolo: "-"
 report: 
