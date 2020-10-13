@@ -18,6 +18,7 @@
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
   ex: Lorenzo Lasagni, Marco De Vito, Alessandra Lorenzo
   logo: "/img/loghi_LC/bologna.jpg"
+  congelato: true
 
 - nome: "Calabria"
   img: "/img/presidenti/calabria_olivieri.jpg"
@@ -154,7 +155,7 @@
   regolamento: "https://drive.google.com/open?id=1LLsoMrB4PcnaE0Z8B4NuPzKZWwvRuRLu"
   ex: "Simone La Cesa, Manuela Tulli"
   logo: "/img/loghi_LC/roma_tor_vergata.png"
-
+  congelato: true
 - nome: "Roma Tre"
   img: "/img/presidenti/roma-tre_lucrezia_bianchi.jpg"
   mail: "roma.tre"
