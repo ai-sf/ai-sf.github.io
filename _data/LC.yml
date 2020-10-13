@@ -12,11 +12,11 @@
 - nome: "Bologna"
   img: "/img/presidenti/bologna_salvi.jpg"
   mail: "bologna"
-  presidente: "Francesco Salvi"
+  presidente: ""
   fondazione: "06/2016"
   fb: "https://www.facebook.com/aisflcbologna"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
-  ex: Lorenzo Lasagni, Marco De Vito, Alessandra Lorenzo
+  ex: Francesco Salvi, Lorenzo Lasagni, Marco De Vito, Alessandra Lorenzo
   logo: "/img/loghi_LC/bologna.jpg"
   congelato: true
 
@@ -149,13 +149,14 @@
 - nome: "Roma Tor Vergata"
   img: "/img/presidenti/roma-tor_evangelista.jpg"
   mail: "romatorvergata"
-  presidente: "Antonio Evangelista"
+  presidente: ""
   fondazione: "05/2016"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"
   regolamento: "https://drive.google.com/open?id=1LLsoMrB4PcnaE0Z8B4NuPzKZWwvRuRLu"
-  ex: "Simone La Cesa, Manuela Tulli"
+  ex: "Antonio Evangelista, Simone La Cesa, Manuela Tulli"
   logo: "/img/loghi_LC/roma_tor_vergata.png"
   congelato: true
+
 - nome: "Roma Tre"
   img: "/img/presidenti/roma-tre_lucrezia_bianchi.jpg"
   mail: "roma.tre"
@@ -169,12 +170,13 @@
 - nome: "Salerno"
   img: "/img/presidenti/salerno_gravina.jpg"
   mail: "salerno"
-  presidente: "Antonio Gravina"
+  presidente: ""
   fondazione: "05/2015"
   fb: ""
   regolamento: "https://drive.google.com/open?id=1lLAvdU2mAFQp2cw21ShhC7tKQ8JGpvpx"
-  ex: "Carlo Pepe, Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
+  ex: "Antonio Gravina, Carlo Pepe, Matteo Crispino, Amedeo Ferrentino, Luca Buoninfante"
   logo:
+  congelato: true
 
 - nome: "Torino"
   img: "/img/presidenti/torino_biello.jpg"
