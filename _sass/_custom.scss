@@ -51,3 +51,7 @@ padding: 20px 0 0 0;
 #foto-eventi { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
 
 #index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+
+#presidenti_LC .circle{
+    object-fit: fill;
+}

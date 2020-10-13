@@ -13,7 +13,7 @@ redirect_from:
 
 AISF conta attualmente {{ n }} comitati locali in altrettante università:
 
-<ul class="collection">
+<ul id="presidenti_LC" class="collection">
 {% for item in site.data.LC %}
 <li class="collection-item avatar" id="{{ item.nome }}">
 <!-- <div class="tertiary-content">

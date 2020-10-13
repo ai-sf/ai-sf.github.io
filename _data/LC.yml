@@ -1,11 +1,12 @@
+# ok
 - nome: "Bari"
-  img: "/img/presidenti/bari_losasso.png"
+  img: "/img/presidenti/bari_caragnano.jpg"
   mail: "bari"
-  presidente: "Andrea Lo Sasso"
+  presidente: "Stefania Caragnano"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
   regolamento: "https://drive.google.com/open?id=14w1MBAYsSPpsdo07kCX3Qbbaj8UYYoDj"
-  ex: "Vincenzo Alberto Sansipersico, Sergio Picella, Simona Rossini"
+  ex: "Andrea Lo Sasso, Vincenzo Alberto Sansipersico, Sergio Picella, Simona Rossini"
   logo: "/img/loghi_LC/bari.jpg"
 
 - nome: "Bologna"
@@ -48,24 +49,26 @@
   ex: "Marco Di Stefano, Lorenzo Ferrari Barusso"
   logo: "/img/loghi_LC/genova.jpg"
 
+# ok
 - nome: "Milano"
-  img: "/img/presidenti/milano_radaelli.jpg"
+  img: "/img/presidenti/milano_vismara.jpg"
   mail: "milano"
-  presidente: "Elisa Radaelli"
+  presidente: "Matteo Vismara"
   fondazione: "05/2015"
   fb: "https://www.facebook.com/aisfunimi"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qRW0wajc3cjN6aGM/view?usp=sharing"
-  ex: "Luca Teruzzi, Emilio Villa, Daniele Oriani, Valerio Peri"
+  ex: "Elisa Radaelli, Luca Teruzzi, Emilio Villa, Daniele Oriani, Valerio Peri"
   logo: "/img/loghi_LC/milano_statale.jpg"
 
+#ok
 - nome: "Milano Bicocca"
-  img: "/img/presidenti/bicocca_calissi2.jpg"
+  img: "/img/presidenti/milano_bicocca_stevenazzi.jpg"
   mail: "milano.bicocca"
-  presidente: "Carlo Calissi"
+  presidente: "Lorenzo Stevenazzi"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISFMilanoBICOCCA/"
   regolamento: "https://drive.google.com/open?id=1dydqJjkCizciicWn8dav_yA1uC3Xwq-s"
-  ex: "Giulia Marcucci"
+  ex: "Carlo Calissi, Giulia Marcucci"
   logo: "/img/loghi_LC/milano_bicocca.jpg"
 
 - nome: "Napoli"
@@ -88,24 +91,26 @@
   ex: "Valentina Picciano, Federica Lorenzi, Leonardo Pacciani"
   logo: "/img/loghi_LC/padova.jpg"
 
+#
 - nome: "Palermo"
-  img: "/img/presidenti/palermo_santi-macaluso.jpg"
+  img: "/img/presidenti/palermo_di_benedetto.jpg"
   mail: "palermo"
-  presidente: "Santi Macaluso"
+  presidente: "Enrico Di Benedetto"
   fondazione: "04/2019"
   fb: "https://www.facebook.com/aisfpalermoLC/"
   regolamento: "https://drive.google.com/open?id=1XcRIRHMm3weOHhHDAc__GTbL9XoBpbmz"
-  ex:
+  ex: "Santi Macaluso"
   logo:
 
+#ok
 - nome: "Pavia"
-  img: "/img/presidenti/pavia_federica-dedomenico.jpg"
+  img: "/img/presidenti/pavia_candido.jpg"
   mail: "pavia"
-  presidente: "Federica De Domenico"
+  presidente: "Marco Candido"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/aisfpavia/"
   regolamento: "https://drive.google.com/open?id=1VdEzh7IjZNHyAHaXW7EFfJqzOqKhkadD"
-  ex: Federico Sabattoli, Elisabetta Vesconi
+  ex: Federica De Domenico, Federico Sabattoli, Elisabetta Vesconi
   logo: "/img/loghi_LC/pavia.png"
 
 - nome: "Perugia"
@@ -180,23 +185,25 @@
   ex: "Andrea Barresi, Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
   logo: "/img/loghi_LC/torino.jpg"
 
+# ok
 - nome: "Trento"
-  img: "/img/presidenti/trento_bacciconi.jpg"
+  img: "/img/presidenti/trento_beghini.jpeg"
   mail: "trento"
-  presidente: "Zeno Bacciconi"
+  presidente: "Laura Beghini"
   fondazione: "12/2015"
   fb: "https://www.facebook.com/AISF-Trento-958208697625956/"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qVnk2N2lOR2pHWmc/view?usp=sharing"
-  ex: "Roberto Ciccarelli, Luca Lazzizzera, Emily Damiani"
+  ex: "Zeno Bacciconi, Roberto Ciccarelli, Luca Lazzizzera, Emily Damiani"
   logo: "/img/loghi_LC/trento.jpg"
 
+#ok 
 - nome: "Trieste"
   #img: "/img/presidenti/nopres.png"
-  img: "/img/presidenti/trieste_loi.jpg"
+  img: "/img/presidenti/trieste_de_santis.jpg"
   mail: "trieste"
-  presidente: "Federico Loi"
+  presidente: "Jacopo De Santis"
   fondazione: "04/2018"
   fb: "https://www.facebook.com/aisftrieste/"
   regolamento:
-  ex:
+  ex: "Federico Loi"
   logo: "/img/loghi_LC/trieste.png"
