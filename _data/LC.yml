@@ -21,13 +21,13 @@
   congelato: true
 
 - nome: "Calabria"
-  img: "/img/presidenti/calabria_olivieri.jpg"
+  img: ""
   mail: "calabria"
-  presidente: "Antonietta Olivieri"
+  presidente: "Edoardo De Rose"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-UniCal-938404002996014/"
   regolamento: "https://drive.google.com/open?id=1ANC0gCzM-Eh2AnvvUhcsLiFuTU193DhE"
-  ex: "Alfredo D'Ambrosio"
+  ex: "Antonietta Olivieri, Alfredo D'Ambrosio"
   logo: "/img/loghi_LC/calabria.png"
 
 - nome: "Firenze"
@@ -73,13 +73,13 @@
   logo: "/img/loghi_LC/milano_bicocca.jpg"
 
 - nome: "Napoli"
-  img: "/img/presidenti/napoli_sirletti.jpeg"
+  img: ""
   mail: "napoli"
-  presidente: "Salvatore Samuele Sirletti"
+  presidente: "Alessio Ciro Rapisarda"
   fondazione: "11/2019"
   fb: 
   regolamento: 
-  ex: 
+  ex: "Salvatore Samuele Sirletti"
   logo:
 
 - nome: "Padova"
@@ -179,13 +179,13 @@
   congelato: true
 
 - nome: "Torino"
-  img: "/img/presidenti/torino_biello.jpg"
+  img: ""
   mail: "torino"
-  presidente: "Christian Biello"
+  presidente: "Ivanov Stoian"
   fondazione: "06/2015"
   fb: "https://www.facebook.com/AISF-Torino-1642147402727081/"
   regolamento: "https://drive.google.com/open?id=0B85S7yJHeRo6dWstUUlIeHJucGs"
-  ex: "Andrea Barresi, Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
+  ex: "Christian Biello, Andrea Barresi, Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
   logo: "/img/loghi_LC/torino.jpg"
 
 # ok

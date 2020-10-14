@@ -16,7 +16,7 @@ permalink: /esecutivo/
 
 {% for item in site.data.EC %}
 
-## Comitato Esecutivo ({{item.anno}})
+<h2> Comitato Esecutivo ({{item.anno}}) </h2>
 
 Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data {{ item.dataCISF }}. 
 {% if item.dataInizio != nil %}É entrato nel pieno delle sue funzioni in data {{ item.dataInizio }}.{% endif %}
@@ -36,7 +36,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 </ul>
 
 {% if item.collaboratori != nil %}
-### Collaboratori ({{item.anno}})
+<h3> Collaboratori ({{item.anno}}) </h3>
 
 <ul class="collection">
   {% for membro in item.collaboratori %}
@@ -59,32 +59,40 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 
 {% endfor %}
   
-## Mandati precedenti
+<h2>Mandati precedenti </h2>
 
-### Comitato Esecutivo (2015-2016)
+<h3>Comitato Esecutivo (2015-2016) </h3>
  
-- Andrea Celon - Presidente
-- Marta Crisanti - Vicepresidente e Responsabile relazioni con membri e comitati locali
-- Vittorio Erba - Segretario
-- Michele Re Fiorentin - Tesoriere
-- Francesco Sciortino - Coordinatore Eventi
-- Giulio Pasqualetti - IT Manager
-- Lucio Maria Milanese - Responsabile Progetto FERMI
+<ul>
+  <li>Andrea Celon - Presidente</li>
+  <li>Marta Crisanti - Vicepresidente e Responsabile relazioni con membri e comitati locali</li>
+  <li>Vittorio Erba - Segretario</li>
+  <li>Michele Re Fiorentin - Tesoriere</li>
+  <li>Francesco Sciortino - Coordinatore Eventi</li>
+  <li>Giulio Pasqualetti - IT Manager</li>
+  <li>Lucio Maria Milanese - Responsabile Progetto FERMI</li> 
+</ul> 
 
 
-### Collaboratori (2015-2016)
-- Lorenzo Bianchi
-- David Chiappini
+<h4>Collaboratori (2015-2016)</h4>
+<ul>
+  <li>Lorenzo Bianchi</li>
+  <li>David Chiappini</li>
+</ul> 
 
-### Comitato Esecutivo (2014-2015)
 
-- Andrea Celon - Presidente
-- Marta Crisanti - Tesoriere
-- Giulio Pasqualetti - Segretario
-- Francesco Sciortino - Rappresentante IAPS
+<h3>Comitato Esecutivo (2014-2015)</h3>
 
-### Collaboratori (2014-2015)
+<ul>
+  <li>Andrea Celon - Presidente</li>
+  <li>Marta Crisanti - Tesoriere</li>
+  <li>Giulio Pasqualetti - Segretario</li>
+  <li>Francesco Sciortino - Rappresentante IAPS</li>
+</ul>
 
-- Lorenzo Bianchi
-- Lucio Maria Milanese
-- Michele Re Fiorentin
+<h4>Collaboratori (2014-2015)</h3> 
+<ul>
+  <li>Lorenzo Bianchi</li>
+  <li>Lucio Maria Milanese</li>
+  <li>Michele Re Fiorentin</li>
+</ul>  

@@ -7,10 +7,12 @@ redirect_from:
 ---
 
 {% assign n = 0 %}
+{% assign tot = 0%}
 {% for item in site.data.LC %}
 	{% unless item.congelato %}
 		{% assign n = n | plus: 1 %}
 	{% endunless%}
+	{% assign tot = tot | plus: 1 %}
 {% endfor %}
 
 AISF conta attualmente {{ n }} comitati locali in altrettante università:
@@ -22,7 +24,13 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 				<!-- <div class="tertiary-content">
 					<img src="{{ item.logo }}">
 				</div> -->
-				<img src="{{ item.img }}" alt="" class="circle">
+				{% assign image = "/img/presidenti/vuoto.png" %}
+				
+				{% unless item.img == "" %}
+					{% assign image = item.img %}
+				{% endunless %}
+				
+				<img src="{{ image }}" alt="" class="circle">
 				Comitato Locale	di <b> {{ item.nome }} </b>
 				<p>
 				Presidente: {{ item.presidente }} 
@@ -56,12 +64,34 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 		{% endunless %}
 	{% endfor %}
 </ul>
+{% unless tot == n %}
+<ul class="collapsible" data-collapsible="accordion">
+	<li>
+		<div class="collapsible-header"><h3>Comitati Locali congelati</h3></div>
+		<div class="collapsible-body">
+			<ul class="collection">
+			{% for item in site.data.LC %}
+				{% if item.congelato %}
+					<li class="collection-item" id="{{ item.nome }}">
+						<span>
+							<h4> Comitato Locale	di <b> {{ item.nome }} </b> </h4>
+							{% if item.ex != nil %}
+							Ex presidenti: {{ item.ex }}
+							{% endif %} 				
+						</span>
+					</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>	
+	</li>
+</ul>
+{% endunless %}
 
-
-## Provenienza geografica
+<h2>Provenienza geografica</h2>
 
 <a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
 
-## Formare un nuovo Comitato Locale
+<h2> Formare un nuovo Comitato Locale </h2>
 
-Si faccia riferimento a [questa](/nuovocomitatolocale/) pagina.
+Si faccia riferimento a <a href="/nuovocomitatolocale/">questa</a> pagina.
