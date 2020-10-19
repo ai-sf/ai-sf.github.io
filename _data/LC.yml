@@ -179,7 +179,7 @@
   congelato: true
 
 - nome: "Torino"
-  img: ""
+  img: "/img/presidenti/torino_stoian.jpg"
   mail: "torino"
   presidente: "Ivanov Stoian"
   fondazione: "06/2015"
