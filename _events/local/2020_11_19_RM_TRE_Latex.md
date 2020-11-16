@@ -2,7 +2,7 @@
 layout: event
 categories: eventolocale
 title: "Corso di Latex Online"
-CL: Trento
+CL: Roma Tre
 locandina: https://www.ai-sf.it/dbaisf/docs/eventilocaliLC/RM_TR370/Post_corso_latex.jpg
 gallery:
 articolo: "-"
