@@ -21,7 +21,7 @@
   congelato: true
 
 - nome: "Calabria"
-  img: ""
+  img: "/img/presidenti/calabria_derose.jpg"
   mail: "calabria"
   presidente: "Edoardo De Rose"
   fondazione: "05/2018"
@@ -61,7 +61,7 @@
   ex: "Elisa Radaelli, Luca Teruzzi, Emilio Villa, Daniele Oriani, Valerio Peri"
   logo: "/img/loghi_LC/milano_statale.jpg"
 
-#ok
+
 - nome: "Milano Bicocca"
   img: "/img/presidenti/milano_bicocca_stevenazzi.jpg"
   mail: "milano.bicocca"
@@ -73,7 +73,7 @@
   logo: "/img/loghi_LC/milano_bicocca.jpg"
 
 - nome: "Napoli"
-  img: ""
+  img: "/img/presidenti/napoli_rapisarda.jpg"
   mail: "napoli"
   presidente: "Alessio Ciro Rapisarda"
   fondazione: "11/2019"
@@ -92,7 +92,6 @@
   ex: "Valentina Picciano, Federica Lorenzi, Leonardo Pacciani"
   logo: "/img/loghi_LC/padova.jpg"
 
-#
 - nome: "Palermo"
   img: "/img/presidenti/palermo_di_benedetto.jpg"
   mail: "palermo"
@@ -103,7 +102,6 @@
   ex: "Santi Macaluso"
   logo:
 
-#ok
 - nome: "Pavia"
   img: "/img/presidenti/pavia_candido.jpg"
   mail: "pavia"
@@ -188,7 +186,6 @@
   ex: "Christian Biello, Andrea Barresi, Maria Vittoria Zanchettin, Mattia Ivaldi, Riccardo Longo"
   logo: "/img/loghi_LC/torino.jpg"
 
-# ok
 - nome: "Trento"
   img: "/img/presidenti/trento_beghini.jpeg"
   mail: "trento"
@@ -199,9 +196,7 @@
   ex: "Zeno Bacciconi, Roberto Ciccarelli, Luca Lazzizzera, Emily Damiani"
   logo: "/img/loghi_LC/trento.jpg"
 
-#ok 
 - nome: "Trieste"
-  #img: "/img/presidenti/nopres.png"
   img: "/img/presidenti/trieste_de_santis.jpg"
   mail: "trieste"
   presidente: "Jacopo De Santis"
