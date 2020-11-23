@@ -3602,7 +3602,7 @@ $(document).ready(function(){
       offset: 0
     };
     options = $.extend(defaults, options);
-
+    console.log(options);
     $index = 0;
     return this.each(function() {
       var $uniqueId = Materialize.guid(),

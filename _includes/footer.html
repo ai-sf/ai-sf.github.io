@@ -1,6 +1,8 @@
 {% assign n = 0 %}
 {% for item in site.data.LC %}
-{% assign n = n | plus: 1 %}
+{% unless item.congelato %}
+  {% assign n = n | plus: 1 %}
+{% endunless %}
 {% endfor %}
 
 <footer class="page-footer aisf">

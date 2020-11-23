@@ -1,5 +1,24 @@
 $(function () {
 
+
+	function updatePushPin() {
+		// inizializza PushPin (http://archives.materializecss.com/0.100.2/pushpin.html)
+		$(".legend-wrapper").pushpin({
+			top: $(".legend-wrapper").parent().offset().top,
+			bottom: $("body > footer").first().offset().top - $(".legend-wrapper").parent().height() - 100,
+		});
+
+		// inizializza ScrollSpy (http://archives.materializecss.com/0.100.2/scrollspy.html)
+		$('.scrollspy').scrollSpy();
+	}
+
+	// serve per evitare che la descrizione dell'evento nella sezione ""
+	function truncate(str, n) {
+		if (str.length <= n) return str
+		str_sub = str.substr(0, n - 1)
+		return str.length <= n ? str : str_sub.substr(0, str_sub.lastIndexOf(" ")) + "&hellip;";
+	};
+
 	// recupera lista di eventi dal database con AJAX e chiama la funzione on_success.
 	// on_success DEVE agire sull'elemento target
 	function retrieveEvents(on_success, target, comitato, max_date, min_date, num_items, reverse=0) {
@@ -14,6 +33,7 @@ $(function () {
 			filters["num_items"] = num_items;
 		filters["reverse"] = reverse;
 		
+		// richiesta ajax al server
 		$.get(
 			"http://www.ai-sf.it/dbaisf/getJSON.php",
 			filters,
@@ -21,21 +41,17 @@ $(function () {
 		);
 	}
 
-	function truncate(str, n) {
-		if (str.length <= n) return str
-		str_sub = str.substr(0, n - 1)
-		return str.length <= n ? str : str_sub.substr(0, str_sub.lastIndexOf(" ")) + "&hellip;";
-	};
-
+	// interpreta il dict "response" e inserisce all'interno di "target" gli eventi in formato "grande"
 	function inject_events_big(target, response) {
-		console.log(response);
 		var content = "";
 		var i = 0;
 		var columns = 2;
 		response.forEach(event => {
+
 			date = new Date(event["data_evento"]);
 			date_string = date.toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
 			
+			// creo nuovo inizio riga
 			if (i % columns == 0)
 				content += '<div class="row">';
 
@@ -90,16 +106,17 @@ $(function () {
 			content += `</div>
 				</div>
 			</div> `;
+
+			// chiudo riga corrente
 			if (i % columns == (columns-1))
 				content += "</div>";
 
 			i++;
 		});
 		target.html(content);
-
 	}
 
-
+	// interpreta il dict "response" e inserisce all'interno di "target" gli eventi in formato "piccolo"
 	function inject_events_small(target, response) {
 		var content = "";
 		if (response.length == 0) {
@@ -139,9 +156,23 @@ $(function () {
 				</li>`;
 		});
 		target.html(content);
-
 	}
 
+
+	// evento jQuery scatenato quando tutte le richieste ajax sono terminate
+	$(document).ajaxStop(function () {
+		// nascondo il preloader. 
+		// updatePushPin viene eseguito alla fine per essere sicuro che tutti gli elementi siano
+		// al loro posto 
+		$("#preloader").fadeOut(50, function () {
+			$("#content-events").animate(
+				{
+					opacity: 1
+				}, 50, function () { 
+				updatePushPin();
+			});
+		});
+	});
 
 	today = new Date();
 	today_string = today.toISOString().slice(0, 10);
@@ -149,7 +180,6 @@ $(function () {
 	retrieveEvents(inject_events_big, $("#eventi-passati"), undefined, today_string, undefined, 9);
 	today.setDate(today.getDate() - 365)
 	var one_year_ago = today.toISOString();
-	console.log(one_year_ago);
 
 	$(".lista-comitati").each(function () {
 		var comitato = $(this).data("nome");
@@ -160,15 +190,7 @@ $(function () {
 					<ul class="collection LC-container"></ul>
 			</div>
 		`);
-		retrieveEvents(inject_events_small, $("#eventi-"+comitato_code+" .LC-container"), comitato, undefined, one_year_ago, undefined);
+		retrieveEvents(inject_events_small, $("#eventi-" + comitato_code + " .LC-container"), comitato, undefined, one_year_ago, undefined);
 	});
 
-	
-	setTimeout(function () {
-		$('.legend-wrapper').pushpin({
-			top: 64,
-			bottom: $('body > footer').first().offset().top - $('.legend-wrapper #scroll-legend').height() - 100
-		});
-		$('.scrollspy').scrollSpy();
-	}, 500);
 });

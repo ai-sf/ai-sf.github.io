@@ -144,7 +144,9 @@ padding: 20px 0 0 0;
     border-left: 3px solid $secondary-color !important;
 }
 
-
+#scroll-legend{
+    margin-right: -10em;
+}
 
 #scroll-legend a{
     padding-left: 16px;
@@ -163,6 +165,9 @@ padding: 20px 0 0 0;
     padding-left: 12px;
     color: $secondary-color !important;
     font-weight: 600 !important;
+}
+body{
+    overflow-x: hidden !important;
 }
 
 .small-legend{
@@ -218,4 +223,17 @@ padding: 20px 0 0 0;
     line-height: 26px;
     right: 60px;
     display: block;
+}
+
+#content-events{
+    opacity: 0;
+}
+
+#preloader{
+    margin-top:5em;
+}
+
+.spinner-aisf{
+    @extend .spinner-blue-only;
+    border-color: $secondary-color;
 }

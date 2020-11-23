@@ -9,7 +9,23 @@ custom_js:
 {% comment %}
 I dati vengono caricati dal database tramite load_events.js
 {% endcomment %}
-<div class="row">
+<div id="preloader" class="center">
+  <div class="preloader-wrapper big active">
+  <div class="spinner-layer spinner-aisf">
+    <div class="circle-clipper left">
+      <div class="circle"></div>
+    </div>
+    <div class="gap-patch">
+      <div class="circle"></div>
+    </div>
+    <div class="circle-clipper right">
+      <div class="circle"></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="row" id="content-events">
 
 <div class="col m10 s12">
     <h2>Prossimamente</h2>
