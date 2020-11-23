@@ -52,6 +52,170 @@ padding: 20px 0 0 0;
 
 #index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
 
+
 #presidenti_LC .circle{
-    object-fit: fill;
+    object-fit: cover;
+}
+
+.events-container .card-image .after{
+    background:#000000dd;
+    position: absolute;
+    background: linear-gradient(0deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.2) 100%);
+    width:100%;
+    height:100%;
+    top: 0;
+    content:' ';
+}
+
+.events-container .card-image img{
+    object-fit: cover;
+    object-position: 50% 50%;
+    width:100%;
+    height:100%;
+    position: relative;
+    display: block;
+}
+
+.events-container .card-content{
+    position:absolute;
+    bottom: 0px;
+    height: auto;
+    width: 100%;
+}
+
+.events-container .card-content .card-title,
+.events-container .card-reveal .card-title{
+    line-height: normal;
+    font-weight: 400;
+    text-align: left;
+    //margin-bottom:65px;
+}
+
+.events-container .card-image{
+    height:100% !important;
+}
+
+.events-container .card-action{
+    border: 0px !important;
+}
+
+.events-container .chip{
+    background-color: $secondary-color;
+    color: white;
+}
+.events-container .card-content .pre-title{
+    margin-bottom: 15px;
+}
+
+.events-container .event-date{
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    margin-left: 10px;
+}
+
+.events-container .pre-title .activator{
+    cursor: pointer;
+}
+
+.events-container .card-reveal .card-title{
+    font-weight: 400;
+    color: $secondary-color;
+}
+
+.events-container .event-options{
+    padding: 5px;
+}
+.events-container .event-options i{
+    margin-right:5px;
+}
+
+.legend-wrapper{
+    margin-left: 2em;
+}
+
+.small-legend a.active{
+    border-left: 3px solid $secondary-color !important;
+    padding-left: 8px !important;
+}
+
+.small-legend a:hover{
+    padding-left: 8px !important;
+    border-left: 3px solid $secondary-color !important;
+}
+
+
+
+#scroll-legend a{
+    padding-left: 16px;
+    font-weight: 600;
+    color: #bbb;
+}
+
+#scroll-legend a:hover{
+    border-left: 4px solid $secondary-color;
+    padding-left: 12px;
+    color: #666;
+}
+
+#scroll-legend a.active{
+    border-left: 4px solid $secondary-color;
+    padding-left: 12px;
+    color: $secondary-color !important;
+    font-weight: 600 !important;
+}
+
+.small-legend{
+    padding: 0px !important;
+}
+.small-legend a{
+    font-size: 12px;
+    margin-left: 15px !important;
+    line-height: 1rem;
+    height: 1rem;
+    padding-left: 12px !important;
+}
+
+
+#eventi-comitati h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: $secondary-color;
+}
+
+#eventi-comitati img{
+    object-fit: cover;
+    width: 80px;
+    height: 80px;
+}
+
+#eventi-comitati .collection-item{
+    min-height: 120px;
+}
+
+#eventi-comitati .primary-content{
+    margin-right: 50px;
+}
+
+#eventi-comitati .primary-content div.date{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#eventi-comitati .primary-content span.title{
+    color: $secondary-color;
+
+}
+
+#eventi-comitati .primary-content .chip.upcoming{
+    color: white;
+    background-color: $secondary-color;
+    font-size: 12px;
+    font-weight: 600;
+    position: absolute;
+    top: 28px;
+    height: 26px;
+    line-height: 26px;
+    right: 60px;
+    display: block;
 }

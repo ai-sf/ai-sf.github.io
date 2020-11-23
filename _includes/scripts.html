@@ -40,3 +40,6 @@
       $('.carousel').carousel();
   });
 </script>
+{% for script in page.custom_js%}
+<script src="/js/custom/{{page.custom_js}}.js"></script>
+{% endfor %}
