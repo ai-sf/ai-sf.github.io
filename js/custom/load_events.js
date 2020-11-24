@@ -21,7 +21,7 @@ $(function () {
 
 	// recupera lista di eventi dal database con AJAX e chiama la funzione on_success.
 	// on_success DEVE agire sull'elemento target
-	function retrieveEvents(on_success, target, comitato, max_date, min_date, num_items, reverse=0) {
+	function retrieveEvents(on_success, target, comitato, max_date, min_date, num_items, reverse = 0) {
 		filters = {};
 		if (!!comitato)
 			filters["comitato"] = comitato;
@@ -32,7 +32,7 @@ $(function () {
 		if (!!num_items)
 			filters["num_items"] = num_items;
 		filters["reverse"] = reverse;
-		
+
 		// richiesta ajax al server
 		$.get(
 			"http://www.ai-sf.it/dbaisf/getJSON.php",
@@ -47,10 +47,9 @@ $(function () {
 		var i = 0;
 		var columns = 2;
 		response.forEach(event => {
-
 			date = new Date(event["data_evento"]);
 			date_string = date.toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
-			
+
 			// creo nuovo inizio riga
 			if (i % columns == 0)
 				content += '<div class="row">';
@@ -62,7 +61,7 @@ $(function () {
 			if (url_locandina.slice(url_locandina.length - 3, url_locandina.length) == "pdf")
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
 			content += `
-				<div class="col s12 m${12/columns}"> 
+				<div class="col s12 m${12 / columns}"> 
 					<div class="card medium sticky-action"> 
 						<div class="card-image"> 
 							<img src="${url_locandina}">
@@ -108,7 +107,7 @@ $(function () {
 			</div> `;
 
 			// chiudo riga corrente
-			if (i % columns == (columns-1))
+			if (i % columns == (columns - 1))
 				content += "</div>";
 
 			i++;
@@ -130,10 +129,10 @@ $(function () {
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
 			else
 				url_locandina = event["url_locandina"].trim().split(" ")[0].trim();
-			
+
 			if (url_locandina.slice(url_locandina.length - 3, url_locandina.length) == "pdf")
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
-			
+
 			content += `
 				<li class="collection-item avatar">
 					<img class="circle" src="${url_locandina}">
@@ -168,9 +167,9 @@ $(function () {
 			$("#content-events").animate(
 				{
 					opacity: 1
-				}, 50, function () { 
-				updatePushPin();
-			});
+				}, 50, function () {
+					updatePushPin();
+				});
 		});
 	});
 
