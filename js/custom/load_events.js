@@ -35,7 +35,7 @@ $(function () {
 
 		// richiesta ajax al server
 		$.get(
-			"http://www.ai-sf.it/dbaisf/getJSON.php",
+			"http://localhost/getJSON.php", //"http://www.ai-sf.it/dbaisf/getJSON.php",
 			filters,
 			(...lastArgs) => { return on_success(target, ...lastArgs); }
 		);
@@ -54,10 +54,10 @@ $(function () {
 			if (i % columns == 0)
 				content += '<div class="row">';
 
-			if (!event["url_locandina"])
+			if (!event["url_locandina_sito"])
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
 			else
-				url_locandina = event["url_locandina"].trim().split(" ")[0].trim();
+				url_locandina = event["url_locandina_sito"].trim().split(" ")[0].trim();
 			if (url_locandina.slice(url_locandina.length - 3, url_locandina.length) == "pdf")
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
 			content += `
