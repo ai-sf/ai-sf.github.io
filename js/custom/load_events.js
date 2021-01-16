@@ -125,10 +125,10 @@ $(function () {
 			var date = new Date(event["data_evento"]);
 			var date_string = date.toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
 			var today = new Date();
-			if (!event["url_locandina"])
+			if (!event["url_locandina_sito"])
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
 			else
-				url_locandina = event["url_locandina"].trim().split(" ")[0].trim();
+				url_locandina = event["url_locandina_sito"].trim().split(" ")[0].trim();
 
 			if (url_locandina.slice(url_locandina.length - 3, url_locandina.length) == "pdf")
 				url_locandina = "/img/AISF_LOGO_nobkg.png";
