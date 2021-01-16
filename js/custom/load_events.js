@@ -46,6 +46,9 @@ $(function () {
 		var content = "";
 		var i = 0;
 		var columns = 2;
+		if (response.length == 0) {
+			content += `<i>Nessun evento in programma! </i>`;
+		}
 		response.forEach(event => {
 			date = new Date(event["data_evento"]);
 			date_string = date.toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
