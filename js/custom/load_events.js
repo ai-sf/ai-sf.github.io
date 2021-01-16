@@ -35,7 +35,7 @@ $(function () {
 
 		// richiesta ajax al server
 		$.get(
-			"http://www.ai-sf.it/dbaisf/getJSON.php",
+			"https://www.ai-sf.it/dbaisf/getJSON.php",
 			filters,
 			(...lastArgs) => { return on_success(target, ...lastArgs); }
 		);
