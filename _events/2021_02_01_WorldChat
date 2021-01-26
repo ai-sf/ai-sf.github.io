@@ -9,6 +9,45 @@ gallery:
 site:
 place: "Online"
 ---
+
+<style>
+* {
+box-sizing: border-box;
+}
+
+.column {
+float: left;
+width: 33.33%;
+padding: 5px;
+}
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+
+.float-my-children > * {
+float:left;
+margin-right:5px;
+}
+
+.clearfix {
+*zoom:1 /* for IE */
+}
+
+.clearfix:before,
+.clearfix:after {
+content: " ";
+display: table;
+}
+
+.clearfix:after {
+clear: both;
+}
+
+</style>
+
 Stai pensando di fare un semestre in ERASMUS? Ma come organizzarsi? Ed è possibile farlo in modo sicuro nonostante la situazione pandemica attuale?
 Il 1 febbraio 2021 alle 20:00 ci troviamo insieme a due studenti, da Italia e Germania, che condivideranno le loro esperienze di Erasmus durante quest'anno e la pandemia e risponderanno a tutte le vostre domande. 
 L'evento si terrà su Zoom. 
