@@ -135,13 +135,13 @@
   url: "http://ai-sf.it/pisa/"
 
 - nome: "Roma Sapienza"
-  img: "/img/presidenti/roma-sapienza_martina_delgiorno.jpg"
+  img: ""
   mail: "roma.sapienza"
-  presidente: "Martina Del Giorno"
+  presidente: "Matteo Cheri"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Sapienza-1369227109880296"
   regolamento:
-  ex: "Kun Zhan"
+  ex: "Martina Del Giorno, Kun Zhan"
   logo: "/img/loghi_LC/roma_sapienza.jpg"
 
 - nome: "Roma Tor Vergata"
