@@ -124,7 +124,7 @@
   url: "http://ai-sf.it/perugia/"
 
 - nome: "Pisa"
-  img: ""
+  img: "/img/presidenti/pisa_carotta.jpg"
   mail: "pisa"
   presidente: "Giulio Carotta"
   fondazione: "07/2015"
@@ -187,7 +187,7 @@
   logo: "/img/loghi_LC/torino.jpg"
 
 - nome: "Trento"
-  img: ""
+  img: "/img/presidenti/trento_morelli.jpg"
   mail: "trento"
   presidente: "Giulia Morelli"
   fondazione: "12/2015"
