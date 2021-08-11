@@ -93,13 +93,13 @@
   logo: "/img/loghi_LC/padova.jpg"
 
 - nome: "Palermo"
-  img: "/img/presidenti/palermo_di_benedetto.jpg"
+  img: "/img/presidenti/palermo_cusimano.png"
   mail: "palermo"
-  presidente: "Enrico Di Benedetto"
+  presidente: "Giovanni Cusimano"
   fondazione: "04/2019"
   fb: "https://www.facebook.com/aisfpalermoLC/"
   regolamento: "https://drive.google.com/open?id=1XcRIRHMm3weOHhHDAc__GTbL9XoBpbmz"
-  ex: "Santi Macaluso"
+  ex: "Enrico Di Benedetto, Santi Macaluso"
   logo:
 
 - nome: "Pavia"
@@ -135,7 +135,7 @@
   url: "http://ai-sf.it/pisa/"
 
 - nome: "Roma Sapienza"
-  img: ""
+  img: "/img/presidenti/roma-sapienza_cheri.jpg"
   mail: "roma.sapienza"
   presidente: "Matteo Cheri"
   fondazione: "05/2018"
@@ -197,7 +197,7 @@
   logo: "/img/loghi_LC/trento.jpg"
 
 - nome: "Trieste"
-  img: ""
+  img: "/img/presidenti/trieste_chahine.jpg"
   mail: "trieste"
   presidente: "Karim Chahine"
   fondazione: "04/2018"
