@@ -18,7 +18,8 @@
 - text: Sezione Giovani
   url: /sg2021/
 - text: SdR
-  url: /sistemidiriferimento/
+  url: /sdrthesis/
+  #url: /sistemidiriferimento/
 - text: Iscriviti
   url: /iscrizione/
 - text: prePLANCKS
