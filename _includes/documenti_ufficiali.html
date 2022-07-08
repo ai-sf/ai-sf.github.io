@@ -1,0 +1,38 @@
+{% if include.anno %}
+  {% assign anni = include.documenti | where: "anno",include.anno %}
+{% else if include.exclude %}
+  {% assign anni = include.documenti | where_exp: "item", "item.anno != include.exclude and item.anno != 'statfond'" %}
+{% else %}
+  {% assign anni = include.documenti | where: "anno",include.anno %}
+{% endif %}
+{% assign asize = anni | size%}
+
+
+{% if asize > 1 %}
+  <ul class="collapsible">
+{% endif %}
+
+{% for anno in anni %}
+  {% if asize > 1%}
+    <li>
+      <div class="collapsible-header">Regolamenti anno {{anno.anno}}</div>
+      <div class="collapsible-body">
+        <div class="collection" style="margin: 0px">
+  {% else %}
+      <div class="collection">
+  {% endif %}
+
+        {% for documento in anno.documenti %}
+          <a href="{{documento.link}}https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">{{documento.nome}}</a>
+        {% endfor %}
+
+      </div>
+    {% if asize > 1 %}
+        </div></li>
+    {% endif %}
+
+{% endfor %}
+
+{% if asize > 1%}
+  </ul>
+{% endif %}

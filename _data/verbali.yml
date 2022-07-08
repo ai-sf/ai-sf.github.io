@@ -1,568 +1,461 @@
-- text: Anno 2021
+- anno: 2021/2022
   verbali:
-    - text: Videoconferenza con il comitato esecutivo - Allegato A 
-      data: 05 Mar 2022
-      link: https://drive.google.com/file/d/1_oYUmn3TGGK7DymKytDF9C1xfQaT-mC1/view
-    - text: Videoconferenza con i comitati locali 
-      data: 05 Mar 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con i comitati locali 
-      data: 09 Apr 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo
-      data: 16 Mar 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 05 Apr 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA  
-    - text: Videoconferenza con i comitati locali 
-      data: 05 Feb 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA  
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 02 Mar 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 02 Feb 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con i comitati locali 
-      data: 08 Gen 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con i comitati locali 
-      data: 04 Dic 2021
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 02 Feb 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 19 Gen 2022
-      link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 10 Nov 2021
-      link: https://drive.google.com/file/d/1HFMI8z7mkdflrvNxHCHpI3KWY7DuF2eo/view?usp=sharing
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 27 Ott 2021
-      link: https://drive.google.com/file/d/1g29qD7vAxQHPq_0pGmvorG3UpNXGD1wY/view?usp=sharing
-    - text: Videoconferenza con il comitato esecutivo 
-      data: 13 Ott 2021
-      link: https://drive.google.com/file/d/1ZH44dQk21E68RdzXfFWVB3g3DPoJ-WVg/view?usp=sharing
-    - text: Videoconferenza con i comitati locali
-      data: 06 Nov 2021
-      link: https://drive.google.com/file/d/1fFqgWJZlPIZ6Q48_kmXorwcdOq-MOqbP/view?usp=sharing
-    - text: Video conferenza con i comitati locali 
-      data: 25 Ott 2021
-      link: https://drive.google.com/file/d/1OchEI6DK1OVC8ALYxwQqNOhrXqL_dG8a/view?usp=sharing
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+        - data: 05 Mar 2022
+          link: https://drive.google.com/file/d/1_oYUmn3TGGK7DymKytDF9C1xfQaT-mC1/view
+          dettagli: Allegato A
+        - data: 05 Apr 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 16 Mar 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 02 Mar 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 02 Feb 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 02 Feb 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 19 Gen 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 10 Nov 2021
+          link: https://drive.google.com/file/d/1HFMI8z7mkdflrvNxHCHpI3KWY7DuF2eo/view?usp=sharing
+        - data: 27 Ott 2021
+          link: https://drive.google.com/file/d/1g29qD7vAxQHPq_0pGmvorG3UpNXGD1wY/view?usp=sharing
+        - data: 13 Ott 2021
+          link: https://drive.google.com/file/d/1ZH44dQk21E68RdzXfFWVB3g3DPoJ-WVg/view?usp=sharing
+    - tipo: Videoconferenze con i Comitati Locali
+      riunioni:
+        - data: 05 Mar 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 09 Apr 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 05 Feb 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 08 Gen 2022
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 04 Dic 2021
+          link: https://drive.google.com/drive/u/2/folders/0BzGkQdYyAM4qcXUtUlBhWEFXX00?resourcekey=0-HY0ZwYjpKXuN1nQ4ZLdFQA
+        - data: 06 Nov 2021
+          link: https://drive.google.com/file/d/1fFqgWJZlPIZ6Q48_kmXorwcdOq-MOqbP/view?usp=sharing
+        - data: 25 Ott 2021
+          link: https://drive.google.com/file/d/1OchEI6DK1OVC8ALYxwQqNOhrXqL_dG8a/view?usp=sharing
 
-- text: AGA 2021
+- anno: 2020/2021
   verbali:
-    - text: Verbale e documentazione AGA
-      data: 27 Giu 2021
-      link: https://drive.google.com/drive/folders/1JuBKy4NQEPl2TD_cyGjzH6gOdyknO2lR?usp=sharing
+    - tipo: Assemblea Generale Annuale
+      riunioni:
+      - dettagli: Verbale e documentazione AGA
+        data: 27 Giu 2021
+        link: https://drive.google.com/drive/folders/1JuBKy4NQEPl2TD_cyGjzH6gOdyknO2lR?usp=sharing
 
-- text: AGA 2020
+- anno: 2019/2020
   verbali:
-    - text: Verbale e documentazione AGA
-      data: 14 Giu 2020
-      link: https://drive.google.com/drive/folders/1bkHwRZgRK7jNi6VfSYQwiu17qs3P7Cdn?usp=sharing
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 23 Lug 2020
+        link: https://drive.google.com/file/d/1Pge6KXEUXUJ3F91uBKIB4nb7AZMg76mT/view?usp=sharing
+      - data: 26 Mag 2020
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1WaiYx1xTqt6Sucsnx1IjoxUKFednxZPn/view?usp=sharing
+        link: https://drive.google.com/file/d/1cOMOFt0Y4a68Qk0ZG-M2xGkx_p3mrccq/view?usp=sharing
+      - data: 11 Mag 2020
+        link: https://drive.google.com/file/d/1PmBKur8GL5BcEvqvYB9inV9oKO8A5eJl/view?usp=sharing
+      - data: 9 Apr 2020
+        link: https://drive.google.com/file/d/12nKckYxDOXOO3swaJY4ZmSXcMNsATPwz/view?usp=sharing
+      - data: 30 Mar 2020
+        link: https://drive.google.com/file/d/1SH4_KDpdTQiFY6GLcDQeP18CRRUy0aa0/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1_oYUmn3TGGK7DymKytDF9C1xfQaT-mC1/view?usp=sharing
 
-- text: Anno 2020
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 23 Lug 2020
-      link: https://drive.google.com/file/d/1Pge6KXEUXUJ3F91uBKIB4nb7AZMg76mT/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 26 Mag 2020
-      link: https://drive.google.com/file/d/1WaiYx1xTqt6Sucsnx1IjoxUKFednxZPn/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 26 Mag 2020
-      link: https://drive.google.com/file/d/1cOMOFt0Y4a68Qk0ZG-M2xGkx_p3mrccq/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 11 Mag 2020
-      link: https://drive.google.com/file/d/1PmBKur8GL5BcEvqvYB9inV9oKO8A5eJl/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 9 Apr 2020
-      link: https://drive.google.com/file/d/12nKckYxDOXOO3swaJY4ZmSXcMNsATPwz/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 30 Mar 2020
-      link: https://drive.google.com/file/d/1_oYUmn3TGGK7DymKytDF9C1xfQaT-mC1/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 30 Mar 2020
-      link: https://drive.google.com/file/d/1SH4_KDpdTQiFY6GLcDQeP18CRRUy0aa0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Mar 2020
-      link: https://drive.google.com/file/d/1auqzdZn74_zVoTjAr6fxDHX8CUihmkIJ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 8 Mar 2020
-      link: https://drive.google.com/file/d/1GTxtpkHUtPIFnyJMYeqwJUyy-b4cQhxQ/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 8 Mar 2020
-      link: https://drive.google.com/file/d/1MqeUaGeinzUG2S5aS-WvA8BZnCrNrHaZ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 24 Feb 2020
-      link: https://drive.google.com/file/d/1qwWnAaVyKnJNd8qevRkjbyJ6KTntSm7s/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Feb 2020
-      link: https://drive.google.com/file/d/18y6f0dgzVCShkeS1BSvP7G1dzgvEyvOX/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 2 Feb 2020
-      link: https://drive.google.com/file/d/1D3_kFGl0d7CSPQK3WZyLFYRcf8P4lfI9/view?usp=sharing  
-    - text: Videoconferenza del comitato organizzatore di RING e MACACO
-      data: 18 Gen 2020
-      link: https://drive.google.com/file/d/1m0MdzWewor6rzdq-VYvPsEMXLtEtH08o/view?usp=sharing
-    - text: Videoconferenza del comitato organizzatore di CISF
-      data: 18 Gen 2020
-      link: https://drive.google.com/file/d/1ncClugn2Aahk0CorPhVcN2hfN-8XbFds/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 11 Gen 2020
-      link: https://drive.google.com/file/d/1tYL7VWD-cMzv3VXtPnu5Vlxh4sys6r5i/view?usp=sharing
-
-- text: AGA 2019
-  verbali:
-    - text: Verbale e documentazione AGA
-      data: 9 Mar 2019
-      link: https://drive.google.com/drive/folders/1m5eXqzLWg6lrESuQgIA03MAH5ecYThAs?usp=sharing
-
-- text: Anno 2019
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 14 Dic 2019
-      link: https://drive.google.com/file/d/1kJO3BhRRxifZwhvwEtUtcJ3IHUczumTC/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 7 Dic 2019
-      link: https://drive.google.com/file/d/1T8TS8M3chYBXX-wLkHNEgFSngGMjn41p/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 7 Dic 2019
-      link: https://drive.google.com/file/d/115jT-5xtjhoH6mOeg8xRG90KhlkYZXIX/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 23 Nov 2019
-      link: https://drive.google.com/file/d/1vtA-g0CyxuRyTddEVEWXKt1XXXG-ihLt/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 23 Nov 2019
-      link: https://drive.google.com/file/d/1j4clgg9v-7pNN3EXvM-uwPGViI_m1dmO/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 9 Nov 2019
-      link: https://drive.google.com/file/d/1K2Z3tzIHs2eqUtdvVnwkSnYUgd3jktDR/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 9 Nov 2019
-      link: https://drive.google.com/file/d/16aRFI1rRy84iAuzQT9Stp-jlSBCXBJKO/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 20 Ott 2019
-      link: https://drive.google.com/file/d/1Dzu_VuGmBg77mAeLG4ysYeMKlm4xwBA-/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 20 Ott 2019
-      link: https://drive.google.com/file/d/11jS--OGO8PyIEOUlOLVbeo5y_AFWRbIj/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 5 Ott 2019
-      link: https://drive.google.com/file/d/1Ew1HrdLeSuyoox4xpUYT0IhfTzc4Ys38/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 21 Set 2019
-      link: https://drive.google.com/file/d/1nH5JjK2yZzGwMbe9NYqhuGpzz4bQrR1k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 7 Set 2019
-      link: https://drive.google.com/file/d/1DndENgJi7PyJQ7eLY6HsmFUVRxrxtSMd/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 7 Set 2019
-      link: https://drive.google.com/file/d/1KAu0dSmfP0tcONlDlaUz-289DUQH2bBV/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 20 Lug 2019
-      link: https://drive.google.com/file/d/1T80h9NyksqusEU9e7f4O__zlmiQ--IKl/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Giu 2019
-      link: https://drive.google.com/file/d/10KXuuCMkvtHXYN7uHAGKxkmN0oDGvFB-/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 1 Giu 2019
-      link: https://drive.google.com/file/d/11U8TY03OZ3nSqoxxsIb4KkSWzTA94m7t/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 26 Mag 2019
-      link: https://drive.google.com/file/d/136TWkipvxybBW-WFnS4uc-7AwKtCP9B_/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 18 Mag 2019
-      link: https://drive.google.com/file/d/1cY1XldoTsrNyihKj10TrDsFtoEnBO1hf/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 4 Mag 2019
-      link: https://drive.google.com/file/d/1y1xhRTihjqlJZOu44MUvnofxcR8dvlBl/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 27 Apr 2019
-      link: https://drive.google.com/file/d/15ajXYDJuzS3t3rEP_qJl2vwjMU1FWr_z/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 6 Apr 2019
-      link: https://drive.google.com/file/d/1BnUOnwZ6tpAJciaRjHW-xJyQMIJESSL7/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 30 Mar 2019
-      link: https://drive.google.com/file/d/1XXrWH7qUMWibv69S5t_MJW--PVlmRO-3/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 23 Mar 2019
-      link: https://drive.google.com/file/d/1u-OUCNLR-hsx48q9Od181wW5o1pOB8n5/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 23 Feb 2019
-      link: https://drive.google.com/file/d/1YM5LbICuZD24CV0zP9emJwtLNhf2qaqf/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 21 Feb 2019
-      link: https://drive.google.com/file/d/1dm-cTpdRkjwzAJcTD3bNDk3X-1_y5IKo/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 2 Feb 2019
-      link: https://drive.google.com/file/d/1XEWbEL1qoCKHId0uPmA71Ip5Ism69DmW/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 19 Gen 2019
-      link: https://drive.google.com/file/d/1v4QSKYisayn6wJ9Desm-1sYb_yEt12Ak/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 13 Gen 2019
-      link: https://drive.google.com/file/d/1hnWCu4TLu_teAr4YE6EIHiDqeADWvT-X/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 12 Gen 2019
-      link: https://drive.google.com/file/d/1VlTm6AfqGIFq7pvN20esKZDju0ixcHgE/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 12 Gen 2019
-      link: https://drive.google.com/file/d/1DPitvKsSGEzaEMFkfxE9QZT6cA8mx1OO/view?usp=sharing
-    - text: Videoconferenza aggiuntiva del comitato esecutivo
-      data: 12 Gen 2019
-      link: https://drive.google.com/file/d/1at6tr53oukwYca48j54X07OlnisQJ0gN/view?usp=sharing
-
-- text: AGA 2018
-  verbali:
-    - text: Verbale e documentazione AGA
-      data: 22 Apr 2018
-      link: https://drive.google.com/drive/folders/17U7ga0OZm5lpL2JeRXxDe34D5jeX43p5?usp=sharing
-
-- text: Anno 2018
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 15 Dic 2018
-      link: https://drive.google.com/file/d/1eYRmmHMu4xF2JsYRVYilD2JnQb_2mzgq/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 01 Dic 2018
-      link: https://drive.google.com/file/d/1qN_AFHpkZiod3eD6mhGrhJVttqsgtA77/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 24 Nov 2018
-      link: https://drive.google.com/file/d/1bI1KOSs2i5IXhGtEUxs-LgAacg8qLMLr/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 24 Nov 2018
-      link: https://drive.google.com/file/d/1lv2lGHz6tBw46gwyhqj6O0vSlK8DYDsp/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 10 Nov 2018
-      link: https://drive.google.com/file/d/1uBy-r-EGJ5FDA8h5WRJvEa_ZdGeq5SlA/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 20 Ott 2018
-      link: https://drive.google.com/file/d/18uH8QJl9--wqKNUh1lQeTmpsPiGsP_Rr/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 20 Ott 2018
-      link: https://drive.google.com/file/d/1RxZxAaHLjB6f0R8-__lVnz4rleJJdxph/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 6 Ott 2018
-      link: https://drive.google.com/file/d/1eRbmcLT2PTwfig1CV9Is4VZ24XboOLDj/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 6 Ott 2018
-      link: https://drive.google.com/file/d/1ty5TzzudrlJVelM1Y7BLcXMD-81PA8HZ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 15 Set 2018
-      link: https://drive.google.com/file/d/1oaK4otEnYUtBrtcMUsebE6N-yjl6Dh18/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 1 Set 2018
-      link: https://drive.google.com/file/d/1agZqgMlK6qNgwwf-_JcE4yOnHpwpatMv/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 1 Set 2018
-      link: https://drive.google.com/file/d/1wwA0XhGOve0IVSWjzU3_k5njVYFOpFwx/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 4 Ago 2018
-      link: https://drive.google.com/file/d/1KyW6WlgzvUXIzOO55MO4LB3Lo2leH1pe/view?usp=sharing
-    - text: Videoconferenza preliminare del comitato esecutivo
-      data: 4 Ago 2018
-      link: https://drive.google.com/file/d/1aYacuyqjRTP9alRuyoabDgeb1G0nX1Ss/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 21 Lug 2018
-      link: https://drive.google.com/file/d/1QLnvut4-2BKo8kL62USzcb1iBlqj_GlZ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 21 Lug 2018
-      link: https://drive.google.com/file/d/1VjlMgXQXJHLhPOdcEOxO5NAfSAiJQzu4/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 7 Lug 2018
-      link: https://drive.google.com/file/d/1XryILZ7wzm8g1W4UTQB9xLnwyrbpjq-2/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Giu 2018
-      link: https://drive.google.com/file/d/1JICMHwsSKRpceQ4PS93tbd9yv94wnOb2/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 02 Giu 2018
-      link: https://drive.google.com/file/d/1syZodGgog_KhKX_9HxNr0E9MGNFfJMN9/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 19 Mag 2018
-      link: https://drive.google.com/file/d/1QPVWvimmGPI-CPzZAPtqJAIfpkFQjIW0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 5 Mag 2018
-      link: https://drive.google.com/file/d/1riiH2OBqpDJPv6oPJOtRZyWDmj9Gf7jm/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 18 Apr 2018
-      link: https://drive.google.com/file/d/1WCNMQ1Sc_2BMwXjJpxN-oLj2N50pTrwk/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 18 Apr 2018
-      link: https://drive.google.com/file/d/19tTjmzBHjHiGUXgy5oDQUn6hSFv9U-u2/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 7 Apr 2018
-      link: https://drive.google.com/open?id=1I2iXy-2WmYreTh4uycvE0YIOfw7-dVHY
-    - text: Videoconferenza del comitato esecutivo
-      data: 17 Mar 2018
-      link: https://drive.google.com/file/d/12OTBL0Mvk8KSIsSdvFb76cMIBVQjSsms/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 3 Mar 2018
-      link: https://drive.google.com/file/d/1EfdB7t3eV9CDY10K_ahXQFtjoJVyf7Y3/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 3 Mar 2018
-      link: https://drive.google.com/file/d/12Mf5bvNcHZMM7xXaSsiMLRzHVfmIUC1d/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 17 Feb 2018
-      link: https://drive.google.com/file/d/1dLm_io9T5x8WAnI_2sSKUWuoicq2KDPZ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 3 Feb 2018
-      link: https://drive.google.com/file/d/13hcsk9h_j06IN4OO7bm52b3_qVeEpJwt/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 13 Gen 2018
-      link: https://drive.google.com/file/d/1ryQoD1ux1_TxI0auPAvLn1hHT6cod7Ae/view?usp=sharing
+      - data: 16 Mar 2020
+        link: https://drive.google.com/file/d/1auqzdZn74_zVoTjAr6fxDHX8CUihmkIJ/view?usp=sharing
+      - data: 8 Mar 2020
+        link: https://drive.google.com/file/d/1GTxtpkHUtPIFnyJMYeqwJUyy-b4cQhxQ/view?usp=sharing
+      - data: 8 Mar 2020
+        link: https://drive.google.com/file/d/1MqeUaGeinzUG2S5aS-WvA8BZnCrNrHaZ/view?usp=sharing
+      - data: 24 Feb 2020
+        link: https://drive.google.com/file/d/1qwWnAaVyKnJNd8qevRkjbyJ6KTntSm7s/view?usp=sharing
+      - data: 16 Feb 2020
+        link: https://drive.google.com/file/d/18y6f0dgzVCShkeS1BSvP7G1dzgvEyvOX/view?usp=sharing
+      - data: 2 Feb 2020
+        link: https://drive.google.com/file/d/1D3_kFGl0d7CSPQK3WZyLFYRcf8P4lfI9/view?usp=sharing
+      - data: 18 Gen 2020
+        link: https://drive.google.com/file/d/1m0MdzWewor6rzdq-VYvPsEMXLtEtH08o/view?usp=sharing
+        dettagli: Riunione con CO MACAO e RING
+      - data: 18 Gen 2020
+        link: https://drive.google.com/file/d/1ncClugn2Aahk0CorPhVcN2hfN-8XbFds/view?usp=sharing
+        dettagli: Riunione con CO CISF
+      - data: 11 Gen 2020
+        link: https://drive.google.com/file/d/1tYL7VWD-cMzv3VXtPnu5Vlxh4sys6r5i/view?usp=sharing
+      - data: 14 Dic 2019
+        link: https://drive.google.com/file/d/1kJO3BhRRxifZwhvwEtUtcJ3IHUczumTC/view?usp=sharing
+      - data: 7 Dic 2019
+        link: https://drive.google.com/file/d/1T8TS8M3chYBXX-wLkHNEgFSngGMjn41p/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 7 Dic 2019
+        link: https://drive.google.com/file/d/115jT-5xtjhoH6mOeg8xRG90KhlkYZXIX/view?usp=sharing
+      - data: 23 Nov 2019
+        link: https://drive.google.com/file/d/1vtA-g0CyxuRyTddEVEWXKt1XXXG-ihLt/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 23 Nov 2019
+        link: https://drive.google.com/file/d/1j4clgg9v-7pNN3EXvM-uwPGViI_m1dmO/view?usp=sharing
+      - data: 9 Nov 2019
+        link: https://drive.google.com/file/d/1K2Z3tzIHs2eqUtdvVnwkSnYUgd3jktDR/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 9 Nov 2019
+        link: https://drive.google.com/file/d/16aRFI1rRy84iAuzQT9Stp-jlSBCXBJKO/view?usp=sharing
+      - data: 20 Ott 2019
+        link: https://drive.google.com/file/d/1Dzu_VuGmBg77mAeLG4ysYeMKlm4xwBA-/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 20 Ott 2019
+        link: https://drive.google.com/file/d/11jS--OGO8PyIEOUlOLVbeo5y_AFWRbIj/view?usp=sharing
+      - data: 5 Ott 2019
+        link: https://drive.google.com/file/d/1Ew1HrdLeSuyoox4xpUYT0IhfTzc4Ys38/view?usp=sharing
+      - data: 21 Set 2019
+        link: https://drive.google.com/file/d/1nH5JjK2yZzGwMbe9NYqhuGpzz4bQrR1k/view?usp=sharing
+      - data: 7 Set 2019
+        link: https://drive.google.com/file/d/1DndENgJi7PyJQ7eLY6HsmFUVRxrxtSMd/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 7 Set 2019
+        link: https://drive.google.com/file/d/1KAu0dSmfP0tcONlDlaUz-289DUQH2bBV/view?usp=sharing
+    - tipo: AGA 2020
+      riunioni:
+        - dettagli: Verbale e documentazione AGA
+          data: 14 Giu 2020
+          link: https://drive.google.com/drive/folders/1bkHwRZgRK7jNi6VfSYQwiu17qs3P7Cdn?usp=sharing
 
 
-- text: AGA 2017
+- anno: 2018/2019
   verbali:
-    - text: Verbale e documentazione AGA
-      data: 13 Mag 2017
-      link: https://drive.google.com/drive/folders/0B068-lyoiUlxOVFXOXRRV2lTNkU?usp=sharing
-- text: Anno 2017
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 20 Lug 2019
+        link: https://drive.google.com/file/d/1T80h9NyksqusEU9e7f4O__zlmiQ--IKl/view?usp=sharing
+      - data: 16 Giu 2019
+        link: https://drive.google.com/file/d/10KXuuCMkvtHXYN7uHAGKxkmN0oDGvFB-/view?usp=sharing
+      - data: 1 Giu 2019
+        link: https://drive.google.com/file/d/11U8TY03OZ3nSqoxxsIb4KkSWzTA94m7t/view?usp=sharing
+      - data: 26 Mag 2019
+        link: https://drive.google.com/file/d/136TWkipvxybBW-WFnS4uc-7AwKtCP9B_/view?usp=sharing
+      - data: 18 Mag 2019
+        link: https://drive.google.com/file/d/1cY1XldoTsrNyihKj10TrDsFtoEnBO1hf/view?usp=sharing
+      - data: 4 Mag 2019
+        link: https://drive.google.com/file/d/1y1xhRTihjqlJZOu44MUvnofxcR8dvlBl/view?usp=sharing
+      - data: 27 Apr 2019
+        link: https://drive.google.com/file/d/15ajXYDJuzS3t3rEP_qJl2vwjMU1FWr_z/view?usp=sharing
+      - data: 6 Apr 2019
+        link: https://drive.google.com/file/d/1BnUOnwZ6tpAJciaRjHW-xJyQMIJESSL7/view?usp=sharing
+      - data: 30 Mar 2019
+        link: https://drive.google.com/file/d/1XXrWH7qUMWibv69S5t_MJW--PVlmRO-3/view?usp=sharing
+      - data: 23 Mar 2019
+        link: https://drive.google.com/file/d/1u-OUCNLR-hsx48q9Od181wW5o1pOB8n5/view?usp=sharing
+      - data: 23 Feb 2019
+        link: https://drive.google.com/file/d/1YM5LbICuZD24CV0zP9emJwtLNhf2qaqf/view?usp=sharing
+      - data: 21 Feb 2019
+        link: https://drive.google.com/file/d/1dm-cTpdRkjwzAJcTD3bNDk3X-1_y5IKo/view?usp=sharing
+      - data: 2 Feb 2019
+        link: https://drive.google.com/file/d/1XEWbEL1qoCKHId0uPmA71Ip5Ism69DmW/view?usp=sharing
+      - data: 19 Gen 2019
+        link: https://drive.google.com/file/d/1v4QSKYisayn6wJ9Desm-1sYb_yEt12Ak/view?usp=sharing
+      - data: 13 Gen 2019
+        link: https://drive.google.com/file/d/1hnWCu4TLu_teAr4YE6EIHiDqeADWvT-X/view?usp=sharing
+      - data: 12 Gen 2019
+        link: https://drive.google.com/file/d/1VlTm6AfqGIFq7pvN20esKZDju0ixcHgE/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1DPitvKsSGEzaEMFkfxE9QZT6cA8mx1OO/view?usp=sharing
+      - dettagli: Videoconferenza aggiuntiva
+        data: 12 Gen 2019
+        link: https://drive.google.com/file/d/1at6tr53oukwYca48j54X07OlnisQJ0gN/view?usp=sharing
+      - data: 15 Dic 2018
+        link: https://drive.google.com/file/d/1eYRmmHMu4xF2JsYRVYilD2JnQb_2mzgq/view?usp=sharing
+      - data: 01 Dic 2018
+        link: https://drive.google.com/file/d/1qN_AFHpkZiod3eD6mhGrhJVttqsgtA77/view?usp=sharing
+      - data: 24 Nov 2018
+        link: https://drive.google.com/file/d/1bI1KOSs2i5IXhGtEUxs-LgAacg8qLMLr/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 24 Nov 2018
+        link: https://drive.google.com/file/d/1lv2lGHz6tBw46gwyhqj6O0vSlK8DYDsp/view?usp=sharing
+      - data: 10 Nov 2018
+        link: https://drive.google.com/file/d/1uBy-r-EGJ5FDA8h5WRJvEa_ZdGeq5SlA/view?usp=sharing
+      - data: 20 Ott 2018
+        link: https://drive.google.com/file/d/18uH8QJl9--wqKNUh1lQeTmpsPiGsP_Rr/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 20 Ott 2018
+        link: https://drive.google.com/file/d/1RxZxAaHLjB6f0R8-__lVnz4rleJJdxph/view?usp=sharing
+      - data: 6 Ott 2018
+        link: https://drive.google.com/file/d/1eRbmcLT2PTwfig1CV9Is4VZ24XboOLDj/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1ty5TzzudrlJVelM1Y7BLcXMD-81PA8HZ/view?usp=sharing
+      - data: 15 Set 2018
+        link: https://drive.google.com/file/d/1oaK4otEnYUtBrtcMUsebE6N-yjl6Dh18/view?usp=sharing
+      - data: 1 Set 2018
+        link: https://drive.google.com/file/d/1agZqgMlK6qNgwwf-_JcE4yOnHpwpatMv/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 1 Set 2018
+        link: https://drive.google.com/file/d/1wwA0XhGOve0IVSWjzU3_k5njVYFOpFwx/view?usp=sharing
+    - tipo: AGA 2019
+      riunioni:
+        - dettagli: Verbale e documentazione AGA
+          data: 9 Mar 2019
+          link: https://drive.google.com/drive/folders/1m5eXqzLWg6lrESuQgIA03MAH5ecYThAs?usp=sharing
+
+- anno: 2017/2018
   verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Dic 2017
-      link: https://drive.google.com/file/d/1oycl_ndl_7aR_rZTtx6_sFVBs1_rdQPC/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 16 Dic 2017
-      link: https://drive.google.com/file/d/1Hx0mLiSt5Q_hraQfRKtMczvTPG2akXQ5/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato B
-      data: 16 Dic 2017
-      link: https://drive.google.com/file/d/1SXuO4oKCcSqJOd9Ed7c4itbcrDKb1KwT/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 10 Dic 2017
-      link: https://drive.google.com/file/d/1SALqAdNcu07MfKe1X_gCNlqU_l3wMrlv/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 2 Dic 2017
-      link: https://drive.google.com/file/d/1eZsBX6yp0HGu9WhSL0DKqPuQHmGgArXr/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 18 Nov 2017
-      link: https://drive.google.com/file/d/1xpJk_CM3xRPhHS9bdJoyUZDaPtA4DDib/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 4 Nov 2017
-      link: https://drive.google.com/file/d/0B7_VdP8dZqXVLVV0eVI3bXFXM1U/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 21 Ott 2017
-      link: https://drive.google.com/file/d/0B7_VdP8dZqXVa3A2TktjaEtSWUk/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 7 Ott 2017
-      link: https://drive.google.com/file/d/0B7_VdP8dZqXVMHBZcjAwWllYajQ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 16 Set 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxRl9samVYeVhMd2s/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 02 Set 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxYjFrUmZieUJza1U/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 15 Lug 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxT08wSFViWDhUSHM/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 15 Lug 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxOHJXT2x4UC1pT3M/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 01 Lug 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxQl9rZHdPMmp3cGc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 17 Giu 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxX21HcGRJd3pEYkk/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 03 Giu 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxZzVvWkYtVGpLb0k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 06 Mag 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxNjBCcTg2X3lqM3c/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 29 Apr 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxTG9XWGNzbGI5a0k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 08 Apr 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxRE1zMERHOTJ6Wjg/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 01 Apr 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxOG5nWTk1eUQ5R00/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 18 Mar 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxUElkWWVaWF9Xamc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 18 Mar 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxT0dlRmdzWEVIMDQ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato B
-      data: 18 Mar 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxajFsdjJlNDVjcE0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 04 Mar 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxdDRURm1lZ2J1THM/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 18 Feb 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxOGxUcjV1MmJfWlU/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato A
-      data: 18 Feb 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxNEVkRm5jTFExM2c/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - Allegato B
-      data: 18 Feb 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxZ1hMbE1sQXNDU0U/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 04 Feb 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxSDl1RXNQVzFubDg/view?usp=sharing
-    - text: Nomina dei Revisori dei Conti 2017
-      data: 18 Gen 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxMEZoSFJMMzhfUlE/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 14 Gen 2017
-      link: https://drive.google.com/file/d/0B068-lyoiUlxd0NYR0k3dVN2V00/view?usp=sharing
-- text: AGA 2016
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 4 Ago 2018
+        link: https://drive.google.com/file/d/1KyW6WlgzvUXIzOO55MO4LB3Lo2leH1pe/view?usp=sharing
+      - dettagli: Videoconferenza preliminare
+        data: 4 Ago 2018
+        link: https://drive.google.com/file/d/1aYacuyqjRTP9alRuyoabDgeb1G0nX1Ss/view?usp=sharing
+      - data: 21 Lug 2018
+        link: https://drive.google.com/file/d/1QLnvut4-2BKo8kL62USzcb1iBlqj_GlZ/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1VjlMgXQXJHLhPOdcEOxO5NAfSAiJQzu4/view?usp=sharing
+      - data: 7 Lug 2018
+        link: https://drive.google.com/file/d/1XryILZ7wzm8g1W4UTQB9xLnwyrbpjq-2/view?usp=sharing
+      - data: 16 Giu 2018
+        link: https://drive.google.com/file/d/1JICMHwsSKRpceQ4PS93tbd9yv94wnOb2/view?usp=sharing
+      - data: 02 Giu 2018
+        link: https://drive.google.com/file/d/1syZodGgog_KhKX_9HxNr0E9MGNFfJMN9/view?usp=sharing
+      - data: 19 Mag 2018
+        link: https://drive.google.com/file/d/1QPVWvimmGPI-CPzZAPtqJAIfpkFQjIW0/view?usp=sharing
+      - data: 5 Mag 2018
+        link: https://drive.google.com/file/d/1riiH2OBqpDJPv6oPJOtRZyWDmj9Gf7jm/view?usp=sharing
+      - data: 18 Apr 2018
+        link: https://drive.google.com/file/d/1WCNMQ1Sc_2BMwXjJpxN-oLj2N50pTrwk/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/19tTjmzBHjHiGUXgy5oDQUn6hSFv9U-u2/view?usp=sharing
+      - data: 7 Apr 2018
+        link: https://drive.google.com/open?id=1I2iXy-2WmYreTh4uycvE0YIOfw7-dVHY
+      - data: 17 Mar 2018
+        link: https://drive.google.com/file/d/12OTBL0Mvk8KSIsSdvFb76cMIBVQjSsms/view?usp=sharing
+      - data: 3 Mar 2018
+        link: https://drive.google.com/file/d/1EfdB7t3eV9CDY10K_ahXQFtjoJVyf7Y3/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/12Mf5bvNcHZMM7xXaSsiMLRzHVfmIUC1d/view?usp=sharing
+      - data: 17 Feb 2018
+        link: https://drive.google.com/file/d/1dLm_io9T5x8WAnI_2sSKUWuoicq2KDPZ/view?usp=sharing
+      - data: 3 Feb 2018
+        link: https://drive.google.com/file/d/13hcsk9h_j06IN4OO7bm52b3_qVeEpJwt/view?usp=sharing
+      - data: 13 Gen 2018
+        link: https://drive.google.com/file/d/1ryQoD1ux1_TxI0auPAvLn1hHT6cod7Ae/view?usp=sharing
+      - data: 16 Dic 2017
+        link: https://drive.google.com/file/d/1oycl_ndl_7aR_rZTtx6_sFVBs1_rdQPC/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/1Hx0mLiSt5Q_hraQfRKtMczvTPG2akXQ5/view?usp=sharing
+          - nome: Allegato B
+            link: https://drive.google.com/file/d/1SXuO4oKCcSqJOd9Ed7c4itbcrDKb1KwT/view?usp=sharing
+      - data: 10 Dic 2017
+        link: https://drive.google.com/file/d/1SALqAdNcu07MfKe1X_gCNlqU_l3wMrlv/view?usp=sharing
+      - data: 2 Dic 2017
+        link: https://drive.google.com/file/d/1eZsBX6yp0HGu9WhSL0DKqPuQHmGgArXr/view?usp=sharing
+      - data: 18 Nov 2017
+        link: https://drive.google.com/file/d/1xpJk_CM3xRPhHS9bdJoyUZDaPtA4DDib/view?usp=sharing
+      - data: 4 Nov 2017
+        link: https://drive.google.com/file/d/0B7_VdP8dZqXVLVV0eVI3bXFXM1U/view?usp=sharing
+      - data: 21 Ott 2017
+        link: https://drive.google.com/file/d/0B7_VdP8dZqXVa3A2TktjaEtSWUk/view?usp=sharing
+      - data: 7 Ott 2017
+        link: https://drive.google.com/file/d/0B7_VdP8dZqXVMHBZcjAwWllYajQ/view?usp=sharing
+      - data: 16 Set 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxRl9samVYeVhMd2s/view?usp=sharing
+      - data: 02 Set 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxYjFrUmZieUJza1U/view?usp=sharing
+    - tipo: AGA 2018
+      riunioni:
+        - dettagli: Verbale e documentazione AGA
+          data: 22 Apr 2018
+          link: https://drive.google.com/drive/folders/17U7ga0OZm5lpL2JeRXxDe34D5jeX43p5?usp=sharing
+
+
+- anno: 2016/2017
   verbali:
-    - text: Verbale
-      data: 24 Apr 2016
-      link: https://drive.google.com/drive/folders/0BzGkQdYyAM4qZldZbWV1bElxYlU?usp=sharing
-- text: Avvisi CISF/AGA 2016
-  verbali:
-    - text: AGA 2016 - convocazione
-      data: 22 Mar 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qOTIySEJPNEVnRHc/view?usp=sharing
-    - text: AGA 2016 - modifiche Statuto
-      data: 22 Mar 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qQl8yZXJwVVBaT0U/view?usp=sharing
-    - text: AGA 2016 - modifiche Regolamento Interno
-      data: 22 Mar 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qN21jZ1NPSEdQblE/view?usp=sharing
-    - text: Avviso CISF 2016
-      data: 11 Feb 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qR0NxakNRdTJ1Ym8/view?usp=sharing
-- text: Anno 2016
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 03 Dic 2016
-      link: https://drive.google.com/file/d/0B068-lyoiUlxN3hPTlFIZHFrNkU/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato A
-      data: 03 Dic 2016
-      link: https://drive.google.com/open?id=0B068-lyoiUlxQmV4Q3ZMcHY1dG8
-    - text: Videoconferenza del comitato esecutivo
-      data: 05 Nov 2016
-      link: https://drive.google.com/file/d/0B068-lyoiUlxX3pHVnpYNURRZTQ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 08 Ott 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qUXBBMTZjNjVyYlk/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 19 Set 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qRDVRUGNsbHRpajQ/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato A
-      data: 19 Set 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qcmRKOXRoalBwaGc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato B
-      data: 19 Set 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qYXlBeERKdTRSN1k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 08 Ago 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qVlp2QjhEeFRFRkE/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato A
-      data: 08 Ago 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qeUZJc2Q1Vmw0SU0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 12 Lug 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qOG9rbHdscVBXNm8/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 26 Giu 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qcmd1RFlqaUpGanc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato A
-      data: 26 Giu 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qX0dOa1NzeENBVDA/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 07 Giu 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qdUwzbjF3bGpWd2s/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 14 Mag 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qZzczalZXZXpvQ2s/view?usp=sharing
-    - text: Riunione del comitato esecutivo
-      data: 24 Apr 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qMlVyR3Y5WkVLOVk/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 12 Apr 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qN0dkZDczWXlyR28/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo - allegato A
-      data: 12 Apr 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qSXJzUHo5OWZIa0k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 17 Mar 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qUWozUmlKelc2MHc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 03 Mar 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qdFp5M3FmYWFDbGc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 31 Gen 2016
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qOGRNSmx4Mi1GbUU/view?usp=sharing
-- text: AGA 2015
-  verbali:
-    - text: Verbale
-      data: 16 Mag 2015
-      link: https://drive.google.com/drive/folders/0B068-lyoiUlxXzRVdGctYlk4Nk0?usp=sharing
-- text: Anno 2015
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 01 Dic 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qc0p6U1JYQ21GUU0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 07 Nov 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qaGdZTVZHVFZYSG8/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 13 Ott 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qMVRkVnRqUkFtNDA/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 19 Set 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qVlNWbjFpRE90azg/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 24 Ago 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qNUMzZmluYUd5bU0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 28 Lug 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qaDZHandaVWlHSG8/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 04 Lug 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qNGZobGtCakhPSE0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 23 Giu 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qVEZ0aGpYOVpKY00/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 07 Giu 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qclBFVVJXQTdKS1k/view?usp=sharing
-    - text: Riunione del comitato esecutivo
-      data: 16 Mag 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qYzFXd0IxSUFLVEU/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 14 Mag 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qVldsYXo1REUtT2c/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 21 Apr 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qaXVBQ3cwMzVhV0k/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 22 Mar 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qLWQ3N0hVeTZsaVU/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 22 Feb 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qQUlpeDIxb1NfZHc/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 03 Feb 2015
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qQU9la0tLbTMycTg/view?usp=sharing
-- text: Anno 2014
-  verbali:
-    - text: Videoconferenza del comitato esecutivo
-      data: 28 Nov 2014
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qR3ZNY2xWemQ2OE0/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 27 Set 2014
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qaDB6ckloTTVaMmM/view?usp=sharing
-    - text: Videoconferenza del comitato esecutivo
-      data: 26 Ago 2014
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qcDhEUlVLY2pnUGM/view?usp=sharing
-    - text: Assemblea Generale - Fondazione
-      data: 15 Ago 2014
-      link: https://drive.google.com/file/d/0BzGkQdYyAM4qOG51VTljanNDU0E/view?usp=sharing
-# - text: ICPS 2017
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 15 Lug 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxT08wSFViWDhUSHM/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/0B068-lyoiUlxOHJXT2x4UC1pT3M/view?usp=sharing
+      - data: 01 Lug 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxQl9rZHdPMmp3cGc/view?usp=sharing
+      - data: 17 Giu 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxX21HcGRJd3pEYkk/view?usp=sharing
+      - data: 03 Giu 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxZzVvWkYtVGpLb0k/view?usp=sharing
+      - data: 06 Mag 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxNjBCcTg2X3lqM3c/view?usp=sharing
+      - data: 29 Apr 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxTG9XWGNzbGI5a0k/view?usp=sharing
+      - data: 08 Apr 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxRE1zMERHOTJ6Wjg/view?usp=sharing
+      - data: 01 Apr 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxOG5nWTk1eUQ5R00/view?usp=sharing
+      - data: 18 Mar 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxUElkWWVaWF9Xamc/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/0B068-lyoiUlxT0dlRmdzWEVIMDQ/view?usp=sharing
+          - nome: Allegato B
+            link: https://drive.google.com/file/d/0B068-lyoiUlxajFsdjJlNDVjcE0/view?usp=sharing
+      - data: 04 Mar 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxdDRURm1lZ2J1THM/view?usp=sharing
+      - data: 18 Feb 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxOGxUcjV1MmJfWlU/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            data: 18 Feb 2017
+            link: https://drive.google.com/file/d/0B068-lyoiUlxNEVkRm5jTFExM2c/view?usp=sharing
+          - nome: Allegato B
+            data: 18 Feb 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxZ1hMbE1sQXNDU0U/view?usp=sharing
+      - data: 04 Feb 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxSDl1RXNQVzFubDg/view?usp=sharing
+      - dettagli: Nomina dei Revisori dei Conti 2017
+        data: 18 Gen 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxMEZoSFJMMzhfUlE/view?usp=sharing
+      - data: 14 Gen 2017
+        link: https://drive.google.com/file/d/0B068-lyoiUlxd0NYR0k3dVN2V00/view?usp=sharing
+      - data: 03 Dic 2016
+        link: https://drive.google.com/file/d/0B068-lyoiUlxN3hPTlFIZHFrNkU/view?usp=sharing7
+        allegati:
+          - nome: Allegato A
+            data: 03 Dic 2016
+            link: https://drive.google.com/open?id=0B068-lyoiUlxQmV4Q3ZMcHY1dG8
+      - data: 05 Nov 2016
+        link: https://drive.google.com/file/d/0B068-lyoiUlxX3pHVnpYNURRZTQ/view?usp=sharing
+      - data: 08 Ott 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qUXBBMTZjNjVyYlk/view?usp=sharing
+      - data: 19 Set 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qRDVRUGNsbHRpajQ/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/0BzGkQdYyAM4qcmRKOXRoalBwaGc/view?usp=sharing
+          - nome: Allegato B
+            link: https://drive.google.com/file/d/0BzGkQdYyAM4qYXlBeERKdTRSN1k/view?usp=sharing
+    - tipo: AGA 2017
+      riunioni:
+      - dettagli: Verbale e documentazione AGA
+        data: 13 Mag 2017
+        link: https://drive.google.com/drive/folders/0B068-lyoiUlxOVFXOXRRV2lTNkU?usp=sharing
+
+# - dettagli: Avvisi CISF/AGA 2016
 #   verbali:
-#     - text: Videoconferenza del comitato organizzatore
+#     - dettagli: AGA 2016 - convocazione
+#       data: 22 Mar 2016
+#       link: https://drive.google.com/file/d/0BzGkQdYyAM4qOTIySEJPNEVnRHc/view?usp=sharing
+#     - dettagli: AGA 2016 - modifiche Statuto
+#       data: 22 Mar 2016
+#       link: https://drive.google.com/file/d/0BzGkQdYyAM4qQl8yZXJwVVBaT0U/view?usp=sharing
+#     - dettagli: AGA 2016 - modifiche Regolamento Interno
+#       data: 22 Mar 2016
+#       link: https://drive.google.com/file/d/0BzGkQdYyAM4qN21jZ1NPSEdQblE/view?usp=sharing
+#     - dettagli: Avviso CISF 2016
+#       data: 11 Feb 2016
+#       link: https://drive.google.com/file/d/0BzGkQdYyAM4qR0NxakNRdTJ1Ym8/view?usp=sharing
+- anno: 2015/2016
+  verbali:
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 08 Ago 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qVlp2QjhEeFRFRkE/view?usp=sharing
+        allegati:
+        - nome: Allegato A
+          link: https://drive.google.com/file/d/0BzGkQdYyAM4qeUZJc2Q1Vmw0SU0/view?usp=sharing
+      - data: 12 Lug 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qOG9rbHdscVBXNm8/view?usp=sharing
+      - data: 26 Giu 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qcmd1RFlqaUpGanc/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            link: https://drive.google.com/file/d/0BzGkQdYyAM4qX0dOa1NzeENBVDA/view?usp=sharing
+      - data: 07 Giu 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qdUwzbjF3bGpWd2s/view?usp=sharing
+      - data: 14 Mag 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qZzczalZXZXpvQ2s/view?usp=sharing
+      - data: 24 Apr 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qMlVyR3Y5WkVLOVk/view?usp=sharing
+      - data: 12 Apr 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qN0dkZDczWXlyR28/view?usp=sharing
+        allegati:
+          - nome: Allegato A
+            data: 12 Apr 2016
+            link: https://drive.google.com/file/d/0BzGkQdYyAM4qSXJzUHo5OWZIa0k/view?usp=sharing
+      - data: 17 Mar 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qUWozUmlKelc2MHc/view?usp=sharing
+      - data: 03 Mar 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qdFp5M3FmYWFDbGc/view?usp=sharing
+      - data: 31 Gen 2016
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qOGRNSmx4Mi1GbUU/view?usp=sharing
+      - data: 01 Dic 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qc0p6U1JYQ21GUU0/view?usp=sharing
+      - data: 07 Nov 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qaGdZTVZHVFZYSG8/view?usp=sharing
+      - data: 13 Ott 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qMVRkVnRqUkFtNDA/view?usp=sharing
+      - data: 19 Set 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qVlNWbjFpRE90azg/view?usp=sharing
+    - tipo: AGA 2016
+      riunioni:
+      - dettagli: Verbale
+        data: 24 Apr 2016
+        link: https://drive.google.com/drive/folders/0BzGkQdYyAM4qZldZbWV1bElxYlU?usp=sharing
+
+- anno: 2014/2015
+  verbali:
+    - tipo: Videoconferenze del Comitato Esecutivo
+      riunioni:
+      - data: 24 Ago 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qNUMzZmluYUd5bU0/view?usp=sharing
+      - data: 28 Lug 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qaDZHandaVWlHSG8/view?usp=sharing
+      - data: 04 Lug 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qNGZobGtCakhPSE0/view?usp=sharing
+      - data: 23 Giu 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qVEZ0aGpYOVpKY00/view?usp=sharing
+      - data: 07 Giu 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qclBFVVJXQTdKS1k/view?usp=sharing
+      - data: 16 Mag 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qYzFXd0IxSUFLVEU/view?usp=sharing
+      - data: 14 Mag 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qVldsYXo1REUtT2c/view?usp=sharing
+      - data: 21 Apr 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qaXVBQ3cwMzVhV0k/view?usp=sharing
+      - data: 22 Mar 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qLWQ3N0hVeTZsaVU/view?usp=sharing
+      - data: 22 Feb 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qQUlpeDIxb1NfZHc/view?usp=sharing
+      - data: 03 Feb 2015
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qQU9la0tLbTMycTg/view?usp=sharing
+      - data: 28 Nov 2014
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qR3ZNY2xWemQ2OE0/view?usp=sharing
+      - data: 27 Set 2014
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qaDB6ckloTTVaMmM/view?usp=sharing
+      - data: 26 Ago 2014
+        link: https://drive.google.com/file/d/0BzGkQdYyAM4qcDhEUlVLY2pnUGM/view?usp=sharing
+    - tipo: Assemblea Generale
+      riunioni:
+        - dettagli: Assemblea di Fondazione
+          data: 15 Ago 2014
+          link: https://drive.google.com/file/d/0BzGkQdYyAM4qOG51VTljanNDU0E/view?usp=sharing
+        - dettagli: AGA 2015
+          data: 16 Mag 2015
+          link: https://drive.google.com/drive/folders/0B068-lyoiUlxXzRVdGctYlk4Nk0?usp=sharing
+
+# - dettagli: ICPS 2017
+#   verbali:
+#     - dettagli: Videoconferenza del comitato organizzatore
 #       data: 01 Set 2015
 #       link: http://www.ai-sf.it/owncloud/index.php/s/yyVSMuW2cSSNqJM
+
+
+

@@ -1,17 +1,36 @@
-L'atto fondativo, i verbali delle Assemblee Generali e dei meeting del comitato esecutivo sono di pubblico dominio e liberamente consultabili.
+
 
 {% for anno in include.verbali %}
-<h3>{{ anno.text }}</h3>
+  <h3>Anno {{ anno.anno }}</h3>
+<ul class="collapsible">
 
-<div class="collection">
-  {% for verbali in anno.verbali %}
-  <a href="{{ verbali.link }}" class="collection-item">
-    <div class="row" style="margin:0">
-      <div class="col s12 m8">{{ verbali.text }}</div>
-      <div class="col s12 m4"><div class="right grey-text darken-3">{{ verbali.data }}</div></div>
+
+  {% for tipo in anno.verbali %}
+  <li>
+    <div class="collapsible-header">{{tipo.tipo}}</div>
+    <div class="collapsible-body">
+      <ul class="collection" style="margin: 0px">
+        {% for verbali in tipo.riunioni %}
+          <li  class="collection-item avatar">
+            <i class="material-icons circle">description</i>
+            <span class="title">
+              <a href="{{ verbali.link }}">Verbale {{verbali.data }}  </a></span>{% if verbali.dettagli %} ({{ verbali.dettagli }}) {% endif %}
+
+            <span class="secondary-content grey-text darken-3">{{ verbali.data }}</span>
+
+           {% if verbali.allegati %}
+            <p>
+              {% for allegato in verbali.allegati %}
+              <a style="display: inline-block; margin-right:10px" href="{{allegato.link}}">{{allegato.nome}}</a>
+              {% endfor %}
+            </p>
+            {% endif %}
+          </li>
+        {% endfor %}
+        </ul>
     </div>
-  </a>
+  </li>
   {% endfor %}
-</div>
-{% endfor %}
+</ul>
 
+{% endfor %}
