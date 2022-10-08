@@ -1,7 +1,7 @@
 {% if include.anno %}
   {% assign anni = include.documenti | where: "anno",include.anno %}
 {% else if include.exclude %}
-  {% assign anni = include.documenti | where_exp: "item", "item.anno != include.exclude and item.anno != 'statfond'" %}
+  {% assign anni = include.documenti | where_exp: "item", "item.anno != include.exclude" | where_exp: "item", "item.anno != 'statfond'" %}
 {% else %}
   {% assign anni = include.documenti | where: "anno",include.anno %}
 {% endif %}
