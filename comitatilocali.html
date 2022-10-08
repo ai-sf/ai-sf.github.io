@@ -24,30 +24,32 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 				<!-- <div class="tertiary-content">
 					<img src="{{ item.logo }}">
 				</div> -->
-				{% assign image = "/img/presidenti/vuoto.png" %}
-				
-				{% unless item.img == "" %}
+
+
+				{% if item.img == "" or item.img == nil %}
+					{% assign image = "/img/presidenti/vuoto.png" %}
+				{% else %}
 					{% assign image = item.img %}
-				{% endunless %}
-				
+				{% endif %}
+
 				<img src="{{ image }}" alt="" class="circle">
-				Comitato Locale	di <b> {{ item.nome }} </b>
+				<span class="title">Comitato Locale	di {{ item.nome }}</span>
 				<p>
-				Presidente: {{ item.presidente }} 
+				Presidente: {{ item.presidente }}
 				<br>
 				Fondazione: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
 				Ex presidenti: {{ item.ex }}
-				{% endif %} 				
+				{% endif %}
 				</p>
 				<br>
-				{% if item.fb != nil %}	
+				{% if item.fb != nil %}
 				<a href="{{ item.fb }}" target="_blank" title="Pagina Facebook">
 				<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
 				</a>
 				{% endif %}
-				{% if item.url != nil %}	
+				{% if item.url != nil %}
 				<a href="{{ item.url }}" target="_blank" title="Pagina Web">
 				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
 				</a>
@@ -77,13 +79,13 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 							<h4> Comitato Locale	di <b> {{ item.nome }} </b> </h4>
 							{% if item.ex != nil %}
 							Ex presidenti: {{ item.ex }}
-							{% endif %} 				
+							{% endif %}
 						</span>
 					</li>
 				{% endif %}
 			{% endfor %}
 			</ul>
-		</div>	
+		</div>
 	</li>
 </ul>
 {% endunless %}

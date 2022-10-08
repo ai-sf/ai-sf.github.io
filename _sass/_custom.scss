@@ -1,17 +1,18 @@
-img .fullwidth { /* non funziona, perché? */
+img .fullwidth {
+    /* non funziona, perché? */
     width: 100%;
 }
 
 .chip {
-  display: inline-block;
-  height: 32px;
-  font-size: 13px;
-  font-weight: 500;
-  color: rgba(0, 0, 0, 0.6);
-  line-height: 32px;
-  padding: 0 12px;
-  border-radius: 16px;
-  background-color: #e4e4e4;
+    display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 32px;
+    padding: 0 12px;
+    border-radius: 16px;
+    background-color: #e4e4e4;
 }
 
 
@@ -26,11 +27,13 @@ span {
 
 .carousel {
     height: 500px;
+
     .carousel-item {
-	width: 500px;
-	img {
-	    width:100%;
-	}
+        width: 500px;
+
+        img {
+            width: 100%;
+        }
     }
 }
 
@@ -39,142 +42,166 @@ span {
 @import "custom_c/blog";
 
 #index-top-logo {
-width: 100%;
-padding: 20px 0 0 0;
+    width: 100%;
+    padding: 20px 0 0 0;
 }
 
-#index-page h2 { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+#index-page h2 {
+    font-size: $h5-fontsize;
+    line-height: 110%;
+    margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;
+}
 
-#index-page h3 { font-size: $h4-fontsize; line-height: 110%; margin: ($h4-fontsize / 2) 0 ($h4-fontsize / 2.5) 0;}
+#index-page h3 {
+    font-size: $h4-fontsize;
+    line-height: 110%;
+    margin: ($h4-fontsize / 2) 0 ($h4-fontsize / 2.5) 0;
+}
 
-#index-page h4 { font-size: $h3-fontsize; line-height: 110%; margin: ($h3-fontsize / 2) 0 ($h3-fontsize / 2.5) 0;}
+#index-page h4 {
+    font-size: $h3-fontsize;
+    line-height: 110%;
+    margin: ($h3-fontsize / 2) 0 ($h3-fontsize / 2.5) 0;
+}
 
-#foto-eventi { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+#foto-eventi {
+    font-size: $h5-fontsize;
+    line-height: 110%;
+    margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;
+}
 
-#index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+#index-collection-eventi span {
+    font-size: $h5-fontsize;
+    line-height: 110%;
+    margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;
+}
 
 
-#presidenti_LC .circle{
+#presidenti_LC .circle {
     object-fit: cover;
 }
 
-.events-container .card-image .after{
-    background:#000000dd;
+.events-container .card-image .after {
+    background: #000000dd;
     position: absolute;
-    background: linear-gradient(0deg, rgba(0,0,0,0.8) 10%, rgba(0,0,0,0.2) 100%);
-    width:100%;
-    height:100%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8) 10%, rgba(0, 0, 0, 0.2) 100%);
+    width: 100%;
+    height: 100%;
     top: 0;
-    content:' ';
+    content: ' ';
 }
 
-.events-container .card-image img{
+.events-container .card-image img {
     object-fit: cover;
     object-position: 50% 50%;
-    width:100%;
-    height:100%;
+    width: 100%;
+    height: 100%;
     position: relative;
     display: block;
 }
 
-.events-container .card-content{
-    position:absolute;
+.events-container .card-content {
+    position: absolute;
     bottom: 0px;
     height: auto;
     width: 100%;
 }
 
 .events-container .card-content .card-title,
-.events-container .card-reveal .card-title{
+.events-container .card-reveal .card-title {
     line-height: normal;
     font-weight: 400;
     text-align: left;
     //margin-bottom:65px;
 }
 
-.events-container .card-image{
-    height:100% !important;
+.events-container .card-image {
+    height: 100% !important;
 }
 
-.events-container .card-action{
+.events-container .card-action {
     border: 0px !important;
 }
 
-.events-container .chip{
+.events-container .chip {
     background-color: $secondary-color;
     color: white;
 }
-.events-container .card-content .pre-title{
+
+.events-container .card-content .pre-title {
     margin-bottom: 15px;
 }
 
-.events-container .event-date{
+.events-container .event-date {
     font-size: 12px;
     font-weight: 600;
     color: white;
     margin-left: 10px;
 }
 
-.events-container .pre-title .activator{
+.events-container .pre-title .activator {
     cursor: pointer;
 }
 
-.events-container .card-reveal .card-title{
+.events-container .card-reveal .card-title {
     font-weight: 400;
     color: $secondary-color;
 }
 
-.events-container .event-options{
+.events-container .event-options {
     padding: 5px;
 }
-.events-container .event-options i{
-    margin-right:5px;
+
+.events-container .event-options i {
+    margin-right: 5px;
 }
 
-.legend-wrapper{
+.legend-wrapper {
     margin-left: 2em;
 }
 
-.small-legend a.active{
+.small-legend a.active {
     border-left: 3px solid $secondary-color !important;
     padding-left: 8px !important;
 }
 
-.small-legend a:hover{
+.small-legend a:hover {
     padding-left: 8px !important;
     border-left: 3px solid $secondary-color !important;
 }
 
-#scroll-legend{
+#scroll-legend {
     margin-right: -10em;
 }
 
-#scroll-legend a{
+#scroll-legend a {
     padding-left: 16px;
     font-weight: 600;
     color: #bbb;
 }
 
-#scroll-legend a:hover{
+#scroll-legend a:hover {
     border-left: 4px solid $secondary-color;
     padding-left: 12px;
     color: #666;
 }
 
-#scroll-legend a.active{
+#scroll-legend a.active {
     border-left: 4px solid $secondary-color;
     padding-left: 12px;
     color: $secondary-color !important;
     font-weight: 600 !important;
 }
-body{
+
+body {
     overflow-x: hidden !important;
 }
 
-.small-legend{
+.small-legend {
     padding: 0px !important;
 }
-.small-legend a{
+
+.small-legend a {
     font-size: 12px;
     margin-left: 15px !important;
     line-height: 1rem;
@@ -183,37 +210,37 @@ body{
 }
 
 
-#eventi-comitati h3{
+#eventi-comitati h3 {
     font-size: 24px;
     font-weight: 600;
     color: $secondary-color;
 }
 
-#eventi-comitati img{
+#eventi-comitati img {
     object-fit: cover;
     width: 80px;
     height: 80px;
 }
 
-#eventi-comitati .collection-item{
+#eventi-comitati .collection-item {
     min-height: 120px;
 }
 
-#eventi-comitati .primary-content{
+#eventi-comitati .primary-content {
     margin-right: 50px;
 }
 
-#eventi-comitati .primary-content div.date{
+#eventi-comitati .primary-content div.date {
     font-size: 14px;
     font-weight: 600;
 }
 
-#eventi-comitati .primary-content span.title{
+#eventi-comitati .primary-content span.title {
     color: $secondary-color;
 
 }
 
-#eventi-comitati .primary-content .chip.upcoming{
+#eventi-comitati .primary-content .chip.upcoming {
     color: white;
     background-color: $secondary-color;
     font-size: 12px;
@@ -226,15 +253,28 @@ body{
     display: block;
 }
 
-#content-events{
+#content-events {
     opacity: 0;
 }
 
-#preloader{
-    margin-top:5em;
+#preloader {
+    margin-top: 5em;
 }
 
-.spinner-aisf{
+.spinner-aisf {
     @extend .spinner-blue-only;
     border-color: $secondary-color;
+}
+
+#presidenti_LC img {
+    width: 96px;
+    height: 96px;
+}
+
+#presidenti_LC .collection-item.avatar {
+    padding-left: 136px !important;
+}
+
+#presidenti_LC p {
+    padding-left: 0px !important;
 }
