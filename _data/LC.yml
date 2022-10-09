@@ -1,5 +1,5 @@
 - nome: "Bari"
-  #img: "/img/presidenti/bari_corvino.jpg"
+  img: "/img/presidenti/bari_de-palma.jpg"
   mail: "bari"
   presidente: "Gaia de Palma"
   fondazione: "05/2015"
@@ -31,7 +31,7 @@
   congelato: true
 
 - nome: "Firenze"
-  #img: "/img/presidenti/firenze_santoni.jpg"
+  img: "/img/presidenti/firenze_chiti.JPG"
   mail: "firenze"
   presidente: "Francesco Chiti"
   fondazione: "11/2016"
@@ -43,16 +43,17 @@
 - nome: "Genova"
  # img: "/img/presidenti/genova_chioetto.jpg"
   mail: "genova"
-  presidente: "Daniele Chioetto"
+  presidente: ""
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento: "https://drive.google.com/open?id=1p3YS2K5hoVb7LndlXLi_xNlsEOeEBlDj"
   ex: "Daniele Chioetto, Marco Di Stefano, Lorenzo Ferrari Barusso"
   logo: "/img/loghi_LC/genova.jpg"
-  congelato: true
+  congelato : true
+
 
 - nome: "Milano"
- # img: "/img/presidenti/milano_vismara.jpg"
+  img: "/img/presidenti/milano_senatore.jpg"
   mail: "milano"
   presidente: "Gloria Senatore"
   fondazione: "05/2015"
@@ -63,7 +64,7 @@
 
 
 - nome: "Milano Bicocca"
-  #img: "/img/presidenti/milano_bicocca_guerini.jpg"
+  img: "/img/presidenti/milano-bicocca_parpinel.jpg"
   mail: "milano.bicocca"
   presidente: "Andrea Parpinel"
   fondazione: "05/2018"
@@ -94,7 +95,7 @@
   logo: "/img/loghi_LC/padova.jpg"
 
 - nome: "Palermo"
-  #img: "/img/presidenti/palermo_cusimano.png"
+  img: "/img/presidenti/palermo_gerhard-lutz.jpg"
   mail: "palermo"
   presidente: "Andrea	Gherard Lutz"
   fondazione: "04/2019"
@@ -104,7 +105,7 @@
   logo:
 
 - nome: "Pavia"
-  #img: "/img/presidenti/pavia_candido.jpg"
+  img: "/img/presidenti/pavia_righini.png"
   mail: "pavia"
   presidente: "Chiara	Righini"
   fondazione: "11/2016"
@@ -144,6 +145,7 @@
   regolamento:
   ex: "Martina Del Giorno, Kun Zhan"
   logo: "/img/loghi_LC/roma_sapienza.jpg"
+  congelato: true
 
 - nome: "Roma Tor Vergata"
   #img: "/img/presidenti/roma-tor_evangelista.jpg"
@@ -157,7 +159,7 @@
   congelato: true
 
 - nome: "Roma Tre"
-  #img: "/img/presidenti/roma-tre_lucrezia_bianchi.jpg"
+  img: "/img/presidenti/roma-tre_iacomino.jpg"
   mail: "roma.tre"
   presidente: "Cristina	Iacomino"
   fondazione: "04/2019"
@@ -188,7 +190,7 @@
   logo: "/img/loghi_LC/torino.jpg"
 
 - nome: "Trento"
-  #img: "/img/presidenti/trento_morelli.jpg"
+  img: "/img/presidenti/trento_arsenio-lodi.jpg"
   mail: "trento"
   presidente: "Nicola Arsenio	Lodi"
   fondazione: "12/2015"
