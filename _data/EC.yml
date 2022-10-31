@@ -1,8 +1,52 @@
+- anno: "2022-2023"
+  dataCISF: "28 maggio 2022"
+  dataCISFex: "27 Giugno 2021"
+  dataInizio: "28 maggio 2022"
+  dataFine:
+  membri:
+    - nome: "Matteo Vismara"
+      img: "/img/esecutivo/vismara.jpg"
+      ruolo: "Presidente"
+      descr: "Già presidente del Comitato Locale di Milano, Matteo è studente magistrale presso il Dipartimento di Fisica 'Aldo Pontremoli' dell'Università degli Studi di Milano. Caratterizzato da un grande entusiasmo, si butta a capofitto in molti progetti dimenticandosi puntualmente che i suoi giorni hanno solo 24 ore. <br/> È interessato alla fisica della materia e in particolare alle applicazioni che la Fisica ha in ambiti multidisciplinari. <br/> Appassionato di filosofia, ama dedicare del tempo alla lettura dei grandi classici del Pensiero. Nel tempo libero, oltre a dedicarsi ai rapporti con gli amici, cerca il contatto con la natura facendo lunghe passeggiate nel bosco."
+      mail: "federica.dedomenico"
+    - nome: "Stefania Caragnano"
+      img: "/img/esecutivo/caragnano.jpg"
+      ruolo: "Segretario"
+      descr: "Studentessa presso il Dipartimento Interateneo di Fisica di Bari Michelangelo Merlin, sta conducendo un periodo di stage presso l'università di Amburgo con l'ente nazionale di ricerca scientifica sulla fisica nucleare in Germania DESY (Deutsches Elektronen-Synchrotron) ed è in procinto di laurearsi per intraprendere il corso di studi in Fisica della Materia. Amante della chimica, della biologia e della fisica dei laser, adora poter sempre sperimentare nuove esperienze. Le piace molto viaggiare e ha una passione amatoriale per la fotografia, per la quale ha già ricevuto qualche riconoscimento nazionale e internazionale."
+      mail: "stefania.caragnano"
+    - nome: "Francesco Paolo Nerini"
+      img: "/img/esecutivo/nerini.jpg"
+      ruolo: "Tesoriere"
+      descr: "Studente di magistrale del percorso internazionale in Fisica dei Sistemi Complessi al Politecnico di Torino dopo una triennale in Fisica a Bari, ha malauguratamente scelto gli anni di una pandemia globale per muoversi ogni semestre tra le università di Torino, Trieste e Parigi, con interessi accademici verso l'analisi dei dati, l'econofisica e in generale gli ambiti multidisciplinari di applicazione della Fisica. Nel tempo libero, si dedica ad approfondire le sue conoscenze di letteratura, divulgazione scientifica e di una cultura nerd variegata"
+      mail: "francescopaolo.nerini"
+    - nome: "Andrea Lo Sasso"
+      img: "/img/esecutivo/macaluso.png"
+      ruolo: "Responsabile Relazioni con Membri e Comitati Locali"
+      descr: "Studente presso il Dipartimento di Fisica e Chimica Emilio Segrè di Palermo, è in procinto di laurearsi per proseguire i suoi studi in Fisica della Materia. Sperimentale incallito, tende a riempire ogni spazio vuoto della sua agenda. Quando non è in dipartimento ama dedicarsi alla cucina, alle letture di ogni genere e alla musica. E' stato fondatore e primo presidente del Comitato Locale di Palermo."
+      mail: "andrea.losasso"
+    - nome: "Giulio Carotta"
+      img: "/img/esecutivo/carotta.jpg"
+      ruolo: "Responsabile Eventi"
+      descr: "Attualmente iscritto alla laurea magistrale presso l'Università di Pisa, ama smanettare in laboratorio e ha scelto di perseguire il curriculum in Fisica della Materia. <br/> Iscritto ad AISF da matricola è stato poi Presidente del Comitato Locale di Pisa. Fuori dall'università passa molto tempo all'aria aperta, facendo trekking e qualche arrampicata in montagna."
+      mail: "elisa.radaelli"
+    - nome: "Roberto Ciccarelli"
+      img: "/img/esecutivo/ciccarelli.jpg"
+      ruolo: "IT Manager"
+      descr: "Dopo la laurea in Fisica a Trento, prosegue i suoi studi in Fisica Matematica a Torino, con un particolare interesse per la geometria differenziale e la teoria classica dei campi. Ha già ricoperto il ruolo di Presidente del Comitato Locale di Trento."
+      mail: "roberto.ciccarelli"
+    - nome: "Arianna Paparella"
+      img: "/img/esecutivo/paparella.jpg"
+      ruolo: "Vicepresidente e Responsabile Pubbliche Relazioni"
+      descr: "Arianna sta conseguendo la Laurea triennale in Fisica presso il Dipartimento Interateneo dell’Università degli Studi di Bari, con l'intenzione di proseguire il suo percorso nell'ambito dell'elettronica per la Fisica Astroparticellare. Ama definirsi una sperimentale e quando non è in laboratorio si diletta nel disegno tradizionale, nella cucina e nella cura delle piante. È stata membro del Team Social dell'EC e responsabile rubriche del Comitato Locale di Bari."
+      mail: "arianna.paparella"
+
+
+
 - anno: "2021-2022"
   dataCISF: "27 Giugno 2021"
   dataCISFex: "14 Giugno 2020"
   dataInizio: "1 Ottobre 2021"
-  dataFine: 
+  dataFine:
   membri:
     - nome: "Federica De Domenico"
       img: "/img/esecutivo/dedomenico.jpg"
@@ -45,7 +89,7 @@
   dataCISF: "14 Giugno 2020"
   dataCISFex: "9 Marzo 2019"
   dataInizio: "1 Ottobre 2020"
-  dataFine: 
+  dataFine:
   membri:
     - nome: "Federica De Domenico"
       img: "/img/esecutivo/dedomenico.jpg"
@@ -87,7 +131,7 @@
   dataCISF: "9 Marzo 2019"
   dataCISFex: "22 Aprile 2018"
   dataInizio: "1 Ottobre 2019"
-  dataFine: 
+  dataFine:
   membri:
     - nome: "Mattia Ivaldi"
       img: "/img/esecutivo/ivaldi.jpg"
@@ -129,7 +173,7 @@
   dataCISF: "22 Aprile 2018"
   dataCISFex: "13 Maggio 2017"
   dataInizio: "1 ottobre 2018"
-  dataFine: 
+  dataFine:
   membri:
     - nome: "Mattia Ivaldi"
       img: "/img/esecutivo/ivaldi.jpg"
@@ -178,7 +222,7 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
   dataCISF: "13 Maggio 2017"
   dataCISFex: "24 aprile 2016"
   dataInizio: "1 ottobre 2017"
-  dataFine: 
+  dataFine:
   membri:
     - nome: "Valerio Peri"
       img: "/img/esecutivo/valerio.jpg"
@@ -215,7 +259,7 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       ruolo: "Responsabile PR"
       descr: " Appassionato di Fisica delle particelle e analisi dati, Mattia sta svolgendo la tesi di laurea triennale presso l’Università degli Studi di Torino, occupandosi di misure di sezioni d’urto di riferimento nell’esperimento ALICE. Tra i suoi interessi non accademici letteratura, grafica e design, comunicazione e divulgazione.È stato Presidente del Comitato Locale di Torino e ora è Presidente IAPS."
       mail: "mattia.ivaldi"
-  collaboratori:   
+  collaboratori:
     - nome: "Andrea Barresi"
       descr: "Andrea Barresi frequenta attualmente il corso di Laurea Magistrale in Astrofisica e Fisica Teorica all'università di Torino. Da sempre interessato alla fisica astroparticellare, nello specifico alla materia oscura, è un teorico convinto, oltre che nerd a tutto tondo."
       img: /img/esecutivo/barresi.jpg
@@ -228,8 +272,8 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       img: "/img/esecutivo/canteri.jpg"
       descr: "Al momento frequenta il terzo anno di Fisica all'Università degli studi di Trento, appassionato di fisica così come di matematica ed informatica, ancora in cerca del suo campo di specializzazione."
       mail: "marco.canteri"
-       
-  
+
+
 
 - anno: "2016-2017"
   dataCISF: "24 aprile 2016"
@@ -272,7 +316,7 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       ruolo: "Responsabile progetto FERMI"
       descr: "Studente di fisica all'Imperial College di Londra, sta completando il lavoro di tesi su validazione di codici che simulano la dinamica del plasma presso l'École Polytechnique Fédérale de Lausanne. Oltre che di fisica, è appassionato di storia, politica ed economia."
       mail: "lucio.milanese"
-  collaboratori:   
+  collaboratori:
     - nome: "David Chiappini"
       img: "/img/esecutivo/david.jpg"
       descr: "Attualmente al terzo anno di Fisica presso l'Università degli Studi di Torino, ancora speranzoso di ottenere la laurea entro settembre. Accanìto lettore di fantascianza e di saggistica."
@@ -281,5 +325,5 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       img: "/img/esecutivo/canteri.jpg"
       descr: "Al momento frequenta il terzo anno di Fisica all'Università degli studi di Trento, appassionato di fisica così come di matematica ed informatica, ancora in cerca del suo campo di specializzazione."
       mail: "marco.canteri"
-       
- 
+
+

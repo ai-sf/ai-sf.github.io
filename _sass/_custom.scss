@@ -266,15 +266,15 @@ body {
     border-color: $secondary-color;
 }
 
-#presidenti_LC img {
-    width: 96px;
-    height: 96px;
+.collection img {
+    width: 96px !important;
+    height: 96px !important;
 }
 
-#presidenti_LC .collection-item.avatar {
+.collection .collection-item.avatar {
     padding-left: 136px !important;
 }
 
-#presidenti_LC p {
+.collection p {
     padding-left: 0px !important;
 }
