@@ -15,23 +15,23 @@
       url: /eventinazionali/
     - text: Eventi Locali
       url: /eventilocali/
-- text: LOT 2022
-  url: /lot22/
+- text: CISF23
+  url: /cisf23/
 - text: SdR
   url: /sdrthesis/
 - text: Iscriviti
   url: /iscrizione/
-- text: prePLANCKS
-  url: /plancks/
-- text: FERMI
-  url: /fermi/
-# - text: IAPS
-#   url: /iaps/
+#- text: prePLANCKS
+#  url: /plancks/
+#- text: FERMI
+#  url: /fermi/
+ - text: IAPS
+   url: /iaps/
 # - text: ICPS2017
 #  url: http://www.icps2017.it
 #- text: PLANCKS
 #  url: http://ai-sf.it/plancks
-- text: Blog
-  url: /blog/
+#- text: Blog
+#  url: /blog/
 - text: EN
   url: /en/
