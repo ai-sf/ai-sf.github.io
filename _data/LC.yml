@@ -43,13 +43,12 @@
 - nome: "Genova"
  # img: "/img/presidenti/genova_chioetto.jpg"
   mail: "genova"
-  presidente: ""
+  presidente: "Asia Tiby"
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento: "https://drive.google.com/open?id=1p3YS2K5hoVb7LndlXLi_xNlsEOeEBlDj"
   ex: "Daniele Chioetto, Marco Di Stefano, Lorenzo Ferrari Barusso"
   logo: "/img/loghi_LC/genova.jpg"
-  congelato : true
 
 
 - nome: "Milano"
@@ -76,11 +75,11 @@
 - nome: "Napoli"
   #img: "/img/presidenti/napoli_rapisarda.jpg"
   mail: "napoli"
-  presidente: "Alessio Ciro Rapisarda"
+  presidente: ""
   fondazione: "11/2019"
   fb:
   regolamento:
-  ex: "Salvatore Samuele Sirletti"
+  ex: "Alessio Ciro Rapisarda, Salvatore Samuele Sirletti"
   logo:
   congelato: true
 
@@ -115,7 +114,7 @@
   logo: "/img/loghi_LC/pavia.png"
 
 - nome: "Perugia"
- # img: "/img/presidenti/perugia_pascolini.jpg"
+  img: "/img/presidenti/perugia_marzocco.jpg"
   mail: "perugia"
   presidente: "Francesco	Marzocco"
   fondazione: "12/2017"
@@ -139,13 +138,12 @@
 - nome: "Roma Sapienza"
  # img: "/img/presidenti/roma-sapienza_cheri.jpg"
   mail: "roma.sapienza"
-  presidente: "Matteo Cheri"
+  presidente: "Lorenzo Rocchi"
   fondazione: "05/2018"
   fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Sapienza-1369227109880296"
   regolamento:
-  ex: "Martina Del Giorno, Kun Zhan"
+  ex: "Matteo Cheri, Martina Del Giorno, Kun Zhan"
   logo: "/img/loghi_LC/roma_sapienza.jpg"
-  congelato: true
 
 - nome: "Roma Tor Vergata"
   #img: "/img/presidenti/roma-tor_evangelista.jpg"
@@ -180,7 +178,7 @@
   congelato: true
 
 - nome: "Torino"
-  #img: "/img/presidenti/torino_stoian.jpg"
+  img: "/img/presidenti/torino_canterucci.jpeg"
   mail: "torino"
   presidente: "Federico	Canterucci"
   fondazione: "06/2015"
