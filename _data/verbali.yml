@@ -1,3 +1,15 @@
+- anno: 2023/2024
+  verbali:
+  - tipo: Videoconferenze del Comitato Esecutivo
+    riunioni:
+    - data: 20 Apr 2023
+      link: https://drive.google.com/file/d/1DFjuETSN2tj5_SSHWs9-H3N-DNp1Ar0o/view?usp=sharing
+    - data: 04 Mag 2023
+      link: https://drive.google.com/file/d/1Kuxn8WFEQYwU3yQ1ZOzygrmU1bGwudoI/view?usp=sharing
+  - tipo: Videoconferenze con i Comitati Locali
+    riunioni:
+    - data: 29 Apr 2023
+      link: https://drive.google.com/file/d/1lpD_GOrJ7NzkFbhWFpCLktO8ovy05zaq/view?usp=sharing
 - anno: 2022/2023
   verbali:
     - tipo: Assemblea Generale Annuale
@@ -5,7 +17,6 @@
       - dettagli: Verbale e documentazione AGA
         data: 27 Giu 2021
         link: https://drive.google.com/drive/u/0/folders/15Zvc2BXeLw07QCcjVBKYJDIPxJEF0FPl
-  verbali:
     - tipo: Videoconferenze del Comitato Esecutivo
       riunioni:
       - data: 01 Mar 2023
