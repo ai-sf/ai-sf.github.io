@@ -1,14 +1,57 @@
+- anno: "2023-2024"
+  dataCISF: "14 aprile 2023"
+  dataCISFex: "28 maggio 2022"
+  dataInizio: "14 aprile 2023"
+  dataFine:
+  membri:
+    - nome: "Matteo Vismara"
+      img: "/img/esecutivo/vismara.jpg"
+      ruolo: "Presidente"
+      descr: "Già presidente del Comitato Locale di Milano, Matteo è studente magistrale presso il Dipartimento di Fisica Aldo Pontremoli dell'Università degli Studi di Milano. Caratterizzato da un grande entusiasmo, si butta a capofitto in molti progetti dimenticandosi puntualmente che i suoi giorni hanno solo 24 ore. <br/> È interessato alla fisica della materia e in particolare alle applicazioni che la Fisica ha in ambiti multidisciplinari. <br/> Appassionato di filosofia, ama dedicare del tempo alla lettura dei grandi classici del Pensiero. Nel tempo libero, oltre a dedicarsi ai rapporti con gli amici, cerca il contatto con la natura facendo lunghe passeggiate nel bosco."
+      mail: "matteo.vismara"
+    - nome: "Pietro Castronovo"
+      img: "/img/esecutivo/castronovo.jpg"
+      ruolo: "Segretario"
+      descr: "Dottorando presso il Dipartimento di Fisica e Chimica Emilio Segrè di Palermo, si occupa di spettroscopie avanzate per lo studio di processi ultraveloci in nanocompositi. Nel poco tempo che passa fuori dal laboratorio, colleziona e restaura penne stilografiche. E' tra i membri fondatori del Comitato Locale di Palermo, del quale è stato primo segretario."
+      mail: "pietro.castronovo"
+    - nome: "Nicolò Salerno"
+      img: "/img/esecutivo/salerno.jpg"
+      ruolo: "Tesoriere"
+      descr: "Nicolò è laureando magistrale in Fisica presso la Technical University a Monaco di Baviera ma la distanza geografica non gli impedisce di essere coinvolto da vicino nell'Associazione. Nonostante la ricerca nell'ambito dei circuiti quantistici necessiti della maggior parte del suo tempo, Nico si dedica con piacere al teatro e alle arti."
+      mail: "nicolo.salerno"
+    - nome: "Santi Macaluso"
+      img: "/img/esecutivo/macaluso.png"
+      ruolo: "Vicepresidente e Responsabile Relazioni con Membri e Comitati Locali"
+      descr: "Studente presso il Dipartimento di Fisica e Chimica Emilio Segrè di Palermo, è in procinto di laurearsi per proseguire i suoi studi in Fisica della Materia. Sperimentale incallito, tende a riempire ogni spazio vuoto della sua agenda. Quando non è in dipartimento ama dedicarsi alla cucina, alle letture di ogni genere e alla musica. E' stato fondatore e primo presidente del Comitato Locale di Palermo."
+      mail: "santi.macaluso"
+    - nome: "Giulio Carotta"
+      img: "/img/esecutivo/carotta.jpg"
+      ruolo: "Responsabile Eventi"
+      descr: "Attualmente iscritto alla laurea magistrale presso l'Università di Pisa, ama smanettare in laboratorio e ha scelto di perseguire il curriculum in Fisica della Materia. Iscritto ad AISF da matricola è stato poi Presidente del Comitato Locale di Pisa. Fuori dall'università passa molto tempo all'aria aperta, facendo trekking e qualche arrampicata in montagna."
+      mail: "giulio.carotta"
+    - nome: "Andrea Gerhard Lutz"
+      img: "/img/esecutivo/lutz.jpg"
+      ruolo: "IT Manager"
+      descr: "Studente presso l'Università degli Studi di Palermo e già presidente del Comitato Locale, è in rotta verso la laurea per poi proseguire gli studi nell'ambito della Fisica Applicata e Sistemi Complessi. Costantemente motivato dalle nuove esperienze, fuori dal dipartimento è anche musicista, con un diploma di II Livello in Pianoforte. Nelle rare occasioni di pausa, potete trovarlo in piscina o davanti un film d'autore."
+      mail: "andreagerhard.lutz"
+    - nome: "Arianna Paparella"
+      img: "/img/esecutivo/paparella.jpg"
+      ruolo: "PR Manager"
+      descr: "Arianna sta conseguendo la Laurea triennale in Fisica presso il Dipartimento Interateneo dell'Università degli Studi di Bari, con l'intenzione di proseguire il suo percorso nell'ambito dell'elettronica per la Fisica Astroparticellare. Ama definirsi una sperimentale e quando non è in laboratorio si diletta nel disegno tradizionale, nella cucina e nella cura delle piante. È stata membro del Team Social dell'EC e responsabile rubriche del Comitato Locale di Bari."
+      mail: "arianna.paparella"
+
+
 - anno: "2022-2023"
   dataCISF: "28 maggio 2022"
-  dataCISFex: "27 Giugno 2021"
+  dataCISFex: "27 giugno 2021"
   dataInizio: "28 maggio 2022"
   dataFine:
   membri:
     - nome: "Matteo Vismara"
       img: "/img/esecutivo/vismara.jpg"
       ruolo: "Presidente"
-      descr: "Già presidente del Comitato Locale di Milano, Matteo è studente magistrale presso il Dipartimento di Fisica 'Aldo Pontremoli' dell'Università degli Studi di Milano. Caratterizzato da un grande entusiasmo, si butta a capofitto in molti progetti dimenticandosi puntualmente che i suoi giorni hanno solo 24 ore. <br/> È interessato alla fisica della materia e in particolare alle applicazioni che la Fisica ha in ambiti multidisciplinari. <br/> Appassionato di filosofia, ama dedicare del tempo alla lettura dei grandi classici del Pensiero. Nel tempo libero, oltre a dedicarsi ai rapporti con gli amici, cerca il contatto con la natura facendo lunghe passeggiate nel bosco."
-      mail: "federica.dedomenico"
+      descr: "Già presidente del Comitato Locale di Milano, Matteo è studente magistrale presso il Dipartimento di Fisica Aldo Pontremoli dell'Università degli Studi di Milano. Caratterizzato da un grande entusiasmo, si butta a capofitto in molti progetti dimenticandosi puntualmente che i suoi giorni hanno solo 24 ore. <br/> È interessato alla fisica della materia e in particolare alle applicazioni che la Fisica ha in ambiti multidisciplinari. <br/> Appassionato di filosofia, ama dedicare del tempo alla lettura dei grandi classici del Pensiero. Nel tempo libero, oltre a dedicarsi ai rapporti con gli amici, cerca il contatto con la natura facendo lunghe passeggiate nel bosco."
+      mail: "matteo.vismara"
     - nome: "Stefania Caragnano"
       img: "/img/esecutivo/caragnano.jpg"
       ruolo: "Segretario"
@@ -23,12 +66,12 @@
       img: "/img/esecutivo/macaluso.png"
       ruolo: "Responsabile Relazioni con Membri e Comitati Locali"
       descr: "Studente presso il Dipartimento di Fisica e Chimica Emilio Segrè di Palermo, è in procinto di laurearsi per proseguire i suoi studi in Fisica della Materia. Sperimentale incallito, tende a riempire ogni spazio vuoto della sua agenda. Quando non è in dipartimento ama dedicarsi alla cucina, alle letture di ogni genere e alla musica. E' stato fondatore e primo presidente del Comitato Locale di Palermo."
-      mail: "andrea.losasso"
+      mail: "santi.macaluso"
     - nome: "Giulio Carotta"
       img: "/img/esecutivo/carotta.jpg"
       ruolo: "Responsabile Eventi"
-      descr: "Attualmente iscritto alla laurea magistrale presso l'Università di Pisa, ama smanettare in laboratorio e ha scelto di perseguire il curriculum in Fisica della Materia. <br/> Iscritto ad AISF da matricola è stato poi Presidente del Comitato Locale di Pisa. Fuori dall'università passa molto tempo all'aria aperta, facendo trekking e qualche arrampicata in montagna."
-      mail: "elisa.radaelli"
+      descr: "Attualmente iscritto alla laurea magistrale presso l'Università di Pisa, ama smanettare in laboratorio e ha scelto di perseguire il curriculum in Fisica della Materia. Iscritto ad AISF da matricola è stato poi Presidente del Comitato Locale di Pisa. Fuori dall'università passa molto tempo all'aria aperta, facendo trekking e qualche arrampicata in montagna."
+      mail: "giulio.carotta"
     - nome: "Roberto Ciccarelli"
       img: "/img/esecutivo/ciccarelli.jpg"
       ruolo: "IT Manager"
@@ -39,7 +82,6 @@
       ruolo: "Vicepresidente e Responsabile Pubbliche Relazioni"
       descr: "Arianna sta conseguendo la Laurea triennale in Fisica presso il Dipartimento Interateneo dell’Università degli Studi di Bari, con l'intenzione di proseguire il suo percorso nell'ambito dell'elettronica per la Fisica Astroparticellare. Ama definirsi una sperimentale e quando non è in laboratorio si diletta nel disegno tradizionale, nella cucina e nella cura delle piante. È stata membro del Team Social dell'EC e responsabile rubriche del Comitato Locale di Bari."
       mail: "arianna.paparella"
-
 
 
 - anno: "2021-2022"
@@ -127,6 +169,7 @@
       descr: "Dopo essersi laureato a Bologna prosegue gli studi a Firenze, dove studia Fisica della Materia. In particolare, si interessa di gas degeneri e altri sistemi quantistici a bassa energia. Nicolò è anche un accanito ascoltatore di musica, ama cucinare, si diletta con la grafica e si è recentemente appassionato alla divulgazione scientifica."
       mail: "nicolo.antolini"
 
+
 - anno: "2019-2020"
   dataCISF: "9 Marzo 2019"
   dataCISFex: "22 Aprile 2018"
@@ -169,6 +212,7 @@
       descr: "Dopo essersi laureato a Bologna prosegue gli studi a Firenze, dove studia Fisica della Materia. In particolare, si interessa di gas degeneri e altri sistemi quantistici a bassa energia. Nicolò è anche un accanito ascoltatore di musica, ama cucinare, si diletta con la grafica e si è recentemente appassionato alla divulgazione scientifica."
       mail: "nicolo.antolini"
 
+
 - anno: "2018-2019"
   dataCISF: "22 Aprile 2018"
   dataCISFex: "13 Maggio 2017"
@@ -203,8 +247,7 @@
     - nome: "Giovanni Stagnitto"
       img: "/img/esecutivo/stagnitto.jpg"
       ruolo: "IT Manager"
-      descr: "Studente di Dottorato in cotutela tra Milano e Parigi, Giovanni si occupa della teoria delle interazioni forti delle alte energie. Tra un conto sulla lavagna e una
-nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
+      descr: "Studente di Dottorato in cotutela tra Milano e Parigi, Giovanni si occupa della teoria delle interazioni forti delle alte energie. Tra un conto sulla lavagna e una nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       mail: "giovanni.stagnitto"
     - nome: "Alessandra Lorenzo"
       img: "/img/esecutivo/lorenzo.jpg"
@@ -272,7 +315,6 @@ nuotata in piscina, apprezza la buona cucina e la musica italiana d'autore."
       img: "/img/esecutivo/canteri.jpg"
       descr: "Al momento frequenta il terzo anno di Fisica all'Università degli studi di Trento, appassionato di fisica così come di matematica ed informatica, ancora in cerca del suo campo di specializzazione."
       mail: "marco.canteri"
-
 
 
 - anno: "2016-2017"

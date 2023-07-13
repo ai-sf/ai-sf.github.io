@@ -10,7 +10,7 @@ redirect_from:
 
 {% assign n = 0 %}
   {% for item in site.data.LC %}
-    {% unless item.congelato%}
+    {% unless item.congelato or item.commissariato%}
       {% assign n = n | plus: 1 %}
     {% endunless%}
 {% endfor %}
@@ -29,7 +29,7 @@ redirect_from:
 
 <h2>Comitato Esecutivo</h2>
 
-Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali. L'attuale Comitato Esecutivo è stato eletto in data 9 Marzo 2019 e parte in data 14 Giugno 2020. É entrato nel pieno delle sue funzioni in data 1 Ottobre 2020.
+Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali. L'attuale Comitato Esecutivo è stato eletto in data 28 maggio 2022 e parte in data 14 aprile 2023. É entrato nel pieno delle sue funzioni in data 14 aprile 2023.
 
 <a href="/esecutivo/">Qui</a> maggiori informazioni sul Comitato Esecutivo.
 
@@ -37,9 +37,9 @@ Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, a
 
 L'AISF si organizza in Comitati Locali, ciascuno rappresentato da un Presidente. Maggiori informazioni sui Comitati Locali è disponibile <a href="/comitatilocali/">qui</a>.
 
-<h2>Provenienza geografica</h2>
+<!--<h2>Provenienza geografica</h2>
 
-La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">questa pagina</a>.
+La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">questa pagina</a>.-->
 
 <h2>Sede legale</h2>
 

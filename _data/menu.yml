@@ -15,10 +15,10 @@
       url: /eventinazionali/
     - text: Eventi Locali
       url: /eventilocali/
-- text: CISF23
-  url: /cisf23/
-- text: "PLANCKS23"
-  url: https://plancks23.ai-sf.it
+- text: GIPE23
+  url: /gipe23/
+- text: "Sezione Giovani"
+  url: /sg2023/
 - text: SdR
   url: /sdrthesis/
 - text: Iscriviti

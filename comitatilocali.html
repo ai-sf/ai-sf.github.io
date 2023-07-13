@@ -9,7 +9,7 @@ redirect_from:
 {% assign n = 0 %}
 {% assign tot = 0%}
 {% for item in site.data.LC %}
-	{% unless item.congelato %}
+	{% unless item.congelato or item.commissariato %}
 		{% assign n = n | plus: 1 %}
 	{% endunless%}
 	{% assign tot = tot | plus: 1 %}
@@ -19,7 +19,7 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 
 <ul id="presidenti_LC" class="collection">
 	{% for item in site.data.LC %}
-		{% unless item.congelato %}
+		{% unless item.congelato or item.commissariato %}
 			<li class="collection-item avatar" id="{{ item.nome }}">
 				<!-- <div class="tertiary-content">
 					<img src="{{ item.logo }}">
@@ -69,14 +69,36 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 {% unless tot == n %}
 <ul class="collapsible" data-collapsible="accordion">
 	<li>
-		<div class="collapsible-header"><h3>Comitati Locali congelati</h3></div>
+		<div class="collapsible-header"><h3>Comitati Locali Congelati</h3></div>
 		<div class="collapsible-body">
 			<ul class="collection">
 			{% for item in site.data.LC %}
 				{% if item.congelato %}
 					<li class="collection-item" id="{{ item.nome }}">
 						<span>
-							<h4> Comitato Locale	di <b> {{ item.nome }} </b> </h4>
+							<h4> Comitato Locale di <b> {{ item.nome }} </b> </h4>
+							{% if item.ex != nil %}
+							Ex presidenti: {{ item.ex }}
+							{% endif %}
+						</span>
+					</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+	</li>
+</ul>
+<ul class="collapsible" data-collapsible="accordion">
+	<li>
+		<div class="collapsible-header"><h3>Comitati Locali Commissariati</h3></div>
+		<div class="collapsible-body">
+			<ul class="collection">
+			{% for item in site.data.LC %}
+				{% if item.commissariato %}
+					<li class="collection-item" id="{{ item.nome }}">
+						<span>
+							<h4> Comitato Locale di <b> {{ item.nome }} </b> </h4>
+							Referente: {{ item.presidente }} <br>
 							{% if item.ex != nil %}
 							Ex presidenti: {{ item.ex }}
 							{% endif %}
@@ -90,9 +112,9 @@ AISF conta attualmente {{ n }} comitati locali in altrettante università:
 </ul>
 {% endunless %}
 
-<h2>Provenienza geografica</h2>
+<!--<h2>Provenienza geografica</h2>
 
-<a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
+<a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.-->
 
 <h2> Formare un nuovo Comitato Locale </h2>
 
