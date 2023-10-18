@@ -114,7 +114,7 @@
   logo: "/img/loghi_LC/pavia.png"
 
 - nome: "Perugia"
-  #img: "/img/presidenti/perugia_marzocco.jpg"
+  img: "/img/presidenti/perugia_pezzetta.jpeg"
   mail: "perugia"
   presidente: "Riccardo Pezzetta"
   fondazione: "12/2017"
@@ -198,7 +198,7 @@
   logo: "/img/loghi_LC/trento.jpg"
 
 - nome: "Trieste"
-  #img: "/img/presidenti/trieste_chahine.jpg"
+  img: "/img/presidenti/trieste_natale.jpeg"
   mail: "trieste"
   presidente: "Riccardo Natale"
   fondazione: "04/2018"
