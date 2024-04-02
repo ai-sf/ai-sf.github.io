@@ -33,7 +33,7 @@
 - nome: "Firenze"
   img: "/img/presidenti/firenze_chiti.JPG"
   mail: "firenze"
-  presidente: "Francesco Chiti"
+  presidente: "Francesco Chiti Tegli"
   fondazione: "11/2016"
   fb: "https://www.facebook.com/AISFComitatoLocaleFirenze/"
   regolamento: "https://drive.google.com/file/d/0B494AF3MCZKJSS1scjl3aXV6cmc/view?usp=drive_link&resourcekey=0-2WYGu0ayk_HZzbYdFDmK1w"
@@ -47,8 +47,9 @@
   fondazione: "08/2015"
   fb: "https://www.facebook.com/geAISF"
   regolamento: "https://drive.google.com/open?id=1p3YS2K5hoVb7LndlXLi_xNlsEOeEBlDj"
-  ex: "Daniele Chioetto, Marco Di Stefano, Lorenzo Ferrari Barusso"
+  ex: "Asia Tiby, Daniele Chioetto, Marco Di Stefano, Lorenzo Ferrari Barusso"
   logo: "/img/loghi_LC/genova.jpg"
+  congelato: true
 
 
 - nome: "Milano"
