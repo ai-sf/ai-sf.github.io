@@ -11,13 +11,12 @@
 - nome: "Bologna"
   #img: "/img/presidenti/bologna_salvi.jpg"
   mail: "bologna"
-  presidente: ""
+  presidente: "Giulia Provenzale"
   fondazione: "06/2016"
   fb: "https://www.facebook.com/aisflcbologna"
   regolamento: "https://drive.google.com/file/d/0BzGkQdYyAM4qOUxpOEMtbzVYWlU/view?usp=sharing"
   ex: Francesco Salvi, Lorenzo Lasagni, Marco De Vito, Alessandra Lorenzo
   logo: "/img/loghi_LC/bologna.jpg"
-  congelato: true
 
 - nome: "Calabria"
   #img: "/img/presidenti/calabria_derose.jpg"
