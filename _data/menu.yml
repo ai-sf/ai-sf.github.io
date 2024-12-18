@@ -13,8 +13,6 @@
   subitems:
     - text: Eventi Nazionali
       url: /eventinazionali/
-    - text: Eventi Locali
-      url: /eventilocali/
 - text: CISF25
   url: /cisf25/
 - text: TIQIT25
