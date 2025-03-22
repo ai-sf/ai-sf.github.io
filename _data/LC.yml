@@ -9,7 +9,7 @@
   logo: "/img/loghi_LC/bari.jpg"
 
 - nome: "Bologna"
-  #img: "/img/presidenti/bologna_salvi.jpg"
+  img: "/img/presidenti/bologna_provenzale.jpg"
   mail: "bologna"
   presidente: "Giulia Provenzale"
   fondazione: "06/2016"
@@ -73,15 +73,14 @@
   logo: "/img/loghi_LC/milano_bicocca.jpg"
 
 - nome: "Napoli e Caserta"
-  #img: "/img/presidenti/napoli_rapisarda.jpg"
+  img: "/img/presidenti/napoli_vinciguerra.png"
   mail: "napoli"
-  presidente: "Nicola Boerio"
+  presidente: "Bruno Vinciguerra"
   fondazione: "11/2019"
   fb:
   regolamento:
   ex: "Alessio Ciro Rapisarda, Salvatore Samuele Sirletti"
   logo:
-  congelato: true
 
 - nome: "Padova"
   img: "/img/presidenti/padova_benvegnu.jpeg"
