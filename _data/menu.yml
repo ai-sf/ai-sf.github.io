@@ -13,10 +13,10 @@
   subitems:
     - text: Eventi Nazionali
       url: /eventinazionali/
-- text: CISF25
-  url: /cisf25/
-- text: LoT2025
-  url: /lot/
+- text: SIPE25
+  url: /sipe25/
+- text: GIPE25
+  url: /gipe/
 - text: INSIGHT
   url: /insight/
 - text: SdR
