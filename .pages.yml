@@ -1,0 +1,30 @@
+media:
+  - name: Foto Presidenti
+    input: img/presidenti
+    output: /img/presidenti
+
+content:
+  - name: LC
+    path: _data/LC.yml
+    type: file
+    fields:
+      - name: nome
+        type: string
+        required: true
+      - name: img
+        type: image
+      - name: mail
+        type: string
+      - name: presidente
+        type: string
+        required: true
+      - name: fondazione
+        type: string
+      - name: logo
+        type: image
+      - name: regolamento
+        type: string
+      - name: ex
+        type: string
+      - name: fb
+        type: string
