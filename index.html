@@ -50,20 +50,21 @@ layout: default
                     {% for event in array %}
                         {% if event.categories contains "eventonazionale" %}
                             <li href="{{ event.site }}">
-                                <a href="{{ event.site }}">
-                                <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>                               
-				{% if event.textonimage == nihil %}
-				<div class="caption left-align">
-                    		        <h4>
-                                        {{ event.title }}
-                                    </h4>
-                    		        <p class="light grey-text text-lighten-3">
-                                        {{ event.place }},
-                                        <br>
-                                        {{ event.startingdate | date: '%b %Y' }}  
-                                    </p>
-                    		</div>
-				{% endif %}
+                              <a href="{{ event.site }}">
+                                <img src="{{ event.cover }}" alt="{{ event.title }}" style="background-size: contain; background-repeat: no-repeat; background-color: white;" />
+                                {% if event.textonimage == nihil %}
+                                <div class="caption left-align" style="background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 10px;">
+                                  <h4>
+                                    {{ event.title }}
+                                  </h4>
+                                  <p class="light grey-text text-lighten-3">
+                                    {{ event.place }},
+                                    <br>
+                                    {{ event.startingdate | date: '%b %Y' }}  
+                                  </p>
+                                </div>
+                                {% endif %}
+                              </a>
                             </li>
                             {% assign loopindex = loopindex | plus: 1%}
                         {% endif %}
