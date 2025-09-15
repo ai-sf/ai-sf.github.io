@@ -39,7 +39,7 @@
   #logo: "/img/loghi_LC/ferrara.png"
 
 - nome: "Firenze"
-  img: "/img/presidenti/firenze_abati.JPG"
+  img: "/img/presidenti/firenze_abati.jpg"
   mail: "firenze"
   presidente: "Elena Abati"
   fondazione: "11/2016"
@@ -72,7 +72,7 @@
 
 
 - nome: "Milano Bicocca"
-  img: "/img/presidenti/milano-bicocca_sparaneo.jpeg"
+  img: "/img/presidenti/milano-bicocca_sparaneo.jpg"
   mail: "milano.bicocca"
   presidente: "Lorenzo Sparaneo"
   fondazione: "05/2018"
@@ -92,7 +92,7 @@
   logo:
 
 - nome: "Padova"
-  img: "/img/presidenti/padova_andreacchio.jpeg"
+  img: "/img/presidenti/padova_andreacchio.jpg"
   mail: "padova"
   presidente: "Pasquale Andreacchio"
   fondazione: "05/2016"
