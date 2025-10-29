@@ -13,12 +13,10 @@
   subitems:
     - text: Eventi Nazionali
       url: /eventinazionali/
-- text: SIPE25
-  url: /sipe25/
-- text: GIPE25
-  url: /gipe/
-- text: SG2025
-  url: /sg2025/
+- text: Qiskit Fall Fest
+  url: https://qiskitfallfest.k1nd4sus.it/
+- text: CISF26
+  url: /cisf26
 - text: SdR
   url: /sdrthesis/
 - text: Iscriviti
