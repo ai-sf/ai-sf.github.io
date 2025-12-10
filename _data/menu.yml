@@ -13,8 +13,8 @@
   subitems:
     - text: Eventi Nazionali
       url: /eventinazionali/
-- text: Qiskit Fall Fest
-  url: https://qiskitfallfest.k1nd4sus.it/
+- text: TIQIT
+  url: /tiqit/
 - text: CISF26
   url: /cisf26
 - text: SdR
@@ -27,8 +27,6 @@
 #  url: /fermi/
 - text: IAPS
   url: /iaps/
-# - text: ICPS2017
-#  url: http://www.icps2017.it
 #- text: PLANCKS
 #  url: http://ai-sf.it/plancks
 #- text: Blog
