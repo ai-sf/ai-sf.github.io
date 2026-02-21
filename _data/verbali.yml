@@ -1,3 +1,26 @@
+- anno: 2025/2026
+  verbali:
+  - tipo: Videoconferenze del Comitato Esecutivo
+    riunioni:
+    - data: 09 Set 2025
+      link: https://drive.google.com/file/d/1UdYpcZqROQ04LtOPE4ikv4Z5H-KOwHOW/view?usp=sharing
+    - data: 14 Ott 2025
+      link: https://drive.google.com/file/d/1XVHwICCDa2ZP7ea4YaPx6Td0jtAkU0ct/view?usp=sharing
+    - data: 05 Nov 2025
+      link: https://drive.google.com/file/d/1KQfKtlL0YKmuCsPashHSlOYZUhYr34Pm/view?usp=sharing
+    - data: 16 Nov 2025
+      link: https://drive.google.com/file/d/1_YNhR5JY-hTIZcQSuT1vnYs4Cjz5r0Ls/view?usp=sharing
+    - data: 18 Nov 2025
+      link: https://drive.google.com/file/d/1xexEGdUQgAYO-lA9lSqdEzp56qYmBAaE/view?usp=sharing
+    - data: 23 Dic 2025
+      link: https://drive.google.com/file/d/1pm2w0JGQtx09qmPinOFImX8tTkDz6owG/view?usp=sharing
+    - data: 29 Gen 2026
+      link: https://drive.google.com/file/d/1W-6AzJXk-IE-VCKk4CSgQW5cQdFespoI/view?usp=sharing
+  - tipo: Videoconferenze con i Comitati Locali
+    riunioni:
+    - data: 29 Nov 2025
+      link: https://drive.google.com/file/d/1Yvd3VH0-NPPpqOOIDRddlhHLteBd3JOS/view?usp=sharing
+
 - anno: 2024/2025
   verbali:
   - tipo: Assemblea Generale Annuale
@@ -42,18 +65,6 @@
       link: https://drive.google.com/file/d/1GPc6KJtGcYeh05k31QgjyDh3G69prlM3/view?usp=sharing
     - data: 09 Ago 2025
       link: https://google.com
-    - data: 09 Set 2025
-      link: https://drive.google.com/file/d/1UdYpcZqROQ04LtOPE4ikv4Z5H-KOwHOW/view?usp=sharing
-    - data: 14 Ott 2025
-      link: https://drive.google.com/file/d/1XVHwICCDa2ZP7ea4YaPx6Td0jtAkU0ct/view?usp=sharing
-    - data: 05 Nov 2025
-      link: https://drive.google.com/file/d/1KQfKtlL0YKmuCsPashHSlOYZUhYr34Pm/view?usp=sharing
-    - data: 16 Nov 2025
-      link: https://drive.google.com/file/d/1_YNhR5JY-hTIZcQSuT1vnYs4Cjz5r0Ls/view?usp=sharing
-    - data: 18 Nov 2025
-      link: https://drive.google.com/file/d/1xexEGdUQgAYO-lA9lSqdEzp56qYmBAaE/view?usp=sharing
-    - data: 23 DIc 2025
-      link: https://drive.google.com/file/d/1pm2w0JGQtx09qmPinOFImX8tTkDz6owG/view?usp=sharing
   - tipo: Videoconferenze con i Comitati Locali
     riunioni:
     - data: 28 Set 2024
@@ -64,8 +75,6 @@
       link: https://drive.google.com/file/d/1pGvMFjMDZuOuRlIsFtnx4EUsjPdQoj1o/view?usp=sharing
     - data: 12 Apr 2025
       link: https://drive.google.com/file/d/1V9QkVQbw9_WMVwTatp_ihSNC2sw7qU81/view?usp=sharing
-    - data: 29 Nov 2025
-      link: https://drive.google.com/file/d/1Yvd3VH0-NPPpqOOIDRddlhHLteBd3JOS/view?usp=sharing
 
 - anno: 2023/2024
   verbali:
