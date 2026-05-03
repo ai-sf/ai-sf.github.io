@@ -22,10 +22,8 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 
 {% include documenti_ufficiali.html documenti=site.data.documenti anno="statfond" %}
 
-{% comment %}
-  Calcolo dell'anno più recente presente nei documenti per la sezione Regolamenti
-{% endcomment %}
-{% assign all_years = site.data.documenti | map: "anno" | sort | reverse %}
+{% assign documenti_annuali = site.data.documenti | where_exp: "item", "item.anno != 'statfond'" %}
+{% assign all_years = documenti_annuali | map: "anno" | sort | reverse %}
 {% assign latest_year = all_years[0] %}
 
 <h2> Regolamenti </h2>
