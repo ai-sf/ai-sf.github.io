@@ -4,6 +4,8 @@
   subitems:
     - text: Comitato Esecutivo
       url: /esecutivo/
+    - text: Working Groups
+      url: /working-groups/
     - text: Comitati Locali
       url: /comitatilocali/
     - text: Documenti
